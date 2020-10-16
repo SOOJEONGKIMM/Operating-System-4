@@ -7,7 +7,7 @@
 #include <wait.h>
 #include <pthread.h>
 #define MAX 100000000000
-int item_to_produce, curr_buf_size, consume_buf_size;
+int item_to_produce, curr_buf_size;
 int total_items, max_buf_size, num_workers, num_masters;
 pthread_mutex_t mutex = PTHREAD_MUTEX_INITIALIZER;
 //pthread_mutex_t mutex2 = PTHREAD_MUTEX_INITIALIZER;
@@ -42,14 +42,12 @@ void *generate_requests_loop(void *data)
       //printf("producer got lock\n");
      
       if(item_to_produce >= total_items) {//overflow
-     //  printf("wherr\n");
         pthread_mutex_unlock(&mutex);
 	     break;
       }
    
       while(curr_buf_size==max_buf_size){
-        consume_buf_size=curr_buf_size;
-      //  printf("wait! maxbuf: %d\n",consume_buf_size);
+      //  printf("wait! maxbuf\n");
         pthread_cond_wait(&cond_pro, &mutex);
      //   printf("produce: wake--\n");
       }
@@ -62,7 +60,7 @@ void *generate_requests_loop(void *data)
       pthread_mutex_unlock(&mutex);
 
     }
- //    printf("producer ends\n"); fflush(stdout);
+ //    printf("producer ends\n"); 
 
   return 0;
 }
@@ -70,40 +68,33 @@ void *generate_requests_loop(void *data)
 void *generate_workers_loop(void *data)//consumer
 {
   int thread_id = *((int *)data);
-  int overflowflag=0;
  for(int i=1;i<=MAX;i++)
   {
       pthread_mutex_lock(&mutex);
    //   printf("consumer got lock\n");
-   //  printf("item:%d. buf:%d\n",item_to_produce,curr_buf_size);
-  // printf(" ");
-  // fflush(stdout);
+   
        if(item_to_produce >= total_items) {//overflow
-      // printf("consumer enough\n");fflush(stdout);
         pthread_mutex_unlock(&mutex);
 	     break;
       }
       if(curr_buf_size<0){//overflow  
-    //  printf("currsize <0\n");
       pthread_mutex_unlock(&mutex);fflush(stdout);
         break;
       }
     while(curr_buf_size == 0){
  //     printf("consume:wait! empty\n");
        pthread_cond_wait(&cond_con, &mutex);
-  //    printf("consume:wake--.\n");fflush(stdout);
+  //    printf("consume:wake--.\n");
     }
     
      --curr_buf_size;
     print_consumed(buffer[curr_buf_size], thread_id);
- //  printf("conbuf:%d\n",curr_buf_size);
    
    pthread_cond_signal(&cond_pro);
     pthread_mutex_unlock(&mutex);
     
   }
- // printf("consumer ends\n"); fflush(stdout);
-  //pthread_exit(0);
+ // printf("consumer ends\n");
   return 0;
 }
 //write function to be run by worker threads
@@ -111,7 +102,8 @@ void *generate_workers_loop(void *data)//consumer
 
 int main(int argc, char *argv[])
 {
- // pthread_cond_init(cond, NULL);
+  pthread_cond_init(&cond_pro, NULL);
+  pthread_cond_init(&cond_con, NULL);
   pthread_mutex_init(&mutex, NULL);
 
   int *master_thread_id;
