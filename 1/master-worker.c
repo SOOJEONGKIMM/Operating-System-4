@@ -39,21 +39,20 @@ void *generate_requests_loop(void *data)
   for(int i=1;i<=MAX;i++)
     {
       pthread_mutex_lock(&mutex);
-      printf("producer got lock\n");
+      //printf("producer got lock\n");
      
       if(item_to_produce >= total_items) {//overflow
-       printf("wherr\n");
+     //  printf("wherr\n");
         pthread_mutex_unlock(&mutex);
 	     break;
       }
    
       while(curr_buf_size==max_buf_size){
         consume_buf_size=curr_buf_size;
-        printf("wait! maxbuf: %d\n",consume_buf_size);
+      //  printf("wait! maxbuf: %d\n",consume_buf_size);
         pthread_cond_wait(&cond_pro, &mutex);
-        printf("produce: wake--\n");
+     //   printf("produce: wake--\n");
       }
-       //  pthread_cond_wait(&cond1, &mutex1);
       buffer[curr_buf_size++] = item_to_produce;
       print_produced(item_to_produce, thread_id);
       item_to_produce++;
@@ -63,9 +62,8 @@ void *generate_requests_loop(void *data)
       pthread_mutex_unlock(&mutex);
 
     }
-  
-     printf("producer ends\n"); fflush(stdout);
-    //   pthread_exit(0);
+ //    printf("producer ends\n"); fflush(stdout);
+
   return 0;
 }
 
@@ -78,8 +76,8 @@ void *generate_workers_loop(void *data)//consumer
       pthread_mutex_lock(&mutex);
    //   printf("consumer got lock\n");
    //  printf("item:%d. buf:%d\n",item_to_produce,curr_buf_size);
-   printf(" ");
-   fflush(stdout);
+  // printf(" ");
+  // fflush(stdout);
        if(item_to_produce >= total_items) {//overflow
       // printf("consumer enough\n");fflush(stdout);
         pthread_mutex_unlock(&mutex);
@@ -91,20 +89,20 @@ void *generate_workers_loop(void *data)//consumer
         break;
       }
     while(curr_buf_size == 0){
-      printf("consume:wait! empty\n");
+ //     printf("consume:wait! empty\n");
        pthread_cond_wait(&cond_con, &mutex);
-      printf("consume:wake--.\n");fflush(stdout);
+  //    printf("consume:wake--.\n");fflush(stdout);
     }
     
      --curr_buf_size;
     print_consumed(buffer[curr_buf_size], thread_id);
-   printf("conbuf:%d\n",curr_buf_size);
+ //  printf("conbuf:%d\n",curr_buf_size);
    
    pthread_cond_signal(&cond_pro);
     pthread_mutex_unlock(&mutex);
     
   }
-  printf("consumer ends\n"); fflush(stdout);
+ // printf("consumer ends\n"); fflush(stdout);
   //pthread_exit(0);
   return 0;
 }
