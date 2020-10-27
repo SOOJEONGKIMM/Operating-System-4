@@ -17,18 +17,20 @@ BEGIN {
 
 END {
 	count=0;
+
 	for (i = 0; i < MAX; i++) {
 		if (prod[i] == 1 && cons[i] == 1) {
 			count++;
 		}
 		else {
-#			printf("%d\t%d\t%d\n", i, prod[i], cons[i]);	
+			printf("%d\t%d\t%d\n", i, prod[i], cons[i]);	
 		}
 	}
 	if (count == MAX) {
 		printf("OK. All test cases passed!\n");
 	}
 	else {
+#printf("count:%d, MAX:%d\n",count,MAX);
 		printf("Please check your code. %d/%d test cases failed!\n", MAX - count, MAX);
 	}
 }
