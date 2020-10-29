@@ -36,26 +36,24 @@ int thread_id = *((int *)data);
 //curr_buf_size=0;
 int check=0;
       pthread_mutex_lock(&mutex1);
-                  printf("producer got lock\n");  
+        //          printf("producer got lock\n");  
 for(int i=1;i<=MAX;i++)
   {          
 
     while(curr_buf_size==max_buf_size){
-      printf("wait! maxbuf\n");
+    //  printf("wait! maxbuf\n");
       pthread_cond_wait(&cond_pro, &mutex1);
 
-      printf("produce: wake--\n");
+    //  printf("produce: wake--\n");
       }
       
    if(item_to_produce >= total_items ) {//overflow
-   printf("pro: to produce:%d >= total:%d\n",item_to_produce,total_items);
       pthread_mutex_unlock(&mutex1);
     break;
     }
    
       buffer[curr_buf_size++] = item_to_produce;
       print_produced(item_to_produce, thread_id);
-       printf("prod buf[%d]:%d\n",curr_buf_size,buffer[curr_buf_size]);
       item_to_produce++;
       
 
@@ -75,7 +73,7 @@ void *generate_workers_loop(void *data)//consumer
 int thread_id = *((int *)data);
 int check=0;
   pthread_mutex_lock(&mutex2);
-        printf("consumer got lock\n");
+      //  printf("consumer got lock\n");
 for(int i=1;i<=MAX;i++)
 {     
 
@@ -83,15 +81,8 @@ for(int i=1;i<=MAX;i++)
     if(curr_buf_size>0){//finish conumse leftovers 
       --curr_buf_size;
   print_consumed(buffer[curr_buf_size], thread_id);
-  printf("cons buf[%d]:%d\n",curr_buf_size,buffer[curr_buf_size]);
   buffer[curr_buf_size]=-1;
     }
-    /*  else if(curr_buf_size==tmp_workers-1){//finish conumse leftovers 
-      printf("con overflow. tmp wor:%d\n",tmp_workers);
-        pthread_mutex_unlock(&mutex2);
-        tmp_workers--;
-    break;
-      }*/
     if(curr_buf_size<=0){
       pthread_mutex_unlock(&mutex2);
     break;
@@ -102,13 +93,11 @@ for(int i=1;i<=MAX;i++)
       break;
     }
   while(curr_buf_size == 0){
-    printf("consume:wait! empty\n");
+ //   printf("consume:wait! empty\n");
     pthread_cond_wait(&cond_con, &mutex2);
    
-    printf("consume:wake--.\n");
-    printf("zai con currbuf:%d  buf:%d\n",curr_buf_size,buffer[curr_buf_size]);
-    if(curr_buf_size==0){// && buffer[curr_buf_size]!=-1)
-    printf("buf==0 breaks\n");
+ //   printf("consume:wake--.\n");
+   if(curr_buf_size==0){//bug fix
      break;
     }
   }
@@ -118,10 +107,8 @@ for(int i=1;i<=MAX;i++)
      }
   --curr_buf_size;
   print_consumed(buffer[curr_buf_size], thread_id);
-  printf("cons buf[%d]:%d\n",curr_buf_size,buffer[curr_buf_size]);
   buffer[curr_buf_size]=-1;
-printf("con: to produce:%d >= total:%d\n",item_to_produce,total_items);
- 
+
 pthread_cond_broadcast(&cond_pro);
 
   pthread_mutex_unlock(&mutex2);
