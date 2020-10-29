@@ -33,7 +33,7 @@ printf("Consumed %d by worker %d\n", num, worker);
 void *generate_requests_loop(void *data)//producer
 {
 int thread_id = *((int *)data);
-//curr_buf_size=0;
+curr_buf_size=0;
 int check=0;
       pthread_mutex_lock(&mutex1);
                   printf("producer got lock\n");  
@@ -44,7 +44,7 @@ for(int i=1;i<=MAX;i++)
       printf("wait! maxbuf\n");
       //printf("zai pro currbuf:%d\n",curr_buf_size);
 
-   /*   if(num_masters!=1 && check==1){
+      if(num_masters!=1 && check==1){
         printf("pro waits from now\n");
         pthread_cond_wait(&cond_pro, &mutex1);
       }
@@ -54,7 +54,7 @@ for(int i=1;i<=MAX;i++)
           printf("check_pro waits from now\n");
           pthread_cond_wait(&cond_pro, &mutex1);
       }
-        if(buffer[curr_buf_size]!=-1)*/
+        if(buffer[curr_buf_size]!=-1)
          pthread_cond_wait(&cond_pro, &mutex1);
 
       printf("produce: wake--\n");
@@ -70,8 +70,8 @@ for(int i=1;i<=MAX;i++)
       item_to_produce++;
     
 
-  //if(num_masters!=1)
-    pthread_cond_broadcast(&cond_con);
+  if(num_masters!=1)
+    pthread_cond_signal(&cond_con);
 
     pthread_mutex_unlock(&mutex1);
 
@@ -111,31 +111,26 @@ for(int i=1;i<=MAX;i++)
   while(curr_buf_size == 0){
     printf("consume:wait! empty\n");
     
- /* if(num_masters!=1 && check==1){
+  if(num_masters!=1 && check==1){
     printf("consumer waits from now\n");
     pthread_cond_wait(&cond_con, &mutex2);
   } 
     if(!check){
       check=1;
-      printf("check_consumer waits from now\n");*/
+      printf("check_consumer waits from now\n");
         pthread_cond_wait(&cond_con, &mutex2);
-  //}
+  }
   
     printf("consume:wake--.\n");
-    printf("zai con currbuf:%d  buf:%d\n",curr_buf_size,buffer[curr_buf_size]);
-    if(curr_buf_size==0)// && buffer[curr_buf_size]!=-1)
-     break;
+    printf("zai con currbuf:%d\n",curr_buf_size);
   }
-  if(curr_buf_size==0 && buffer[curr_buf_size]==-1){
-       pthread_mutex_unlock(&mutex2);
-      break;
-     }
+  
   --curr_buf_size;
   print_consumed(buffer[curr_buf_size], thread_id);
   buffer[curr_buf_size]=-1;
 
-//if(num_masters!=1)
-pthread_cond_broadcast(&cond_pro);
+if(num_masters!=1)
+pthread_cond_signal(&cond_pro);
 
   pthread_mutex_unlock(&mutex2);
   
