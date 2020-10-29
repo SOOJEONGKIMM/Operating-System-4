@@ -1,1349 +1,3271 @@
-producer got lock
-Produced 0 by master 6
-Produced 1 by master 6
-Produced 2 by master 6
-Produced 3 by master 6
-Produced 4 by master 6
-Produced 5 by master 6
-Produced 6 by master 6
-Produced 7 by master 6
-Produced 8 by master 6
-Produced 9 by master 6
-Produced 10 by master 6
-Produced 11 by master 6
-Produced 12 by master 6
-Produced 13 by master 6
-Produced 14 by master 6
-Produced 15 by master 6
-Produced 16 by master 6
-Produced 17 by master 6
-Produced 18 by master 6
-Produced 19 by master 6
-Produced 20 by master 6
-Produced 21 by master 6
-Produced 22 by master 6
-Produced 23 by master 6
-Produced 24 by master 6
-Produced 25 by master 6
-Produced 26 by master 6
-Produced 27 by master 6
-Produced 28 by master 6
-Produced 29 by master 6
-Produced 30 by master 6
-Produced 31 by master 6
-Produced 32 by master 6
-Produced 33 by master 6
-Produced 34 by master 6
-Produced 35 by master 6
-Produced 36 by master 6
-Produced 37 by master 6
-Produced 38 by master 6
-Produced 39 by master 6
-Produced 40 by master 6
-Produced 41 by master 6
-Produced 42 by master 6
-Produced 43 by master 6
-Produced 44 by master 6
-Produced 45 by master 6
-Produced 46 by master 6
-Produced 47 by master 6
-Produced 48 by master 6
-Produced 49 by master 6
-Produced 50 by master 6
-Produced 51 by master 6
-Produced 52 by master 6
-Produced 53 by master 6
-Produced 54 by master 6
-Produced 55 by master 6
-Produced 56 by master 6
-Produced 57 by master 6
-Produced 58 by master 6
-Produced 59 by master 6
-Produced 60 by master 6
-Produced 61 by master 6
-Produced 62 by master 6
-Produced 63 by master 6
-Produced 64 by master 6
-Produced 65 by master 6
-Produced 66 by master 6
-Produced 67 by master 6
-Produced 68 by master 6
-Produced 69 by master 6
-Produced 70 by master 6
-Produced 71 by master 6
-Produced 72 by master 6
-Produced 73 by master 6
-Produced 74 by master 6
-Produced 75 by master 6
-Produced 76 by master 6
-Produced 77 by master 6
-Produced 78 by master 6
-Produced 79 by master 6
-Produced 80 by master 6
-Produced 81 by master 6
-Produced 82 by master 6
-Produced 83 by master 6
-Produced 84 by master 6
-Produced 85 by master 6
-Produced 86 by master 6
-Produced 87 by master 6
-Produced 88 by master 6
-Produced 89 by master 6
-Produced 90 by master 6
-Produced 91 by master 6
-Produced 92 by master 6
-Produced 93 by master 6
-Produced 94 by master 6
-Produced 95 by master 6
-Produced 96 by master 6
-Produced 97 by master 6
-Produced 98 by master 6
-Produced 99 by master 6
-wait! maxbuf
 consumer got lock
-Consumed 99 by worker 0
-Consumed 98 by worker 0
-Consumed 97 by worker 0
-Consumed 96 by worker 0
-Consumed 95 by worker 0
-Consumed 94 by worker 0
-Consumed 93 by worker 0
-Consumed 92 by worker 0
-Consumed 91 by worker 0
-Consumed 90 by worker 0
-Consumed 89 by worker 0
-Consumed 88 by worker 0
-Consumed 87 by worker 0
-Consumed 86 by worker 0
-Consumed 85 by worker 0
-Consumed 84 by worker 0
-Consumed 83 by worker 0
-Consumed 82 by worker 0
-Consumed 81 by worker 0
-Consumed 80 by worker 0
-Consumed 79 by worker 0
-Consumed 78 by worker 0
-Consumed 77 by worker 0
-Consumed 76 by worker 0
-Consumed 75 by worker 0
-Consumed 74 by worker 0
-Consumed 73 by worker 0
-Consumed 72 by worker 0
-Consumed 71 by worker 0
-Consumed 70 by worker 0
-Consumed 69 by worker 0
-Consumed 68 by worker 0
-Consumed 67 by worker 0
-Consumed 66 by worker 0
-Consumed 65 by worker 0
-Consumed 64 by worker 0
-Consumed 63 by worker 0
-Consumed 62 by worker 0
-Consumed 61 by worker 0
-Consumed 60 by worker 0
-Consumed 59 by worker 0
-Consumed 58 by worker 0
-Consumed 57 by worker 0
-Consumed 56 by worker 0
-Consumed 55 by worker 0
-Consumed 54 by worker 0
-Consumed 53 by worker 0
-Consumed 52 by worker 0
-Consumed 51 by worker 0
-Consumed 50 by worker 0
-Consumed 49 by worker 0
-Consumed 48 by worker 0
-Consumed 47 by worker 0
-Consumed 46 by worker 0
-Consumed 45 by worker 0
-Consumed 44 by worker 0
-Consumed 43 by worker 0
-Consumed 42 by worker 0
-Consumed 41 by worker 0
-Consumed 40 by worker 0
-Consumed 39 by worker 0
-Consumed 38 by worker 0
-Consumed 37 by worker 0
-Consumed 36 by worker 0
-Consumed 35 by worker 0
-Consumed 34 by worker 0
-Consumed 33 by worker 0
-Consumed 32 by worker 0
-Consumed 31 by worker 0
-Consumed 30 by worker 0
-Consumed 29 by worker 0
-Consumed 28 by worker 0
-Consumed 27 by worker 0
-Consumed 26 by worker 0
-Consumed 25 by worker 0
-Consumed 24 by worker 0
-Consumed 23 by worker 0
-Consumed 22 by worker 0
-Consumed 21 by worker 0
-Consumed 20 by worker 0
-Consumed 19 by worker 0
-Consumed 18 by worker 0
-Consumed 17 by worker 0
-Consumed 16 by worker 0
-Consumed 15 by worker 0
-Consumed 14 by worker 0
-Consumed 13 by worker 0
-Consumed 12 by worker 0
-Consumed 11 by worker 0
-Consumed 10 by worker 0
-Consumed 9 by worker 0
-Consumed 8 by worker 0
-Consumed 7 by worker 0
-Consumed 6 by worker 0
-Consumed 5 by worker 0
-Consumed 4 by worker 0
-Consumed 3 by worker 0
-Consumed 2 by worker 0
-Consumed 1 by worker 0
-Consumed 0 by worker 0
+consume:wait! empty
+consumer got lock
+consume:wait! empty
+consumer got lock
+consume:wait! empty
+consumer got lock
 consume:wait! empty
 producer got lock
-Produced 100 by master 5
-Produced 101 by master 5
-Produced 102 by master 5
-Produced 103 by master 5
-Produced 104 by master 5
-Produced 105 by master 5
-Produced 106 by master 5
-Produced 107 by master 5
-Produced 108 by master 5
-Produced 109 by master 5
-Produced 110 by master 5
-Produced 111 by master 5
-Produced 112 by master 5
-Produced 113 by master 5
-Produced 114 by master 5
-Produced 115 by master 5
-Produced 116 by master 5
-Produced 117 by master 5
-Produced 118 by master 5
-Produced 119 by master 5
-Produced 120 by master 5
-Produced 121 by master 5
-Produced 122 by master 5
-Produced 123 by master 5
-Produced 124 by master 5
-Produced 125 by master 5
-Produced 126 by master 5
-Produced 127 by master 5
-Produced 128 by master 5
-Produced 129 by master 5
-Produced 130 by master 5
-Produced 131 by master 5
-Produced 132 by master 5
-Produced 133 by master 5
-Produced 134 by master 5
-Produced 135 by master 5
-Produced 136 by master 5
-Produced 137 by master 5
-Produced 138 by master 5
-Produced 139 by master 5
-Produced 140 by master 5
-Produced 141 by master 5
-Produced 142 by master 5
-Produced 143 by master 5
-Produced 144 by master 5
-Produced 145 by master 5
-Produced 146 by master 5
-Produced 147 by master 5
-Produced 148 by master 5
-Produced 149 by master 5
-Produced 150 by master 5
-Produced 151 by master 5
-Produced 152 by master 5
-Produced 153 by master 5
-Produced 154 by master 5
-Produced 155 by master 5
-Produced 156 by master 5
-Produced 157 by master 5
-Produced 158 by master 5
-Produced 159 by master 5
-Produced 160 by master 5
-Produced 161 by master 5
-Produced 162 by master 5
-Produced 163 by master 5
-Produced 164 by master 5
-Produced 165 by master 5
-Produced 166 by master 5
-Produced 167 by master 5
-Produced 168 by master 5
-Produced 169 by master 5
-Produced 170 by master 5
-Produced 171 by master 5
-Produced 172 by master 5
-Produced 173 by master 5
-Produced 174 by master 5
-Produced 175 by master 5
-Produced 176 by master 5
-Produced 177 by master 5
-Produced 178 by master 5
-Produced 179 by master 5
-Produced 180 by master 5
-Produced 181 by master 5
-Produced 182 by master 5
-Produced 183 by master 5
-Produced 184 by master 5
-Produced 185 by master 5
-Produced 186 by master 5
-Produced 187 by master 5
-Produced 188 by master 5
-Produced 189 by master 5
-Produced 190 by master 5
-Produced 191 by master 5
-Produced 192 by master 5
-Produced 193 by master 5
-Produced 194 by master 5
-Produced 195 by master 5
-Produced 196 by master 5
-Produced 197 by master 5
-Produced 198 by master 5
-Produced 199 by master 5
+Produced 0 by master 5
+prod buf[1]:0
+Produced 1 by master 5
+prod buf[2]:0
+Produced 2 by master 5
+prod buf[3]:0
+Produced 3 by master 5
+prod buf[4]:0
+Produced 4 by master 5
+prod buf[5]:0
+Produced 5 by master 5
+prod buf[6]:0
+Produced 6 by master 5
+prod buf[7]:0
+Produced 7 by master 5
+prod buf[8]:0
+Produced 8 by master 5
+prod buf[9]:0
+Produced 9 by master 5
+prod buf[10]:0
+Produced 10 by master 5
+prod buf[11]:0
+Produced 11 by master 5
+prod buf[12]:0
+Produced 12 by master 5
+prod buf[13]:0
+Produced 13 by master 5
+prod buf[14]:0
+Produced 14 by master 5
+prod buf[15]:0
+Produced 15 by master 5
+prod buf[16]:0
+Produced 16 by master 5
+prod buf[17]:0
+Produced 17 by master 5
+prod buf[18]:0
+Produced 18 by master 5
+prod buf[19]:0
+Produced 19 by master 5
+prod buf[20]:0
+Produced 20 by master 5
+prod buf[21]:0
+Produced 21 by master 5
+prod buf[22]:0
+Produced 22 by master 5
+prod buf[23]:0
+Produced 23 by master 5
+prod buf[24]:0
+Produced 24 by master 5
+prod buf[25]:0
+Produced 25 by master 5
+prod buf[26]:0
+Produced 26 by master 5
+prod buf[27]:0
+Produced 27 by master 5
+prod buf[28]:0
+Produced 28 by master 5
+prod buf[29]:0
+Produced 29 by master 5
+prod buf[30]:0
+Produced 30 by master 5
+prod buf[31]:0
+Produced 31 by master 5
+prod buf[32]:0
+Produced 32 by master 5
+prod buf[33]:0
+Produced 33 by master 5
+prod buf[34]:0
+Produced 34 by master 5
+prod buf[35]:0
+Produced 35 by master 5
+prod buf[36]:0
+Produced 36 by master 5
+prod buf[37]:0
+Produced 37 by master 5
+prod buf[38]:0
+Produced 38 by master 5
+prod buf[39]:0
+Produced 39 by master 5
+prod buf[40]:0
+Produced 40 by master 5
+prod buf[41]:0
+Produced 41 by master 5
+prod buf[42]:0
+Produced 42 by master 5
+prod buf[43]:0
+Produced 43 by master 5
+prod buf[44]:0
+Produced 44 by master 5
+prod buf[45]:0
+Produced 45 by master 5
+prod buf[46]:0
+Produced 46 by master 5
+prod buf[47]:0
+Produced 47 by master 5
+prod buf[48]:0
+Produced 48 by master 5
+prod buf[49]:0
+Produced 49 by master 5
+prod buf[50]:0
+Produced 50 by master 5
+prod buf[51]:0
+Produced 51 by master 5
+prod buf[52]:0
+Produced 52 by master 5
+prod buf[53]:0
+Produced 53 by master 5
+prod buf[54]:0
+Produced 54 by master 5
+prod buf[55]:0
+Produced 55 by master 5
+prod buf[56]:0
+Produced 56 by master 5
+prod buf[57]:0
+Produced 57 by master 5
+prod buf[58]:0
+Produced 58 by master 5
+prod buf[59]:0
+Produced 59 by master 5
+prod buf[60]:0
+Produced 60 by master 5
+prod buf[61]:0
+Produced 61 by master 5
+prod buf[62]:0
+Produced 62 by master 5
+prod buf[63]:0
+Produced 63 by master 5
+prod buf[64]:0
+Produced 64 by master 5
+prod buf[65]:0
+Produced 65 by master 5
+prod buf[66]:0
+Produced 66 by master 5
+prod buf[67]:0
+Produced 67 by master 5
+prod buf[68]:0
+Produced 68 by master 5
+prod buf[69]:0
+Produced 69 by master 5
+prod buf[70]:0
+Produced 70 by master 5
+prod buf[71]:0
+Produced 71 by master 5
+prod buf[72]:0
+Produced 72 by master 5
+prod buf[73]:0
+Produced 73 by master 5
+prod buf[74]:0
+Produced 74 by master 5
+prod buf[75]:0
+Produced 75 by master 5
+prod buf[76]:0
+Produced 76 by master 5
+prod buf[77]:0
+Produced 77 by master 5
+prod buf[78]:0
+Produced 78 by master 5
+prod buf[79]:0
+Produced 79 by master 5
+prod buf[80]:0
+Produced 80 by master 5
+prod buf[81]:0
+Produced 81 by master 5
+prod buf[82]:0
+Produced 82 by master 5
+prod buf[83]:0
+Produced 83 by master 5
+prod buf[84]:0
+Produced 84 by master 5
+prod buf[85]:0
+Produced 85 by master 5
+prod buf[86]:0
+Produced 86 by master 5
+prod buf[87]:0
+Produced 87 by master 5
+prod buf[88]:0
+Produced 88 by master 5
+prod buf[89]:0
+Produced 89 by master 5
+prod buf[90]:0
+Produced 90 by master 5
+prod buf[91]:0
+Produced 91 by master 5
+prod buf[92]:0
+Produced 92 by master 5
+prod buf[93]:0
+Produced 93 by master 5
+prod buf[94]:0
+Produced 94 by master 5
+prod buf[95]:0
+Produced 95 by master 5
+prod buf[96]:0
+Produced 96 by master 5
+prod buf[97]:0
+Produced 97 by master 5
+prod buf[98]:0
+Produced 98 by master 5
+prod buf[99]:0
+Produced 99 by master 5
+prod buf[100]:0
 wait! maxbuf
 consume:wake--.
 zai con currbuf:100  buf:0
-Consumed 199 by worker 0
-produce: wake--
-Produced 200 by master 6
-wait! maxbuf
-Consumed 200 by worker 0
-Consumed 198 by worker 0
-Consumed 197 by worker 0
-Consumed 196 by worker 0
-Consumed 195 by worker 0
-Consumed 194 by worker 0
-Consumed 193 by worker 0
-Consumed 192 by worker 0
-Consumed 191 by worker 0
-Consumed 190 by worker 0
-Consumed 189 by worker 0
-Consumed 188 by worker 0
-Consumed 187 by worker 0
-Consumed 186 by worker 0
-Consumed 185 by worker 0
-Consumed 184 by worker 0
-Consumed 183 by worker 0
-Consumed 182 by worker 0
-Consumed 181 by worker 0
-Consumed 180 by worker 0
-Consumed 179 by worker 0
-Consumed 178 by worker 0
-Consumed 177 by worker 0
-Consumed 176 by worker 0
-Consumed 175 by worker 0
-Consumed 174 by worker 0
-Consumed 173 by worker 0
-Consumed 172 by worker 0
-Consumed 171 by worker 0
-Consumed 170 by worker 0
-Consumed 169 by worker 0
-Consumed 168 by worker 0
-Consumed 167 by worker 0
-Consumed 166 by worker 0
-Consumed 165 by worker 0
-Consumed 164 by worker 0
-Consumed 163 by worker 0
-Consumed 162 by worker 0
-Consumed 161 by worker 0
-Consumed 160 by worker 0
-Consumed 159 by worker 0
-Consumed 158 by worker 0
-Consumed 157 by worker 0
-Consumed 156 by worker 0
-Consumed 155 by worker 0
-Consumed 154 by worker 0
-Consumed 153 by worker 0
-Consumed 152 by worker 0
-Consumed 151 by worker 0
-Consumed 150 by worker 0
-Consumed 149 by worker 0
-Consumed 148 by worker 0
-Consumed 147 by worker 0
-Consumed 146 by worker 0
-Consumed 145 by worker 0
-Consumed 144 by worker 0
-Consumed 143 by worker 0
-Consumed 142 by worker 0
-Consumed 141 by worker 0
-Consumed 140 by worker 0
-Consumed 139 by worker 0
-Consumed 138 by worker 0
-Consumed 137 by worker 0
-Consumed 136 by worker 0
-Consumed 135 by worker 0
-Consumed 134 by worker 0
-Consumed 133 by worker 0
-Consumed 132 by worker 0
-Consumed 131 by worker 0
-Consumed 130 by worker 0
-Consumed 129 by worker 0
-Consumed 128 by worker 0
-Consumed 127 by worker 0
-Consumed 126 by worker 0
-Consumed 125 by worker 0
-Consumed 124 by worker 0
-Consumed 123 by worker 0
-Consumed 122 by worker 0
-Consumed 121 by worker 0
-Consumed 120 by worker 0
-Consumed 119 by worker 0
-Consumed 118 by worker 0
-Consumed 117 by worker 0
-Consumed 116 by worker 0
-Consumed 115 by worker 0
-Consumed 114 by worker 0
-Consumed 113 by worker 0
-Consumed 112 by worker 0
-Consumed 111 by worker 0
-Consumed 110 by worker 0
-Consumed 109 by worker 0
-Consumed 108 by worker 0
-Consumed 107 by worker 0
-Consumed 106 by worker 0
-Consumed 105 by worker 0
-Consumed 104 by worker 0
-Consumed 103 by worker 0
-Consumed 102 by worker 0
-Consumed 101 by worker 0
-Consumed 100 by worker 0
+Consumed 99 by worker 1
+cons buf[99]:99
+con: to produce:100 >= total:1000
+Consumed 98 by worker 1
+cons buf[98]:98
+con: to produce:100 >= total:1000
+Consumed 97 by worker 1
+cons buf[97]:97
+con: to produce:100 >= total:1000
+Consumed 96 by worker 1
+cons buf[96]:96
+con: to produce:100 >= total:1000
+Consumed 95 by worker 1
+cons buf[95]:95
+con: to produce:100 >= total:1000
+Consumed 94 by worker 1
+cons buf[94]:94
+con: to produce:100 >= total:1000
+Consumed 93 by worker 1
+cons buf[93]:93
+con: to produce:100 >= total:1000
+Consumed 92 by worker 1
+cons buf[92]:92
+con: to produce:100 >= total:1000
+Consumed 91 by worker 1
+cons buf[91]:91
+con: to produce:100 >= total:1000
+Consumed 90 by worker 1
+cons buf[90]:90
+con: to produce:100 >= total:1000
+Consumed 89 by worker 1
+cons buf[89]:89
+con: to produce:100 >= total:1000
+Consumed 88 by worker 1
+cons buf[88]:88
+con: to produce:100 >= total:1000
+Consumed 87 by worker 1
+cons buf[87]:87
+con: to produce:100 >= total:1000
+Consumed 86 by worker 1
+cons buf[86]:86
+con: to produce:100 >= total:1000
+Consumed 85 by worker 1
+cons buf[85]:85
+con: to produce:100 >= total:1000
+Consumed 84 by worker 1
+cons buf[84]:84
+con: to produce:100 >= total:1000
+Consumed 83 by worker 1
+cons buf[83]:83
+con: to produce:100 >= total:1000
+Consumed 82 by worker 1
+cons buf[82]:82
+con: to produce:100 >= total:1000
+Consumed 81 by worker 1
+cons buf[81]:81
+con: to produce:100 >= total:1000
+Consumed 80 by worker 1
+cons buf[80]:80
+con: to produce:100 >= total:1000
+Consumed 79 by worker 1
+cons buf[79]:79
+con: to produce:100 >= total:1000
+Consumed 78 by worker 1
+cons buf[78]:78
+con: to produce:100 >= total:1000
+Consumed 77 by worker 1
+cons buf[77]:77
+con: to produce:100 >= total:1000
+Consumed 76 by worker 1
+cons buf[76]:76
+con: to produce:100 >= total:1000
+Consumed 75 by worker 1
+cons buf[75]:75
+con: to produce:100 >= total:1000
+Consumed 74 by worker 1
+cons buf[74]:74
+con: to produce:100 >= total:1000
+Consumed 73 by worker 1
+cons buf[73]:73
+con: to produce:100 >= total:1000
+Consumed 72 by worker 1
+cons buf[72]:72
+con: to produce:100 >= total:1000
+Consumed 71 by worker 1
+cons buf[71]:71
+con: to produce:100 >= total:1000
+Consumed 70 by worker 1
+cons buf[70]:70
+con: to produce:100 >= total:1000
+Consumed 69 by worker 1
+cons buf[69]:69
+con: to produce:100 >= total:1000
+Consumed 68 by worker 1
+cons buf[68]:68
+con: to produce:100 >= total:1000
+Consumed 67 by worker 1
+cons buf[67]:67
+con: to produce:100 >= total:1000
+Consumed 66 by worker 1
+cons buf[66]:66
+con: to produce:100 >= total:1000
+Consumed 65 by worker 1
+cons buf[65]:65
+con: to produce:100 >= total:1000
+Consumed 64 by worker 1
+cons buf[64]:64
+con: to produce:100 >= total:1000
+Consumed 63 by worker 1
+cons buf[63]:63
+con: to produce:100 >= total:1000
+Consumed 62 by worker 1
+cons buf[62]:62
+con: to produce:100 >= total:1000
+Consumed 61 by worker 1
+cons buf[61]:61
+con: to produce:100 >= total:1000
+Consumed 60 by worker 1
+cons buf[60]:60
+con: to produce:100 >= total:1000
+Consumed 59 by worker 1
+cons buf[59]:59
+con: to produce:100 >= total:1000
+Consumed 58 by worker 1
+cons buf[58]:58
+con: to produce:100 >= total:1000
+Consumed 57 by worker 1
+cons buf[57]:57
+con: to produce:100 >= total:1000
+Consumed 56 by worker 1
+cons buf[56]:56
+con: to produce:100 >= total:1000
+Consumed 55 by worker 1
+cons buf[55]:55
+con: to produce:100 >= total:1000
+Consumed 54 by worker 1
+cons buf[54]:54
+con: to produce:100 >= total:1000
+Consumed 53 by worker 1
+cons buf[53]:53
+con: to produce:100 >= total:1000
+Consumed 52 by worker 1
+cons buf[52]:52
+con: to produce:100 >= total:1000
+Consumed 51 by worker 1
+cons buf[51]:51
+con: to produce:100 >= total:1000
+Consumed 50 by worker 1
+cons buf[50]:50
+con: to produce:100 >= total:1000
+Consumed 49 by worker 1
+cons buf[49]:49
+con: to produce:100 >= total:1000
+Consumed 48 by worker 1
+cons buf[48]:48
+con: to produce:100 >= total:1000
+Consumed 47 by worker 1
+cons buf[47]:47
+con: to produce:100 >= total:1000
+Consumed 46 by worker 1
+cons buf[46]:46
+con: to produce:100 >= total:1000
+Consumed 45 by worker 1
+cons buf[45]:45
+con: to produce:100 >= total:1000
+Consumed 44 by worker 1
+cons buf[44]:44
+con: to produce:100 >= total:1000
+Consumed 43 by worker 1
+cons buf[43]:43
+con: to produce:100 >= total:1000
+Consumed 42 by worker 1
+cons buf[42]:42
+con: to produce:100 >= total:1000
+Consumed 41 by worker 1
+cons buf[41]:41
+con: to produce:100 >= total:1000
+Consumed 40 by worker 1
+cons buf[40]:40
+con: to produce:100 >= total:1000
+Consumed 39 by worker 1
+cons buf[39]:39
+con: to produce:100 >= total:1000
+Consumed 38 by worker 1
+cons buf[38]:38
+con: to produce:100 >= total:1000
+Consumed 37 by worker 1
+cons buf[37]:37
+con: to produce:100 >= total:1000
+Consumed 36 by worker 1
+cons buf[36]:36
+con: to produce:100 >= total:1000
+Consumed 35 by worker 1
+cons buf[35]:35
+con: to produce:100 >= total:1000
+Consumed 34 by worker 1
+cons buf[34]:34
+con: to produce:100 >= total:1000
+Consumed 33 by worker 1
+cons buf[33]:33
+con: to produce:100 >= total:1000
+Consumed 32 by worker 1
+cons buf[32]:32
+con: to produce:100 >= total:1000
+Consumed 31 by worker 1
+cons buf[31]:31
+con: to produce:100 >= total:1000
+Consumed 30 by worker 1
+cons buf[30]:30
+con: to produce:100 >= total:1000
+Consumed 29 by worker 1
+cons buf[29]:29
+con: to produce:100 >= total:1000
+Consumed 28 by worker 1
+cons buf[28]:28
+con: to produce:100 >= total:1000
+Consumed 27 by worker 1
+cons buf[27]:27
+con: to produce:100 >= total:1000
+Consumed 26 by worker 1
+cons buf[26]:26
+con: to produce:100 >= total:1000
+Consumed 25 by worker 1
+cons buf[25]:25
+con: to produce:100 >= total:1000
+Consumed 24 by worker 1
+cons buf[24]:24
+con: to produce:100 >= total:1000
+Consumed 23 by worker 1
+cons buf[23]:23
+con: to produce:100 >= total:1000
+Consumed 22 by worker 1
+cons buf[22]:22
+con: to produce:100 >= total:1000
+Consumed 21 by worker 1
+cons buf[21]:21
+con: to produce:100 >= total:1000
+Consumed 20 by worker 1
+cons buf[20]:20
+con: to produce:100 >= total:1000
+Consumed 19 by worker 1
+cons buf[19]:19
+con: to produce:100 >= total:1000
+Consumed 18 by worker 1
+cons buf[18]:18
+con: to produce:100 >= total:1000
+Consumed 17 by worker 1
+cons buf[17]:17
+con: to produce:100 >= total:1000
+Consumed 16 by worker 1
+cons buf[16]:16
+con: to produce:100 >= total:1000
+Consumed 15 by worker 1
+cons buf[15]:15
+con: to produce:100 >= total:1000
+Consumed 14 by worker 1
+cons buf[14]:14
+con: to produce:100 >= total:1000
+Consumed 13 by worker 1
+cons buf[13]:13
+con: to produce:100 >= total:1000
+Consumed 12 by worker 1
+cons buf[12]:12
+con: to produce:100 >= total:1000
+Consumed 11 by worker 1
+cons buf[11]:11
+con: to produce:100 >= total:1000
+Consumed 10 by worker 1
+cons buf[10]:10
+con: to produce:100 >= total:1000
+Consumed 9 by worker 1
+cons buf[9]:9
+con: to produce:100 >= total:1000
+Consumed 8 by worker 1
+cons buf[8]:8
+con: to produce:100 >= total:1000
+Consumed 7 by worker 1
+cons buf[7]:7
+con: to produce:100 >= total:1000
+Consumed 6 by worker 1
+cons buf[6]:6
+con: to produce:100 >= total:1000
+Consumed 5 by worker 1
+cons buf[5]:5
+con: to produce:100 >= total:1000
+Consumed 4 by worker 1
+cons buf[4]:4
+con: to produce:100 >= total:1000
+Consumed 3 by worker 1
+cons buf[3]:3
+con: to produce:100 >= total:1000
+Consumed 2 by worker 1
+cons buf[2]:2
+con: to produce:100 >= total:1000
+Consumed 1 by worker 1
+cons buf[1]:1
+con: to produce:100 >= total:1000
+Consumed 0 by worker 1
+cons buf[0]:0
+con: to produce:100 >= total:1000
 consume:wait! empty
+consume:wake--.
+zai con currbuf:0  buf:-1
+buf==0 breaks
+consume:wake--.
+zai con currbuf:0  buf:-1
+buf==0 breaks
+consume:wake--.
+zai con currbuf:0  buf:-1
+buf==0 breaks
 produce: wake--
-Produced 201 by master 6
-Produced 202 by master 6
-Produced 203 by master 6
-Produced 204 by master 6
-Produced 205 by master 6
-Produced 206 by master 6
-Produced 207 by master 6
-Produced 208 by master 6
-Produced 209 by master 6
-Produced 210 by master 6
-Produced 211 by master 6
-Produced 212 by master 6
-Produced 213 by master 6
-Produced 214 by master 6
-Produced 215 by master 6
-Produced 216 by master 6
-Produced 217 by master 6
-Produced 218 by master 6
-Produced 219 by master 6
-Produced 220 by master 6
-Produced 221 by master 6
-Produced 222 by master 6
-Produced 223 by master 6
-Produced 224 by master 6
-Produced 225 by master 6
-Produced 226 by master 6
-Produced 227 by master 6
-Produced 228 by master 6
-Produced 229 by master 6
-Produced 230 by master 6
-Produced 231 by master 6
-Produced 232 by master 6
-Produced 233 by master 6
-Produced 234 by master 6
-Produced 235 by master 6
-Produced 236 by master 6
-Produced 237 by master 6
-Produced 238 by master 6
-Produced 239 by master 6
-Produced 240 by master 6
-Produced 241 by master 6
-Produced 242 by master 6
-Produced 243 by master 6
-Produced 244 by master 6
-Produced 245 by master 6
-Produced 246 by master 6
-Produced 247 by master 6
-Produced 248 by master 6
-Produced 249 by master 6
-Produced 250 by master 6
-Produced 251 by master 6
-Produced 252 by master 6
-Produced 253 by master 6
-Produced 254 by master 6
-Produced 255 by master 6
-Produced 256 by master 6
-Produced 257 by master 6
-Produced 258 by master 6
-Produced 259 by master 6
-Produced 260 by master 6
-Produced 261 by master 6
-Produced 262 by master 6
-Produced 263 by master 6
-Produced 264 by master 6
-Produced 265 by master 6
-Produced 266 by master 6
-Produced 267 by master 6
-Produced 268 by master 6
-Produced 269 by master 6
-Produced 270 by master 6
-Produced 271 by master 6
-Produced 272 by master 6
-Produced 273 by master 6
-Produced 274 by master 6
-Produced 275 by master 6
-Produced 276 by master 6
-Produced 277 by master 6
-Produced 278 by master 6
-Produced 279 by master 6
-Produced 280 by master 6
-Produced 281 by master 6
-Produced 282 by master 6
-Produced 283 by master 6
-Produced 284 by master 6
-Produced 285 by master 6
-Produced 286 by master 6
-Produced 287 by master 6
-Produced 288 by master 6
-Produced 289 by master 6
-Produced 290 by master 6
-Produced 291 by master 6
-Produced 292 by master 6
-Produced 293 by master 6
-Produced 294 by master 6
-Produced 295 by master 6
-Produced 296 by master 6
-Produced 297 by master 6
-Produced 298 by master 6
-Produced 299 by master 6
-Produced 300 by master 6
-wait! maxbuf
-produce: wake--
+Produced 100 by master 5
+prod buf[1]:-1
+Produced 101 by master 5
+prod buf[2]:-1
+Produced 102 by master 5
+prod buf[3]:-1
+Produced 103 by master 5
+prod buf[4]:-1
+Produced 104 by master 5
+prod buf[5]:-1
+Produced 105 by master 5
+prod buf[6]:-1
+Produced 106 by master 5
+prod buf[7]:-1
+Produced 107 by master 5
+prod buf[8]:-1
+Produced 108 by master 5
+prod buf[9]:-1
+Produced 109 by master 5
+prod buf[10]:-1
+Produced 110 by master 5
+prod buf[11]:-1
+Produced 111 by master 5
+prod buf[12]:-1
+Produced 112 by master 5
+prod buf[13]:-1
+Produced 113 by master 5
+prod buf[14]:-1
+Produced 114 by master 5
+prod buf[15]:-1
+Produced 115 by master 5
+prod buf[16]:-1
+Produced 116 by master 5
+prod buf[17]:-1
+Produced 117 by master 5
+prod buf[18]:-1
+Produced 118 by master 5
+prod buf[19]:-1
+Produced 119 by master 5
+prod buf[20]:-1
+Produced 120 by master 5
+prod buf[21]:-1
+Produced 121 by master 5
+prod buf[22]:-1
+Produced 122 by master 5
+prod buf[23]:-1
+Produced 123 by master 5
+prod buf[24]:-1
+Produced 124 by master 5
+prod buf[25]:-1
+Produced 125 by master 5
+prod buf[26]:-1
+Produced 126 by master 5
+prod buf[27]:-1
+Produced 127 by master 5
+prod buf[28]:-1
+Produced 128 by master 5
+prod buf[29]:-1
+Produced 129 by master 5
+prod buf[30]:-1
+Produced 130 by master 5
+prod buf[31]:-1
+Produced 131 by master 5
+prod buf[32]:-1
+Produced 132 by master 5
+prod buf[33]:-1
+Produced 133 by master 5
+prod buf[34]:-1
+Produced 134 by master 5
+prod buf[35]:-1
+Produced 135 by master 5
+prod buf[36]:-1
+Produced 136 by master 5
+prod buf[37]:-1
+Produced 137 by master 5
+prod buf[38]:-1
+Produced 138 by master 5
+prod buf[39]:-1
+Produced 139 by master 5
+prod buf[40]:-1
+Produced 140 by master 5
+prod buf[41]:-1
+Produced 141 by master 5
+prod buf[42]:-1
+Produced 142 by master 5
+prod buf[43]:-1
+Produced 143 by master 5
+prod buf[44]:-1
+Produced 144 by master 5
+prod buf[45]:-1
+Produced 145 by master 5
+prod buf[46]:-1
+Produced 146 by master 5
+prod buf[47]:-1
+Produced 147 by master 5
+prod buf[48]:-1
+Produced 148 by master 5
+prod buf[49]:-1
+Produced 149 by master 5
+prod buf[50]:-1
+Produced 150 by master 5
+prod buf[51]:-1
+Produced 151 by master 5
+prod buf[52]:-1
+Produced 152 by master 5
+prod buf[53]:-1
+Produced 153 by master 5
+prod buf[54]:-1
+Produced 154 by master 5
+prod buf[55]:-1
+Produced 155 by master 5
+prod buf[56]:-1
+Produced 156 by master 5
+prod buf[57]:-1
+Produced 157 by master 5
+prod buf[58]:-1
+Produced 158 by master 5
+prod buf[59]:-1
+Produced 159 by master 5
+prod buf[60]:-1
+Produced 160 by master 5
+prod buf[61]:-1
+Produced 161 by master 5
+prod buf[62]:-1
+Produced 162 by master 5
+prod buf[63]:-1
+Produced 163 by master 5
+prod buf[64]:-1
+Produced 164 by master 5
+prod buf[65]:-1
+Produced 165 by master 5
+prod buf[66]:-1
+Produced 166 by master 5
+prod buf[67]:-1
+Produced 167 by master 5
+prod buf[68]:-1
+Produced 168 by master 5
+prod buf[69]:-1
+Produced 169 by master 5
+prod buf[70]:-1
+Produced 170 by master 5
+prod buf[71]:-1
+Produced 171 by master 5
+prod buf[72]:-1
+Produced 172 by master 5
+prod buf[73]:-1
+Produced 173 by master 5
+prod buf[74]:-1
+Produced 174 by master 5
+prod buf[75]:-1
+Produced 175 by master 5
+prod buf[76]:-1
+Produced 176 by master 5
+prod buf[77]:-1
+Produced 177 by master 5
+prod buf[78]:-1
+Produced 178 by master 5
+prod buf[79]:-1
+Produced 179 by master 5
+prod buf[80]:-1
+Produced 180 by master 5
+prod buf[81]:-1
+Produced 181 by master 5
+prod buf[82]:-1
+Produced 182 by master 5
+prod buf[83]:-1
+Produced 183 by master 5
+prod buf[84]:-1
+Produced 184 by master 5
+prod buf[85]:-1
+Produced 185 by master 5
+prod buf[86]:-1
+Produced 186 by master 5
+prod buf[87]:-1
+Produced 187 by master 5
+prod buf[88]:-1
+Produced 188 by master 5
+prod buf[89]:-1
+Produced 189 by master 5
+prod buf[90]:-1
+Produced 190 by master 5
+prod buf[91]:-1
+Produced 191 by master 5
+prod buf[92]:-1
+Produced 192 by master 5
+prod buf[93]:-1
+Produced 193 by master 5
+prod buf[94]:-1
+Produced 194 by master 5
+prod buf[95]:-1
+Produced 195 by master 5
+prod buf[96]:-1
+Produced 196 by master 5
+prod buf[97]:-1
+Produced 197 by master 5
+prod buf[98]:-1
+Produced 198 by master 5
+prod buf[99]:-1
+Produced 199 by master 5
+prod buf[100]:0
 wait! maxbuf
 consume:wake--.
 zai con currbuf:100  buf:0
-Consumed 300 by worker 0
-Consumed 299 by worker 0
-Consumed 298 by worker 0
-Consumed 297 by worker 0
-Consumed 296 by worker 0
-Consumed 295 by worker 0
-Consumed 294 by worker 0
-Consumed 293 by worker 0
-Consumed 292 by worker 0
-Consumed 291 by worker 0
-Consumed 290 by worker 0
-Consumed 289 by worker 0
-Consumed 288 by worker 0
-Consumed 287 by worker 0
-Consumed 286 by worker 0
-Consumed 285 by worker 0
-Consumed 284 by worker 0
-Consumed 283 by worker 0
-Consumed 282 by worker 0
-Consumed 281 by worker 0
-Consumed 280 by worker 0
-Consumed 279 by worker 0
-Consumed 278 by worker 0
-Consumed 277 by worker 0
-Consumed 276 by worker 0
-Consumed 275 by worker 0
-Consumed 274 by worker 0
-Consumed 273 by worker 0
-Consumed 272 by worker 0
-Consumed 271 by worker 0
-Consumed 270 by worker 0
-Consumed 269 by worker 0
-Consumed 268 by worker 0
-Consumed 267 by worker 0
-Consumed 266 by worker 0
-Consumed 265 by worker 0
-Consumed 264 by worker 0
-Consumed 263 by worker 0
-Consumed 262 by worker 0
-Consumed 261 by worker 0
-Consumed 260 by worker 0
-Consumed 259 by worker 0
-Consumed 258 by worker 0
-Consumed 257 by worker 0
-Consumed 256 by worker 0
-Consumed 255 by worker 0
-Consumed 254 by worker 0
-Consumed 253 by worker 0
-Consumed 252 by worker 0
-Consumed 251 by worker 0
-Consumed 250 by worker 0
-Consumed 249 by worker 0
-Consumed 248 by worker 0
-Consumed 247 by worker 0
-Consumed 246 by worker 0
-Consumed 245 by worker 0
-Consumed 244 by worker 0
-Consumed 243 by worker 0
-Consumed 242 by worker 0
-Consumed 241 by worker 0
-Consumed 240 by worker 0
-Consumed 239 by worker 0
-Consumed 238 by worker 0
-Consumed 237 by worker 0
-Consumed 236 by worker 0
-Consumed 235 by worker 0
-Consumed 234 by worker 0
-Consumed 233 by worker 0
-Consumed 232 by worker 0
-Consumed 231 by worker 0
-Consumed 230 by worker 0
-Consumed 229 by worker 0
-Consumed 228 by worker 0
-Consumed 227 by worker 0
-Consumed 226 by worker 0
-Consumed 225 by worker 0
-Consumed 224 by worker 0
-Consumed 223 by worker 0
-Consumed 222 by worker 0
-Consumed 221 by worker 0
-Consumed 220 by worker 0
-Consumed 219 by worker 0
-Consumed 218 by worker 0
-Consumed 217 by worker 0
-Consumed 216 by worker 0
-Consumed 215 by worker 0
-Consumed 214 by worker 0
-Consumed 213 by worker 0
-Consumed 212 by worker 0
-Consumed 211 by worker 0
-Consumed 210 by worker 0
-Consumed 209 by worker 0
-Consumed 208 by worker 0
-Consumed 207 by worker 0
-Consumed 206 by worker 0
-Consumed 205 by worker 0
-Consumed 204 by worker 0
-Consumed 203 by worker 0
-Consumed 202 by worker 0
-Consumed 201 by worker 0
+Consumed 199 by worker 1
+cons buf[99]:199
+con: to produce:200 >= total:1000
+Consumed 198 by worker 1
+cons buf[98]:198
+con: to produce:200 >= total:1000
+Consumed 197 by worker 1
+cons buf[97]:197
+con: to produce:200 >= total:1000
+Consumed 196 by worker 1
+cons buf[96]:196
+con: to produce:200 >= total:1000
+Consumed 195 by worker 1
+cons buf[95]:195
+con: to produce:200 >= total:1000
+Consumed 194 by worker 1
+cons buf[94]:194
+con: to produce:200 >= total:1000
+Consumed 193 by worker 1
+cons buf[93]:193
+con: to produce:200 >= total:1000
+Consumed 192 by worker 1
+cons buf[92]:192
+con: to produce:200 >= total:1000
+Consumed 191 by worker 1
+cons buf[91]:191
+con: to produce:200 >= total:1000
+Consumed 190 by worker 1
+cons buf[90]:190
+con: to produce:200 >= total:1000
+Consumed 189 by worker 1
+cons buf[89]:189
+con: to produce:200 >= total:1000
+Consumed 188 by worker 1
+cons buf[88]:188
+con: to produce:200 >= total:1000
+Consumed 187 by worker 1
+cons buf[87]:187
+con: to produce:200 >= total:1000
+Consumed 186 by worker 1
+cons buf[86]:186
+con: to produce:200 >= total:1000
+Consumed 185 by worker 1
+cons buf[85]:185
+con: to produce:200 >= total:1000
+Consumed 184 by worker 1
+cons buf[84]:184
+con: to produce:200 >= total:1000
+Consumed 183 by worker 1
+cons buf[83]:183
+con: to produce:200 >= total:1000
+Consumed 182 by worker 1
+cons buf[82]:182
+con: to produce:200 >= total:1000
+Consumed 181 by worker 1
+cons buf[81]:181
+con: to produce:200 >= total:1000
+Consumed 180 by worker 1
+cons buf[80]:180
+con: to produce:200 >= total:1000
+Consumed 179 by worker 1
+cons buf[79]:179
+con: to produce:200 >= total:1000
+Consumed 178 by worker 1
+cons buf[78]:178
+con: to produce:200 >= total:1000
+Consumed 177 by worker 1
+cons buf[77]:177
+con: to produce:200 >= total:1000
+Consumed 176 by worker 1
+cons buf[76]:176
+con: to produce:200 >= total:1000
+Consumed 175 by worker 1
+cons buf[75]:175
+con: to produce:200 >= total:1000
+Consumed 174 by worker 1
+cons buf[74]:174
+con: to produce:200 >= total:1000
+Consumed 173 by worker 1
+cons buf[73]:173
+con: to produce:200 >= total:1000
+Consumed 172 by worker 1
+cons buf[72]:172
+con: to produce:200 >= total:1000
+Consumed 171 by worker 1
+cons buf[71]:171
+con: to produce:200 >= total:1000
+Consumed 170 by worker 1
+cons buf[70]:170
+con: to produce:200 >= total:1000
+Consumed 169 by worker 1
+cons buf[69]:169
+con: to produce:200 >= total:1000
+Consumed 168 by worker 1
+cons buf[68]:168
+con: to produce:200 >= total:1000
+Consumed 167 by worker 1
+cons buf[67]:167
+con: to produce:200 >= total:1000
+Consumed 166 by worker 1
+cons buf[66]:166
+con: to produce:200 >= total:1000
+Consumed 165 by worker 1
+cons buf[65]:165
+con: to produce:200 >= total:1000
+Consumed 164 by worker 1
+cons buf[64]:164
+con: to produce:200 >= total:1000
+Consumed 163 by worker 1
+cons buf[63]:163
+con: to produce:200 >= total:1000
+Consumed 162 by worker 1
+cons buf[62]:162
+con: to produce:200 >= total:1000
+Consumed 161 by worker 1
+cons buf[61]:161
+con: to produce:200 >= total:1000
+Consumed 160 by worker 1
+cons buf[60]:160
+con: to produce:200 >= total:1000
+Consumed 159 by worker 1
+cons buf[59]:159
+con: to produce:200 >= total:1000
+Consumed 158 by worker 1
+cons buf[58]:158
+con: to produce:200 >= total:1000
+Consumed 157 by worker 1
+cons buf[57]:157
+con: to produce:200 >= total:1000
+Consumed 156 by worker 1
+cons buf[56]:156
+con: to produce:200 >= total:1000
+Consumed 155 by worker 1
+cons buf[55]:155
+con: to produce:200 >= total:1000
+Consumed 154 by worker 1
+cons buf[54]:154
+con: to produce:200 >= total:1000
+Consumed 153 by worker 1
+cons buf[53]:153
+con: to produce:200 >= total:1000
+Consumed 152 by worker 1
+cons buf[52]:152
+con: to produce:200 >= total:1000
+Consumed 151 by worker 1
+cons buf[51]:151
+con: to produce:200 >= total:1000
+Consumed 150 by worker 1
+cons buf[50]:150
+con: to produce:200 >= total:1000
+Consumed 149 by worker 1
+cons buf[49]:149
+con: to produce:200 >= total:1000
+Consumed 148 by worker 1
+cons buf[48]:148
+con: to produce:200 >= total:1000
+Consumed 147 by worker 1
+cons buf[47]:147
+con: to produce:200 >= total:1000
+Consumed 146 by worker 1
+cons buf[46]:146
+con: to produce:200 >= total:1000
+Consumed 145 by worker 1
+cons buf[45]:145
+con: to produce:200 >= total:1000
+Consumed 144 by worker 1
+cons buf[44]:144
+con: to produce:200 >= total:1000
+Consumed 143 by worker 1
+cons buf[43]:143
+con: to produce:200 >= total:1000
+Consumed 142 by worker 1
+cons buf[42]:142
+con: to produce:200 >= total:1000
+Consumed 141 by worker 1
+cons buf[41]:141
+con: to produce:200 >= total:1000
+Consumed 140 by worker 1
+cons buf[40]:140
+con: to produce:200 >= total:1000
+Consumed 139 by worker 1
+cons buf[39]:139
+con: to produce:200 >= total:1000
+Consumed 138 by worker 1
+cons buf[38]:138
+con: to produce:200 >= total:1000
+Consumed 137 by worker 1
+cons buf[37]:137
+con: to produce:200 >= total:1000
+Consumed 136 by worker 1
+cons buf[36]:136
+con: to produce:200 >= total:1000
+Consumed 135 by worker 1
+cons buf[35]:135
+con: to produce:200 >= total:1000
+Consumed 134 by worker 1
+cons buf[34]:134
+con: to produce:200 >= total:1000
+Consumed 133 by worker 1
+cons buf[33]:133
+con: to produce:200 >= total:1000
+Consumed 132 by worker 1
+cons buf[32]:132
+con: to produce:200 >= total:1000
+Consumed 131 by worker 1
+cons buf[31]:131
+con: to produce:200 >= total:1000
+Consumed 130 by worker 1
+cons buf[30]:130
+con: to produce:200 >= total:1000
+Consumed 129 by worker 1
+cons buf[29]:129
+con: to produce:200 >= total:1000
+Consumed 128 by worker 1
+cons buf[28]:128
+con: to produce:200 >= total:1000
+Consumed 127 by worker 1
+cons buf[27]:127
+con: to produce:200 >= total:1000
+Consumed 126 by worker 1
+cons buf[26]:126
+con: to produce:200 >= total:1000
+Consumed 125 by worker 1
+cons buf[25]:125
+con: to produce:200 >= total:1000
+Consumed 124 by worker 1
+cons buf[24]:124
+con: to produce:200 >= total:1000
+Consumed 123 by worker 1
+cons buf[23]:123
+con: to produce:200 >= total:1000
+Consumed 122 by worker 1
+cons buf[22]:122
+con: to produce:200 >= total:1000
+Consumed 121 by worker 1
+cons buf[21]:121
+con: to produce:200 >= total:1000
+Consumed 120 by worker 1
+cons buf[20]:120
+con: to produce:200 >= total:1000
+Consumed 119 by worker 1
+cons buf[19]:119
+con: to produce:200 >= total:1000
+Consumed 118 by worker 1
+cons buf[18]:118
+con: to produce:200 >= total:1000
+Consumed 117 by worker 1
+cons buf[17]:117
+con: to produce:200 >= total:1000
+Consumed 116 by worker 1
+cons buf[16]:116
+con: to produce:200 >= total:1000
+Consumed 115 by worker 1
+cons buf[15]:115
+con: to produce:200 >= total:1000
+Consumed 114 by worker 1
+cons buf[14]:114
+con: to produce:200 >= total:1000
+Consumed 113 by worker 1
+cons buf[13]:113
+con: to produce:200 >= total:1000
+Consumed 112 by worker 1
+cons buf[12]:112
+con: to produce:200 >= total:1000
+Consumed 111 by worker 1
+cons buf[11]:111
+con: to produce:200 >= total:1000
+Consumed 110 by worker 1
+cons buf[10]:110
+con: to produce:200 >= total:1000
+Consumed 109 by worker 1
+cons buf[9]:109
+con: to produce:200 >= total:1000
+Consumed 108 by worker 1
+cons buf[8]:108
+con: to produce:200 >= total:1000
+Consumed 107 by worker 1
+cons buf[7]:107
+con: to produce:200 >= total:1000
+Consumed 106 by worker 1
+cons buf[6]:106
+con: to produce:200 >= total:1000
+Consumed 105 by worker 1
+cons buf[5]:105
+con: to produce:200 >= total:1000
+Consumed 104 by worker 1
+cons buf[4]:104
+con: to produce:200 >= total:1000
+Consumed 103 by worker 1
+cons buf[3]:103
+con: to produce:200 >= total:1000
+Consumed 102 by worker 1
+cons buf[2]:102
+con: to produce:200 >= total:1000
+Consumed 101 by worker 1
+cons buf[1]:101
+con: to produce:200 >= total:1000
+Consumed 100 by worker 1
+cons buf[0]:100
+con: to produce:200 >= total:1000
+consume:wait! empty
+producer got lock
+Produced 200 by master 4
+prod buf[1]:-1
+Produced 201 by master 4
+prod buf[2]:-1
+Produced 202 by master 4
+prod buf[3]:-1
+Produced 203 by master 4
+prod buf[4]:-1
+Produced 204 by master 4
+prod buf[5]:-1
+Produced 205 by master 4
+prod buf[6]:-1
+Produced 206 by master 4
+prod buf[7]:-1
+Produced 207 by master 4
+prod buf[8]:-1
+Produced 208 by master 4
+prod buf[9]:-1
+Produced 209 by master 4
+prod buf[10]:-1
+Produced 210 by master 4
+prod buf[11]:-1
+Produced 211 by master 4
+prod buf[12]:-1
+Produced 212 by master 4
+prod buf[13]:-1
+Produced 213 by master 4
+prod buf[14]:-1
+Produced 214 by master 4
+prod buf[15]:-1
+Produced 215 by master 4
+prod buf[16]:-1
+Produced 216 by master 4
+prod buf[17]:-1
+Produced 217 by master 4
+prod buf[18]:-1
+Produced 218 by master 4
+prod buf[19]:-1
+Produced 219 by master 4
+prod buf[20]:-1
+Produced 220 by master 4
+prod buf[21]:-1
+Produced 221 by master 4
+prod buf[22]:-1
+Produced 222 by master 4
+prod buf[23]:-1
+Produced 223 by master 4
+prod buf[24]:-1
+Produced 224 by master 4
+prod buf[25]:-1
+Produced 225 by master 4
+prod buf[26]:-1
+Produced 226 by master 4
+prod buf[27]:-1
+Produced 227 by master 4
+prod buf[28]:-1
+Produced 228 by master 4
+prod buf[29]:-1
+Produced 229 by master 4
+prod buf[30]:-1
+Produced 230 by master 4
+prod buf[31]:-1
+Produced 231 by master 4
+prod buf[32]:-1
+Produced 232 by master 4
+prod buf[33]:-1
+Produced 233 by master 4
+prod buf[34]:-1
+Produced 234 by master 4
+prod buf[35]:-1
+Produced 235 by master 4
+prod buf[36]:-1
+Produced 236 by master 4
+prod buf[37]:-1
+Produced 237 by master 4
+prod buf[38]:-1
+Produced 238 by master 4
+prod buf[39]:-1
+Produced 239 by master 4
+prod buf[40]:-1
+Produced 240 by master 4
+prod buf[41]:-1
+Produced 241 by master 4
+prod buf[42]:-1
+Produced 242 by master 4
+prod buf[43]:-1
+Produced 243 by master 4
+prod buf[44]:-1
+Produced 244 by master 4
+prod buf[45]:-1
+Produced 245 by master 4
+prod buf[46]:-1
+Produced 246 by master 4
+prod buf[47]:-1
+Produced 247 by master 4
+prod buf[48]:-1
+Produced 248 by master 4
+prod buf[49]:-1
+Produced 249 by master 4
+prod buf[50]:-1
+Produced 250 by master 4
+prod buf[51]:-1
+Produced 251 by master 4
+prod buf[52]:-1
+Produced 252 by master 4
+prod buf[53]:-1
+Produced 253 by master 4
+prod buf[54]:-1
+Produced 254 by master 4
+prod buf[55]:-1
+Produced 255 by master 4
+prod buf[56]:-1
+Produced 256 by master 4
+prod buf[57]:-1
+Produced 257 by master 4
+prod buf[58]:-1
+Produced 258 by master 4
+prod buf[59]:-1
+Produced 259 by master 4
+prod buf[60]:-1
+Produced 260 by master 4
+prod buf[61]:-1
+Produced 261 by master 4
+prod buf[62]:-1
+Produced 262 by master 4
+prod buf[63]:-1
+Produced 263 by master 4
+prod buf[64]:-1
+Produced 264 by master 4
+prod buf[65]:-1
+Produced 265 by master 4
+prod buf[66]:-1
+Produced 266 by master 4
+prod buf[67]:-1
+Produced 267 by master 4
+prod buf[68]:-1
+Produced 268 by master 4
+prod buf[69]:-1
+Produced 269 by master 4
+prod buf[70]:-1
+Produced 270 by master 4
+prod buf[71]:-1
+Produced 271 by master 4
+prod buf[72]:-1
+Produced 272 by master 4
+prod buf[73]:-1
+Produced 273 by master 4
+prod buf[74]:-1
+Produced 274 by master 4
+prod buf[75]:-1
+Produced 275 by master 4
+prod buf[76]:-1
+Produced 276 by master 4
+prod buf[77]:-1
+Produced 277 by master 4
+prod buf[78]:-1
+Produced 278 by master 4
+prod buf[79]:-1
+Produced 279 by master 4
+prod buf[80]:-1
+Produced 280 by master 4
+prod buf[81]:-1
+Produced 281 by master 4
+prod buf[82]:-1
+Produced 282 by master 4
+prod buf[83]:-1
+Produced 283 by master 4
+prod buf[84]:-1
+Produced 284 by master 4
+prod buf[85]:-1
+Produced 285 by master 4
+prod buf[86]:-1
+Produced 286 by master 4
+prod buf[87]:-1
+Produced 287 by master 4
+prod buf[88]:-1
+Produced 288 by master 4
+prod buf[89]:-1
+Produced 289 by master 4
+prod buf[90]:-1
+Produced 290 by master 4
+prod buf[91]:-1
+Produced 291 by master 4
+prod buf[92]:-1
+Produced 292 by master 4
+prod buf[93]:-1
+Produced 293 by master 4
+prod buf[94]:-1
+Produced 294 by master 4
+prod buf[95]:-1
+Produced 295 by master 4
+prod buf[96]:-1
+Produced 296 by master 4
+prod buf[97]:-1
+Produced 297 by master 4
+prod buf[98]:-1
+Produced 298 by master 4
+prod buf[99]:-1
+Produced 299 by master 4
+prod buf[100]:0
+wait! maxbuf
+consume:wake--.
+zai con currbuf:100  buf:0
+Consumed 299 by worker 1
+cons buf[99]:299
+con: to produce:300 >= total:1000
+produce: wake--
+Produced 300 by master 5
+prod buf[100]:0
+wait! maxbuf
+Consumed 300 by worker 1
+cons buf[99]:300
+con: to produce:301 >= total:1000
+Consumed 298 by worker 1
+cons buf[98]:298
+con: to produce:301 >= total:1000
+Consumed 297 by worker 1
+cons buf[97]:297
+con: to produce:301 >= total:1000
+Consumed 296 by worker 1
+cons buf[96]:296
+con: to produce:301 >= total:1000
+Consumed 295 by worker 1
+cons buf[95]:295
+con: to produce:301 >= total:1000
+Consumed 294 by worker 1
+cons buf[94]:294
+con: to produce:301 >= total:1000
+Consumed 293 by worker 1
+cons buf[93]:293
+con: to produce:301 >= total:1000
+Consumed 292 by worker 1
+cons buf[92]:292
+con: to produce:301 >= total:1000
+Consumed 291 by worker 1
+cons buf[91]:291
+con: to produce:301 >= total:1000
+Consumed 290 by worker 1
+cons buf[90]:290
+con: to produce:301 >= total:1000
+Consumed 289 by worker 1
+cons buf[89]:289
+con: to produce:301 >= total:1000
+Consumed 288 by worker 1
+cons buf[88]:288
+con: to produce:301 >= total:1000
+Consumed 287 by worker 1
+cons buf[87]:287
+con: to produce:301 >= total:1000
+Consumed 286 by worker 1
+cons buf[86]:286
+con: to produce:301 >= total:1000
+Consumed 285 by worker 1
+cons buf[85]:285
+con: to produce:301 >= total:1000
+Consumed 284 by worker 1
+cons buf[84]:284
+con: to produce:301 >= total:1000
+Consumed 283 by worker 1
+cons buf[83]:283
+con: to produce:301 >= total:1000
+Consumed 282 by worker 1
+cons buf[82]:282
+con: to produce:301 >= total:1000
+Consumed 281 by worker 1
+cons buf[81]:281
+con: to produce:301 >= total:1000
+Consumed 280 by worker 1
+cons buf[80]:280
+con: to produce:301 >= total:1000
+Consumed 279 by worker 1
+cons buf[79]:279
+con: to produce:301 >= total:1000
+Consumed 278 by worker 1
+cons buf[78]:278
+con: to produce:301 >= total:1000
+Consumed 277 by worker 1
+cons buf[77]:277
+con: to produce:301 >= total:1000
+Consumed 276 by worker 1
+cons buf[76]:276
+con: to produce:301 >= total:1000
+Consumed 275 by worker 1
+cons buf[75]:275
+con: to produce:301 >= total:1000
+Consumed 274 by worker 1
+cons buf[74]:274
+con: to produce:301 >= total:1000
+Consumed 273 by worker 1
+cons buf[73]:273
+con: to produce:301 >= total:1000
+Consumed 272 by worker 1
+cons buf[72]:272
+con: to produce:301 >= total:1000
+Consumed 271 by worker 1
+cons buf[71]:271
+con: to produce:301 >= total:1000
+Consumed 270 by worker 1
+cons buf[70]:270
+con: to produce:301 >= total:1000
+Consumed 269 by worker 1
+cons buf[69]:269
+con: to produce:301 >= total:1000
+Consumed 268 by worker 1
+cons buf[68]:268
+con: to produce:301 >= total:1000
+Consumed 267 by worker 1
+cons buf[67]:267
+con: to produce:301 >= total:1000
+Consumed 266 by worker 1
+cons buf[66]:266
+con: to produce:301 >= total:1000
+Consumed 265 by worker 1
+cons buf[65]:265
+con: to produce:301 >= total:1000
+Consumed 264 by worker 1
+cons buf[64]:264
+con: to produce:301 >= total:1000
+Consumed 263 by worker 1
+cons buf[63]:263
+con: to produce:301 >= total:1000
+Consumed 262 by worker 1
+cons buf[62]:262
+con: to produce:301 >= total:1000
+Consumed 261 by worker 1
+cons buf[61]:261
+con: to produce:301 >= total:1000
+Consumed 260 by worker 1
+cons buf[60]:260
+con: to produce:301 >= total:1000
+Consumed 259 by worker 1
+cons buf[59]:259
+con: to produce:301 >= total:1000
+Consumed 258 by worker 1
+cons buf[58]:258
+con: to produce:301 >= total:1000
+Consumed 257 by worker 1
+cons buf[57]:257
+con: to produce:301 >= total:1000
+Consumed 256 by worker 1
+cons buf[56]:256
+con: to produce:301 >= total:1000
+Consumed 255 by worker 1
+cons buf[55]:255
+con: to produce:301 >= total:1000
+Consumed 254 by worker 1
+cons buf[54]:254
+con: to produce:301 >= total:1000
+Consumed 253 by worker 1
+cons buf[53]:253
+con: to produce:301 >= total:1000
+Consumed 252 by worker 1
+cons buf[52]:252
+con: to produce:301 >= total:1000
+Consumed 251 by worker 1
+cons buf[51]:251
+con: to produce:301 >= total:1000
+Consumed 250 by worker 1
+cons buf[50]:250
+con: to produce:301 >= total:1000
+Consumed 249 by worker 1
+cons buf[49]:249
+con: to produce:301 >= total:1000
+Consumed 248 by worker 1
+cons buf[48]:248
+con: to produce:301 >= total:1000
+Consumed 247 by worker 1
+cons buf[47]:247
+con: to produce:301 >= total:1000
+Consumed 246 by worker 1
+cons buf[46]:246
+con: to produce:301 >= total:1000
+Consumed 245 by worker 1
+cons buf[45]:245
+con: to produce:301 >= total:1000
+Consumed 244 by worker 1
+cons buf[44]:244
+con: to produce:301 >= total:1000
+Consumed 243 by worker 1
+cons buf[43]:243
+con: to produce:301 >= total:1000
+Consumed 242 by worker 1
+cons buf[42]:242
+con: to produce:301 >= total:1000
+Consumed 241 by worker 1
+cons buf[41]:241
+con: to produce:301 >= total:1000
+Consumed 240 by worker 1
+cons buf[40]:240
+con: to produce:301 >= total:1000
+Consumed 239 by worker 1
+cons buf[39]:239
+con: to produce:301 >= total:1000
+Consumed 238 by worker 1
+cons buf[38]:238
+con: to produce:301 >= total:1000
+Consumed 237 by worker 1
+cons buf[37]:237
+con: to produce:301 >= total:1000
+Consumed 236 by worker 1
+cons buf[36]:236
+con: to produce:301 >= total:1000
+Consumed 235 by worker 1
+cons buf[35]:235
+con: to produce:301 >= total:1000
+Consumed 234 by worker 1
+cons buf[34]:234
+con: to produce:301 >= total:1000
+Consumed 233 by worker 1
+cons buf[33]:233
+con: to produce:301 >= total:1000
+Consumed 232 by worker 1
+cons buf[32]:232
+con: to produce:301 >= total:1000
+Consumed 231 by worker 1
+cons buf[31]:231
+con: to produce:301 >= total:1000
+Consumed 230 by worker 1
+cons buf[30]:230
+con: to produce:301 >= total:1000
+Consumed 229 by worker 1
+cons buf[29]:229
+con: to produce:301 >= total:1000
+Consumed 228 by worker 1
+cons buf[28]:228
+con: to produce:301 >= total:1000
+Consumed 227 by worker 1
+cons buf[27]:227
+con: to produce:301 >= total:1000
+Consumed 226 by worker 1
+cons buf[26]:226
+con: to produce:301 >= total:1000
+Consumed 225 by worker 1
+cons buf[25]:225
+con: to produce:301 >= total:1000
+Consumed 224 by worker 1
+cons buf[24]:224
+con: to produce:301 >= total:1000
+Consumed 223 by worker 1
+cons buf[23]:223
+con: to produce:301 >= total:1000
+Consumed 222 by worker 1
+cons buf[22]:222
+con: to produce:301 >= total:1000
+Consumed 221 by worker 1
+cons buf[21]:221
+con: to produce:301 >= total:1000
+Consumed 220 by worker 1
+cons buf[20]:220
+con: to produce:301 >= total:1000
+Consumed 219 by worker 1
+cons buf[19]:219
+con: to produce:301 >= total:1000
+Consumed 218 by worker 1
+cons buf[18]:218
+con: to produce:301 >= total:1000
+Consumed 217 by worker 1
+cons buf[17]:217
+con: to produce:301 >= total:1000
+Consumed 216 by worker 1
+cons buf[16]:216
+con: to produce:301 >= total:1000
+Consumed 215 by worker 1
+cons buf[15]:215
+con: to produce:301 >= total:1000
+Consumed 214 by worker 1
+cons buf[14]:214
+con: to produce:301 >= total:1000
+Consumed 213 by worker 1
+cons buf[13]:213
+con: to produce:301 >= total:1000
+Consumed 212 by worker 1
+cons buf[12]:212
+con: to produce:301 >= total:1000
+Consumed 211 by worker 1
+cons buf[11]:211
+con: to produce:301 >= total:1000
+Consumed 210 by worker 1
+cons buf[10]:210
+con: to produce:301 >= total:1000
+Consumed 209 by worker 1
+cons buf[9]:209
+con: to produce:301 >= total:1000
+Consumed 208 by worker 1
+cons buf[8]:208
+con: to produce:301 >= total:1000
+Consumed 207 by worker 1
+cons buf[7]:207
+con: to produce:301 >= total:1000
+Consumed 206 by worker 1
+cons buf[6]:206
+con: to produce:301 >= total:1000
+Consumed 205 by worker 1
+cons buf[5]:205
+con: to produce:301 >= total:1000
+Consumed 204 by worker 1
+cons buf[4]:204
+con: to produce:301 >= total:1000
+Consumed 203 by worker 1
+cons buf[3]:203
+con: to produce:301 >= total:1000
+Consumed 202 by worker 1
+cons buf[2]:202
+con: to produce:301 >= total:1000
+Consumed 201 by worker 1
+cons buf[1]:201
+con: to produce:301 >= total:1000
+Consumed 200 by worker 1
+cons buf[0]:200
+con: to produce:301 >= total:1000
 consume:wait! empty
 produce: wake--
 Produced 301 by master 5
+prod buf[1]:-1
 Produced 302 by master 5
+prod buf[2]:-1
 Produced 303 by master 5
+prod buf[3]:-1
 Produced 304 by master 5
+prod buf[4]:-1
 Produced 305 by master 5
+prod buf[5]:-1
 Produced 306 by master 5
+prod buf[6]:-1
 Produced 307 by master 5
+prod buf[7]:-1
 Produced 308 by master 5
+prod buf[8]:-1
 Produced 309 by master 5
+prod buf[9]:-1
 Produced 310 by master 5
+prod buf[10]:-1
 Produced 311 by master 5
+prod buf[11]:-1
 Produced 312 by master 5
+prod buf[12]:-1
 Produced 313 by master 5
+prod buf[13]:-1
 Produced 314 by master 5
+prod buf[14]:-1
 Produced 315 by master 5
+prod buf[15]:-1
 Produced 316 by master 5
+prod buf[16]:-1
 Produced 317 by master 5
+prod buf[17]:-1
 Produced 318 by master 5
+prod buf[18]:-1
 Produced 319 by master 5
+prod buf[19]:-1
 Produced 320 by master 5
+prod buf[20]:-1
 Produced 321 by master 5
+prod buf[21]:-1
 Produced 322 by master 5
+prod buf[22]:-1
 Produced 323 by master 5
+prod buf[23]:-1
 Produced 324 by master 5
+prod buf[24]:-1
 Produced 325 by master 5
+prod buf[25]:-1
 Produced 326 by master 5
+prod buf[26]:-1
 Produced 327 by master 5
+prod buf[27]:-1
 Produced 328 by master 5
+prod buf[28]:-1
 Produced 329 by master 5
+prod buf[29]:-1
 Produced 330 by master 5
+prod buf[30]:-1
 Produced 331 by master 5
+prod buf[31]:-1
 Produced 332 by master 5
+prod buf[32]:-1
 Produced 333 by master 5
+prod buf[33]:-1
 Produced 334 by master 5
+prod buf[34]:-1
 Produced 335 by master 5
+prod buf[35]:-1
 Produced 336 by master 5
+prod buf[36]:-1
 Produced 337 by master 5
+prod buf[37]:-1
 Produced 338 by master 5
+prod buf[38]:-1
 Produced 339 by master 5
+prod buf[39]:-1
 Produced 340 by master 5
+prod buf[40]:-1
 Produced 341 by master 5
+prod buf[41]:-1
 Produced 342 by master 5
+prod buf[42]:-1
 Produced 343 by master 5
+prod buf[43]:-1
 Produced 344 by master 5
+prod buf[44]:-1
 Produced 345 by master 5
+prod buf[45]:-1
 Produced 346 by master 5
+prod buf[46]:-1
 Produced 347 by master 5
+prod buf[47]:-1
 Produced 348 by master 5
+prod buf[48]:-1
 Produced 349 by master 5
+prod buf[49]:-1
 Produced 350 by master 5
+prod buf[50]:-1
 Produced 351 by master 5
+prod buf[51]:-1
 Produced 352 by master 5
+prod buf[52]:-1
 Produced 353 by master 5
+prod buf[53]:-1
 Produced 354 by master 5
+prod buf[54]:-1
 Produced 355 by master 5
+prod buf[55]:-1
 Produced 356 by master 5
+prod buf[56]:-1
 Produced 357 by master 5
+prod buf[57]:-1
 Produced 358 by master 5
+prod buf[58]:-1
 Produced 359 by master 5
+prod buf[59]:-1
 Produced 360 by master 5
+prod buf[60]:-1
 Produced 361 by master 5
+prod buf[61]:-1
 Produced 362 by master 5
+prod buf[62]:-1
 Produced 363 by master 5
+prod buf[63]:-1
 Produced 364 by master 5
+prod buf[64]:-1
 Produced 365 by master 5
+prod buf[65]:-1
 Produced 366 by master 5
+prod buf[66]:-1
 Produced 367 by master 5
+prod buf[67]:-1
 Produced 368 by master 5
+prod buf[68]:-1
 Produced 369 by master 5
+prod buf[69]:-1
 Produced 370 by master 5
+prod buf[70]:-1
 Produced 371 by master 5
+prod buf[71]:-1
 Produced 372 by master 5
+prod buf[72]:-1
 Produced 373 by master 5
+prod buf[73]:-1
 Produced 374 by master 5
+prod buf[74]:-1
 Produced 375 by master 5
+prod buf[75]:-1
 Produced 376 by master 5
+prod buf[76]:-1
 Produced 377 by master 5
+prod buf[77]:-1
 Produced 378 by master 5
+prod buf[78]:-1
 Produced 379 by master 5
+prod buf[79]:-1
 Produced 380 by master 5
+prod buf[80]:-1
 Produced 381 by master 5
+prod buf[81]:-1
 Produced 382 by master 5
+prod buf[82]:-1
 Produced 383 by master 5
+prod buf[83]:-1
 Produced 384 by master 5
+prod buf[84]:-1
 Produced 385 by master 5
+prod buf[85]:-1
 Produced 386 by master 5
+prod buf[86]:-1
 Produced 387 by master 5
+prod buf[87]:-1
 Produced 388 by master 5
+prod buf[88]:-1
 Produced 389 by master 5
+prod buf[89]:-1
 Produced 390 by master 5
+prod buf[90]:-1
 Produced 391 by master 5
+prod buf[91]:-1
 Produced 392 by master 5
+prod buf[92]:-1
 Produced 393 by master 5
+prod buf[93]:-1
 Produced 394 by master 5
+prod buf[94]:-1
 Produced 395 by master 5
+prod buf[95]:-1
 Produced 396 by master 5
+prod buf[96]:-1
 Produced 397 by master 5
+prod buf[97]:-1
 Produced 398 by master 5
+prod buf[98]:-1
 Produced 399 by master 5
+prod buf[99]:-1
 Produced 400 by master 5
+prod buf[100]:0
+wait! maxbuf
+consume:wake--.
+zai con currbuf:100  buf:0
+Consumed 400 by worker 1
+cons buf[99]:400
+con: to produce:401 >= total:1000
+produce: wake--
+Produced 401 by master 4
+prod buf[100]:0
+wait! maxbuf
+Consumed 401 by worker 1
+cons buf[99]:401
+con: to produce:402 >= total:1000
+Consumed 399 by worker 1
+cons buf[98]:399
+con: to produce:402 >= total:1000
+Consumed 398 by worker 1
+cons buf[97]:398
+con: to produce:402 >= total:1000
+Consumed 397 by worker 1
+cons buf[96]:397
+con: to produce:402 >= total:1000
+Consumed 396 by worker 1
+cons buf[95]:396
+con: to produce:402 >= total:1000
+Consumed 395 by worker 1
+cons buf[94]:395
+con: to produce:402 >= total:1000
+Consumed 394 by worker 1
+cons buf[93]:394
+con: to produce:402 >= total:1000
+Consumed 393 by worker 1
+cons buf[92]:393
+con: to produce:402 >= total:1000
+Consumed 392 by worker 1
+cons buf[91]:392
+con: to produce:402 >= total:1000
+Consumed 391 by worker 1
+cons buf[90]:391
+con: to produce:402 >= total:1000
+Consumed 390 by worker 1
+cons buf[89]:390
+con: to produce:402 >= total:1000
+Consumed 389 by worker 1
+cons buf[88]:389
+con: to produce:402 >= total:1000
+Consumed 388 by worker 1
+cons buf[87]:388
+con: to produce:402 >= total:1000
+Consumed 387 by worker 1
+cons buf[86]:387
+con: to produce:402 >= total:1000
+Consumed 386 by worker 1
+cons buf[85]:386
+con: to produce:402 >= total:1000
+Consumed 385 by worker 1
+cons buf[84]:385
+con: to produce:402 >= total:1000
+Consumed 384 by worker 1
+cons buf[83]:384
+con: to produce:402 >= total:1000
+Consumed 383 by worker 1
+cons buf[82]:383
+con: to produce:402 >= total:1000
+Consumed 382 by worker 1
+cons buf[81]:382
+con: to produce:402 >= total:1000
+Consumed 381 by worker 1
+cons buf[80]:381
+con: to produce:402 >= total:1000
+Consumed 380 by worker 1
+cons buf[79]:380
+con: to produce:402 >= total:1000
+Consumed 379 by worker 1
+cons buf[78]:379
+con: to produce:402 >= total:1000
+Consumed 378 by worker 1
+cons buf[77]:378
+con: to produce:402 >= total:1000
+Consumed 377 by worker 1
+cons buf[76]:377
+con: to produce:402 >= total:1000
+Consumed 376 by worker 1
+cons buf[75]:376
+con: to produce:402 >= total:1000
+Consumed 375 by worker 1
+cons buf[74]:375
+con: to produce:402 >= total:1000
+Consumed 374 by worker 1
+cons buf[73]:374
+con: to produce:402 >= total:1000
+Consumed 373 by worker 1
+cons buf[72]:373
+con: to produce:402 >= total:1000
+Consumed 372 by worker 1
+cons buf[71]:372
+con: to produce:402 >= total:1000
+Consumed 371 by worker 1
+cons buf[70]:371
+con: to produce:402 >= total:1000
+Consumed 370 by worker 1
+cons buf[69]:370
+con: to produce:402 >= total:1000
+Consumed 369 by worker 1
+cons buf[68]:369
+con: to produce:402 >= total:1000
+Consumed 368 by worker 1
+cons buf[67]:368
+con: to produce:402 >= total:1000
+Consumed 367 by worker 1
+cons buf[66]:367
+con: to produce:402 >= total:1000
+Consumed 366 by worker 1
+cons buf[65]:366
+con: to produce:402 >= total:1000
+Consumed 365 by worker 1
+cons buf[64]:365
+con: to produce:402 >= total:1000
+Consumed 364 by worker 1
+cons buf[63]:364
+con: to produce:402 >= total:1000
+Consumed 363 by worker 1
+cons buf[62]:363
+con: to produce:402 >= total:1000
+Consumed 362 by worker 1
+cons buf[61]:362
+con: to produce:402 >= total:1000
+Consumed 361 by worker 1
+cons buf[60]:361
+con: to produce:402 >= total:1000
+Consumed 360 by worker 1
+cons buf[59]:360
+con: to produce:402 >= total:1000
+Consumed 359 by worker 1
+cons buf[58]:359
+con: to produce:402 >= total:1000
+Consumed 358 by worker 1
+cons buf[57]:358
+con: to produce:402 >= total:1000
+Consumed 357 by worker 1
+cons buf[56]:357
+con: to produce:402 >= total:1000
+Consumed 356 by worker 1
+cons buf[55]:356
+con: to produce:402 >= total:1000
+Consumed 355 by worker 1
+cons buf[54]:355
+con: to produce:402 >= total:1000
+Consumed 354 by worker 1
+cons buf[53]:354
+con: to produce:402 >= total:1000
+Consumed 353 by worker 1
+cons buf[52]:353
+con: to produce:402 >= total:1000
+Consumed 352 by worker 1
+cons buf[51]:352
+con: to produce:402 >= total:1000
+Consumed 351 by worker 1
+cons buf[50]:351
+con: to produce:402 >= total:1000
+Consumed 350 by worker 1
+cons buf[49]:350
+con: to produce:402 >= total:1000
+Consumed 349 by worker 1
+cons buf[48]:349
+con: to produce:402 >= total:1000
+Consumed 348 by worker 1
+cons buf[47]:348
+con: to produce:402 >= total:1000
+Consumed 347 by worker 1
+cons buf[46]:347
+con: to produce:402 >= total:1000
+Consumed 346 by worker 1
+cons buf[45]:346
+con: to produce:402 >= total:1000
+Consumed 345 by worker 1
+cons buf[44]:345
+con: to produce:402 >= total:1000
+Consumed 344 by worker 1
+cons buf[43]:344
+con: to produce:402 >= total:1000
+Consumed 343 by worker 1
+cons buf[42]:343
+con: to produce:402 >= total:1000
+Consumed 342 by worker 1
+cons buf[41]:342
+con: to produce:402 >= total:1000
+Consumed 341 by worker 1
+cons buf[40]:341
+con: to produce:402 >= total:1000
+Consumed 340 by worker 1
+cons buf[39]:340
+con: to produce:402 >= total:1000
+Consumed 339 by worker 1
+cons buf[38]:339
+con: to produce:402 >= total:1000
+Consumed 338 by worker 1
+cons buf[37]:338
+con: to produce:402 >= total:1000
+Consumed 337 by worker 1
+cons buf[36]:337
+con: to produce:402 >= total:1000
+Consumed 336 by worker 1
+cons buf[35]:336
+con: to produce:402 >= total:1000
+Consumed 335 by worker 1
+cons buf[34]:335
+con: to produce:402 >= total:1000
+Consumed 334 by worker 1
+cons buf[33]:334
+con: to produce:402 >= total:1000
+Consumed 333 by worker 1
+cons buf[32]:333
+con: to produce:402 >= total:1000
+Consumed 332 by worker 1
+cons buf[31]:332
+con: to produce:402 >= total:1000
+Consumed 331 by worker 1
+cons buf[30]:331
+con: to produce:402 >= total:1000
+Consumed 330 by worker 1
+cons buf[29]:330
+con: to produce:402 >= total:1000
+Consumed 329 by worker 1
+cons buf[28]:329
+con: to produce:402 >= total:1000
+Consumed 328 by worker 1
+cons buf[27]:328
+con: to produce:402 >= total:1000
+Consumed 327 by worker 1
+cons buf[26]:327
+con: to produce:402 >= total:1000
+Consumed 326 by worker 1
+cons buf[25]:326
+con: to produce:402 >= total:1000
+Consumed 325 by worker 1
+cons buf[24]:325
+con: to produce:402 >= total:1000
+Consumed 324 by worker 1
+cons buf[23]:324
+con: to produce:402 >= total:1000
+Consumed 323 by worker 1
+cons buf[22]:323
+con: to produce:402 >= total:1000
+Consumed 322 by worker 1
+cons buf[21]:322
+con: to produce:402 >= total:1000
+Consumed 321 by worker 1
+cons buf[20]:321
+con: to produce:402 >= total:1000
+Consumed 320 by worker 1
+cons buf[19]:320
+con: to produce:402 >= total:1000
+Consumed 319 by worker 1
+cons buf[18]:319
+con: to produce:402 >= total:1000
+Consumed 318 by worker 1
+cons buf[17]:318
+con: to produce:402 >= total:1000
+Consumed 317 by worker 1
+cons buf[16]:317
+con: to produce:402 >= total:1000
+Consumed 316 by worker 1
+cons buf[15]:316
+con: to produce:402 >= total:1000
+Consumed 315 by worker 1
+cons buf[14]:315
+con: to produce:402 >= total:1000
+Consumed 314 by worker 1
+cons buf[13]:314
+con: to produce:402 >= total:1000
+Consumed 313 by worker 1
+cons buf[12]:313
+con: to produce:402 >= total:1000
+Consumed 312 by worker 1
+cons buf[11]:312
+con: to produce:402 >= total:1000
+Consumed 311 by worker 1
+cons buf[10]:311
+con: to produce:402 >= total:1000
+Consumed 310 by worker 1
+cons buf[9]:310
+con: to produce:402 >= total:1000
+Consumed 309 by worker 1
+cons buf[8]:309
+con: to produce:402 >= total:1000
+Consumed 308 by worker 1
+cons buf[7]:308
+con: to produce:402 >= total:1000
+Consumed 307 by worker 1
+cons buf[6]:307
+con: to produce:402 >= total:1000
+Consumed 306 by worker 1
+cons buf[5]:306
+con: to produce:402 >= total:1000
+Consumed 305 by worker 1
+cons buf[4]:305
+con: to produce:402 >= total:1000
+Consumed 304 by worker 1
+cons buf[3]:304
+con: to produce:402 >= total:1000
+Consumed 303 by worker 1
+cons buf[2]:303
+con: to produce:402 >= total:1000
+Consumed 302 by worker 1
+cons buf[1]:302
+con: to produce:402 >= total:1000
+Consumed 301 by worker 1
+cons buf[0]:301
+con: to produce:402 >= total:1000
+consume:wait! empty
+produce: wake--
+Produced 402 by master 4
+prod buf[1]:-1
+Produced 403 by master 4
+prod buf[2]:-1
+Produced 404 by master 4
+prod buf[3]:-1
+Produced 405 by master 4
+prod buf[4]:-1
+Produced 406 by master 4
+prod buf[5]:-1
+Produced 407 by master 4
+prod buf[6]:-1
+Produced 408 by master 4
+prod buf[7]:-1
+Produced 409 by master 4
+prod buf[8]:-1
+Produced 410 by master 4
+prod buf[9]:-1
+Produced 411 by master 4
+prod buf[10]:-1
+Produced 412 by master 4
+prod buf[11]:-1
+Produced 413 by master 4
+prod buf[12]:-1
+Produced 414 by master 4
+prod buf[13]:-1
+Produced 415 by master 4
+prod buf[14]:-1
+Produced 416 by master 4
+prod buf[15]:-1
+Produced 417 by master 4
+prod buf[16]:-1
+Produced 418 by master 4
+prod buf[17]:-1
+Produced 419 by master 4
+prod buf[18]:-1
+Produced 420 by master 4
+prod buf[19]:-1
+Produced 421 by master 4
+prod buf[20]:-1
+Produced 422 by master 4
+prod buf[21]:-1
+Produced 423 by master 4
+prod buf[22]:-1
+Produced 424 by master 4
+prod buf[23]:-1
+Produced 425 by master 4
+prod buf[24]:-1
+Produced 426 by master 4
+prod buf[25]:-1
+Produced 427 by master 4
+prod buf[26]:-1
+Produced 428 by master 4
+prod buf[27]:-1
+Produced 429 by master 4
+prod buf[28]:-1
+Produced 430 by master 4
+prod buf[29]:-1
+Produced 431 by master 4
+prod buf[30]:-1
+Produced 432 by master 4
+prod buf[31]:-1
+Produced 433 by master 4
+prod buf[32]:-1
+Produced 434 by master 4
+prod buf[33]:-1
+Produced 435 by master 4
+prod buf[34]:-1
+Produced 436 by master 4
+prod buf[35]:-1
+Produced 437 by master 4
+prod buf[36]:-1
+Produced 438 by master 4
+prod buf[37]:-1
+Produced 439 by master 4
+prod buf[38]:-1
+Produced 440 by master 4
+prod buf[39]:-1
+Produced 441 by master 4
+prod buf[40]:-1
+Produced 442 by master 4
+prod buf[41]:-1
+Produced 443 by master 4
+prod buf[42]:-1
+Produced 444 by master 4
+prod buf[43]:-1
+Produced 445 by master 4
+prod buf[44]:-1
+Produced 446 by master 4
+prod buf[45]:-1
+Produced 447 by master 4
+prod buf[46]:-1
+Produced 448 by master 4
+prod buf[47]:-1
+Produced 449 by master 4
+prod buf[48]:-1
+Produced 450 by master 4
+prod buf[49]:-1
+Produced 451 by master 4
+prod buf[50]:-1
+Produced 452 by master 4
+prod buf[51]:-1
+Produced 453 by master 4
+prod buf[52]:-1
+Produced 454 by master 4
+prod buf[53]:-1
+Produced 455 by master 4
+prod buf[54]:-1
+Produced 456 by master 4
+prod buf[55]:-1
+Produced 457 by master 4
+prod buf[56]:-1
+Produced 458 by master 4
+prod buf[57]:-1
+Produced 459 by master 4
+prod buf[58]:-1
+Produced 460 by master 4
+prod buf[59]:-1
+Produced 461 by master 4
+prod buf[60]:-1
+Produced 462 by master 4
+prod buf[61]:-1
+Produced 463 by master 4
+prod buf[62]:-1
+Produced 464 by master 4
+prod buf[63]:-1
+Produced 465 by master 4
+prod buf[64]:-1
+Produced 466 by master 4
+prod buf[65]:-1
+Produced 467 by master 4
+prod buf[66]:-1
+Produced 468 by master 4
+prod buf[67]:-1
+Produced 469 by master 4
+prod buf[68]:-1
+Produced 470 by master 4
+prod buf[69]:-1
+Produced 471 by master 4
+prod buf[70]:-1
+Produced 472 by master 4
+prod buf[71]:-1
+Produced 473 by master 4
+prod buf[72]:-1
+Produced 474 by master 4
+prod buf[73]:-1
+Produced 475 by master 4
+prod buf[74]:-1
+Produced 476 by master 4
+prod buf[75]:-1
+Produced 477 by master 4
+prod buf[76]:-1
+Produced 478 by master 4
+prod buf[77]:-1
+Produced 479 by master 4
+prod buf[78]:-1
+Produced 480 by master 4
+prod buf[79]:-1
+Produced 481 by master 4
+prod buf[80]:-1
+Produced 482 by master 4
+prod buf[81]:-1
+Produced 483 by master 4
+prod buf[82]:-1
+Produced 484 by master 4
+prod buf[83]:-1
+Produced 485 by master 4
+prod buf[84]:-1
+Produced 486 by master 4
+prod buf[85]:-1
+Produced 487 by master 4
+prod buf[86]:-1
+Produced 488 by master 4
+prod buf[87]:-1
+Produced 489 by master 4
+prod buf[88]:-1
+Produced 490 by master 4
+prod buf[89]:-1
+Produced 491 by master 4
+prod buf[90]:-1
+Produced 492 by master 4
+prod buf[91]:-1
+Produced 493 by master 4
+prod buf[92]:-1
+Produced 494 by master 4
+prod buf[93]:-1
+Produced 495 by master 4
+prod buf[94]:-1
+Produced 496 by master 4
+prod buf[95]:-1
+Produced 497 by master 4
+prod buf[96]:-1
+Produced 498 by master 4
+prod buf[97]:-1
+Produced 499 by master 4
+prod buf[98]:-1
+Produced 500 by master 4
+prod buf[99]:-1
+Produced 501 by master 4
+prod buf[100]:0
 wait! maxbuf
 produce: wake--
 wait! maxbuf
 consume:wake--.
 zai con currbuf:100  buf:0
-Consumed 400 by worker 0
-Consumed 399 by worker 0
-Consumed 398 by worker 0
-Consumed 397 by worker 0
-Consumed 396 by worker 0
-Consumed 395 by worker 0
-Consumed 394 by worker 0
-Consumed 393 by worker 0
-Consumed 392 by worker 0
-Consumed 391 by worker 0
-Consumed 390 by worker 0
-Consumed 389 by worker 0
-Consumed 388 by worker 0
-Consumed 387 by worker 0
-Consumed 386 by worker 0
-Consumed 385 by worker 0
-Consumed 384 by worker 0
-Consumed 383 by worker 0
-Consumed 382 by worker 0
-Consumed 381 by worker 0
-Consumed 380 by worker 0
-Consumed 379 by worker 0
-Consumed 378 by worker 0
-Consumed 377 by worker 0
-Consumed 376 by worker 0
-Consumed 375 by worker 0
-Consumed 374 by worker 0
-Consumed 373 by worker 0
-Consumed 372 by worker 0
-Consumed 371 by worker 0
-Consumed 370 by worker 0
-Consumed 369 by worker 0
-Consumed 368 by worker 0
-Consumed 367 by worker 0
-Consumed 366 by worker 0
-Consumed 365 by worker 0
-Consumed 364 by worker 0
-Consumed 363 by worker 0
-Consumed 362 by worker 0
-Consumed 361 by worker 0
-Consumed 360 by worker 0
-Consumed 359 by worker 0
-Consumed 358 by worker 0
-Consumed 357 by worker 0
-Consumed 356 by worker 0
-Consumed 355 by worker 0
-Consumed 354 by worker 0
-Consumed 353 by worker 0
-Consumed 352 by worker 0
-Consumed 351 by worker 0
-Consumed 350 by worker 0
-Consumed 349 by worker 0
-Consumed 348 by worker 0
-Consumed 347 by worker 0
-Consumed 346 by worker 0
-Consumed 345 by worker 0
-Consumed 344 by worker 0
-Consumed 343 by worker 0
-Consumed 342 by worker 0
-Consumed 341 by worker 0
-Consumed 340 by worker 0
-Consumed 339 by worker 0
-Consumed 338 by worker 0
-Consumed 337 by worker 0
-Consumed 336 by worker 0
-Consumed 335 by worker 0
-Consumed 334 by worker 0
-Consumed 333 by worker 0
-Consumed 332 by worker 0
-Consumed 331 by worker 0
-Consumed 330 by worker 0
-Consumed 329 by worker 0
-Consumed 328 by worker 0
-Consumed 327 by worker 0
-Consumed 326 by worker 0
-Consumed 325 by worker 0
-Consumed 324 by worker 0
-Consumed 323 by worker 0
-Consumed 322 by worker 0
-Consumed 321 by worker 0
-Consumed 320 by worker 0
-Consumed 319 by worker 0
-Consumed 318 by worker 0
-Consumed 317 by worker 0
-Consumed 316 by worker 0
-Consumed 315 by worker 0
-Consumed 314 by worker 0
-Consumed 313 by worker 0
-Consumed 312 by worker 0
-Consumed 311 by worker 0
-Consumed 310 by worker 0
-Consumed 309 by worker 0
-Consumed 308 by worker 0
-Consumed 307 by worker 0
-Consumed 306 by worker 0
-Consumed 305 by worker 0
-Consumed 304 by worker 0
-Consumed 303 by worker 0
-Consumed 302 by worker 0
-Consumed 301 by worker 0
+Consumed 501 by worker 1
+cons buf[99]:501
+con: to produce:502 >= total:1000
+Consumed 500 by worker 1
+cons buf[98]:500
+con: to produce:502 >= total:1000
+Consumed 499 by worker 1
+cons buf[97]:499
+con: to produce:502 >= total:1000
+Consumed 498 by worker 1
+cons buf[96]:498
+con: to produce:502 >= total:1000
+Consumed 497 by worker 1
+cons buf[95]:497
+con: to produce:502 >= total:1000
+Consumed 496 by worker 1
+cons buf[94]:496
+con: to produce:502 >= total:1000
+Consumed 495 by worker 1
+cons buf[93]:495
+con: to produce:502 >= total:1000
+Consumed 494 by worker 1
+cons buf[92]:494
+con: to produce:502 >= total:1000
+Consumed 493 by worker 1
+cons buf[91]:493
+con: to produce:502 >= total:1000
+Consumed 492 by worker 1
+cons buf[90]:492
+con: to produce:502 >= total:1000
+Consumed 491 by worker 1
+cons buf[89]:491
+con: to produce:502 >= total:1000
+Consumed 490 by worker 1
+cons buf[88]:490
+con: to produce:502 >= total:1000
+Consumed 489 by worker 1
+cons buf[87]:489
+con: to produce:502 >= total:1000
+Consumed 488 by worker 1
+cons buf[86]:488
+con: to produce:502 >= total:1000
+Consumed 487 by worker 1
+cons buf[85]:487
+con: to produce:502 >= total:1000
+Consumed 486 by worker 1
+cons buf[84]:486
+con: to produce:502 >= total:1000
+Consumed 485 by worker 1
+cons buf[83]:485
+con: to produce:502 >= total:1000
+Consumed 484 by worker 1
+cons buf[82]:484
+con: to produce:502 >= total:1000
+Consumed 483 by worker 1
+cons buf[81]:483
+con: to produce:502 >= total:1000
+Consumed 482 by worker 1
+cons buf[80]:482
+con: to produce:502 >= total:1000
+Consumed 481 by worker 1
+cons buf[79]:481
+con: to produce:502 >= total:1000
+Consumed 480 by worker 1
+cons buf[78]:480
+con: to produce:502 >= total:1000
+Consumed 479 by worker 1
+cons buf[77]:479
+con: to produce:502 >= total:1000
+Consumed 478 by worker 1
+cons buf[76]:478
+con: to produce:502 >= total:1000
+Consumed 477 by worker 1
+cons buf[75]:477
+con: to produce:502 >= total:1000
+Consumed 476 by worker 1
+cons buf[74]:476
+con: to produce:502 >= total:1000
+Consumed 475 by worker 1
+cons buf[73]:475
+con: to produce:502 >= total:1000
+Consumed 474 by worker 1
+cons buf[72]:474
+con: to produce:502 >= total:1000
+Consumed 473 by worker 1
+cons buf[71]:473
+con: to produce:502 >= total:1000
+Consumed 472 by worker 1
+cons buf[70]:472
+con: to produce:502 >= total:1000
+Consumed 471 by worker 1
+cons buf[69]:471
+con: to produce:502 >= total:1000
+Consumed 470 by worker 1
+cons buf[68]:470
+con: to produce:502 >= total:1000
+Consumed 469 by worker 1
+cons buf[67]:469
+con: to produce:502 >= total:1000
+Consumed 468 by worker 1
+cons buf[66]:468
+con: to produce:502 >= total:1000
+Consumed 467 by worker 1
+cons buf[65]:467
+con: to produce:502 >= total:1000
+Consumed 466 by worker 1
+cons buf[64]:466
+con: to produce:502 >= total:1000
+Consumed 465 by worker 1
+cons buf[63]:465
+con: to produce:502 >= total:1000
+Consumed 464 by worker 1
+cons buf[62]:464
+con: to produce:502 >= total:1000
+Consumed 463 by worker 1
+cons buf[61]:463
+con: to produce:502 >= total:1000
+Consumed 462 by worker 1
+cons buf[60]:462
+con: to produce:502 >= total:1000
+Consumed 461 by worker 1
+cons buf[59]:461
+con: to produce:502 >= total:1000
+Consumed 460 by worker 1
+cons buf[58]:460
+con: to produce:502 >= total:1000
+Consumed 459 by worker 1
+cons buf[57]:459
+con: to produce:502 >= total:1000
+Consumed 458 by worker 1
+cons buf[56]:458
+con: to produce:502 >= total:1000
+Consumed 457 by worker 1
+cons buf[55]:457
+con: to produce:502 >= total:1000
+Consumed 456 by worker 1
+cons buf[54]:456
+con: to produce:502 >= total:1000
+Consumed 455 by worker 1
+cons buf[53]:455
+con: to produce:502 >= total:1000
+Consumed 454 by worker 1
+cons buf[52]:454
+con: to produce:502 >= total:1000
+Consumed 453 by worker 1
+cons buf[51]:453
+con: to produce:502 >= total:1000
+Consumed 452 by worker 1
+cons buf[50]:452
+con: to produce:502 >= total:1000
+Consumed 451 by worker 1
+cons buf[49]:451
+con: to produce:502 >= total:1000
+Consumed 450 by worker 1
+cons buf[48]:450
+con: to produce:502 >= total:1000
+Consumed 449 by worker 1
+cons buf[47]:449
+con: to produce:502 >= total:1000
+Consumed 448 by worker 1
+cons buf[46]:448
+con: to produce:502 >= total:1000
+Consumed 447 by worker 1
+cons buf[45]:447
+con: to produce:502 >= total:1000
+Consumed 446 by worker 1
+cons buf[44]:446
+con: to produce:502 >= total:1000
+Consumed 445 by worker 1
+cons buf[43]:445
+con: to produce:502 >= total:1000
+Consumed 444 by worker 1
+cons buf[42]:444
+con: to produce:502 >= total:1000
+Consumed 443 by worker 1
+cons buf[41]:443
+con: to produce:502 >= total:1000
+Consumed 442 by worker 1
+cons buf[40]:442
+con: to produce:502 >= total:1000
+Consumed 441 by worker 1
+cons buf[39]:441
+con: to produce:502 >= total:1000
+Consumed 440 by worker 1
+cons buf[38]:440
+con: to produce:502 >= total:1000
+Consumed 439 by worker 1
+cons buf[37]:439
+con: to produce:502 >= total:1000
+Consumed 438 by worker 1
+cons buf[36]:438
+con: to produce:502 >= total:1000
+Consumed 437 by worker 1
+cons buf[35]:437
+con: to produce:502 >= total:1000
+Consumed 436 by worker 1
+cons buf[34]:436
+con: to produce:502 >= total:1000
+Consumed 435 by worker 1
+cons buf[33]:435
+con: to produce:502 >= total:1000
+Consumed 434 by worker 1
+cons buf[32]:434
+con: to produce:502 >= total:1000
+Consumed 433 by worker 1
+cons buf[31]:433
+con: to produce:502 >= total:1000
+Consumed 432 by worker 1
+cons buf[30]:432
+con: to produce:502 >= total:1000
+Consumed 431 by worker 1
+cons buf[29]:431
+con: to produce:502 >= total:1000
+Consumed 430 by worker 1
+cons buf[28]:430
+con: to produce:502 >= total:1000
+Consumed 429 by worker 1
+cons buf[27]:429
+con: to produce:502 >= total:1000
+Consumed 428 by worker 1
+cons buf[26]:428
+con: to produce:502 >= total:1000
+Consumed 427 by worker 1
+cons buf[25]:427
+con: to produce:502 >= total:1000
+Consumed 426 by worker 1
+cons buf[24]:426
+con: to produce:502 >= total:1000
+Consumed 425 by worker 1
+cons buf[23]:425
+con: to produce:502 >= total:1000
+Consumed 424 by worker 1
+cons buf[22]:424
+con: to produce:502 >= total:1000
+Consumed 423 by worker 1
+cons buf[21]:423
+con: to produce:502 >= total:1000
+Consumed 422 by worker 1
+cons buf[20]:422
+con: to produce:502 >= total:1000
+Consumed 421 by worker 1
+cons buf[19]:421
+con: to produce:502 >= total:1000
+Consumed 420 by worker 1
+cons buf[18]:420
+con: to produce:502 >= total:1000
+Consumed 419 by worker 1
+cons buf[17]:419
+con: to produce:502 >= total:1000
+Consumed 418 by worker 1
+cons buf[16]:418
+con: to produce:502 >= total:1000
+Consumed 417 by worker 1
+cons buf[15]:417
+con: to produce:502 >= total:1000
+Consumed 416 by worker 1
+cons buf[14]:416
+con: to produce:502 >= total:1000
+Consumed 415 by worker 1
+cons buf[13]:415
+con: to produce:502 >= total:1000
+Consumed 414 by worker 1
+cons buf[12]:414
+con: to produce:502 >= total:1000
+Consumed 413 by worker 1
+cons buf[11]:413
+con: to produce:502 >= total:1000
+Consumed 412 by worker 1
+cons buf[10]:412
+con: to produce:502 >= total:1000
+Consumed 411 by worker 1
+cons buf[9]:411
+con: to produce:502 >= total:1000
+Consumed 410 by worker 1
+cons buf[8]:410
+con: to produce:502 >= total:1000
+Consumed 409 by worker 1
+cons buf[7]:409
+con: to produce:502 >= total:1000
+Consumed 408 by worker 1
+cons buf[6]:408
+con: to produce:502 >= total:1000
+Consumed 407 by worker 1
+cons buf[5]:407
+con: to produce:502 >= total:1000
+Consumed 406 by worker 1
+cons buf[4]:406
+con: to produce:502 >= total:1000
+Consumed 405 by worker 1
+cons buf[3]:405
+con: to produce:502 >= total:1000
+Consumed 404 by worker 1
+cons buf[2]:404
+con: to produce:502 >= total:1000
+Consumed 403 by worker 1
+cons buf[1]:403
+con: to produce:502 >= total:1000
+Consumed 402 by worker 1
+cons buf[0]:402
+con: to produce:502 >= total:1000
 consume:wait! empty
 produce: wake--
-Produced 401 by master 6
-Produced 402 by master 6
-Produced 403 by master 6
-Produced 404 by master 6
-Produced 405 by master 6
-Produced 406 by master 6
-Produced 407 by master 6
-Produced 408 by master 6
-Produced 409 by master 6
-Produced 410 by master 6
-Produced 411 by master 6
-Produced 412 by master 6
-Produced 413 by master 6
-Produced 414 by master 6
-Produced 415 by master 6
-Produced 416 by master 6
-Produced 417 by master 6
-Produced 418 by master 6
-Produced 419 by master 6
-Produced 420 by master 6
-Produced 421 by master 6
-Produced 422 by master 6
-Produced 423 by master 6
-Produced 424 by master 6
-Produced 425 by master 6
-Produced 426 by master 6
-Produced 427 by master 6
-Produced 428 by master 6
-Produced 429 by master 6
-Produced 430 by master 6
-Produced 431 by master 6
-Produced 432 by master 6
-Produced 433 by master 6
-Produced 434 by master 6
-Produced 435 by master 6
-Produced 436 by master 6
-Produced 437 by master 6
-Produced 438 by master 6
-Produced 439 by master 6
-Produced 440 by master 6
-Produced 441 by master 6
-Produced 442 by master 6
-Produced 443 by master 6
-Produced 444 by master 6
-Produced 445 by master 6
-Produced 446 by master 6
-Produced 447 by master 6
-Produced 448 by master 6
-Produced 449 by master 6
-Produced 450 by master 6
-Produced 451 by master 6
-Produced 452 by master 6
-Produced 453 by master 6
-Produced 454 by master 6
-Produced 455 by master 6
-Produced 456 by master 6
-Produced 457 by master 6
-Produced 458 by master 6
-Produced 459 by master 6
-Produced 460 by master 6
-Produced 461 by master 6
-Produced 462 by master 6
-Produced 463 by master 6
-Produced 464 by master 6
-Produced 465 by master 6
-Produced 466 by master 6
-Produced 467 by master 6
-Produced 468 by master 6
-Produced 469 by master 6
-Produced 470 by master 6
-Produced 471 by master 6
-Produced 472 by master 6
-Produced 473 by master 6
-Produced 474 by master 6
-Produced 475 by master 6
-Produced 476 by master 6
-Produced 477 by master 6
-Produced 478 by master 6
-Produced 479 by master 6
-Produced 480 by master 6
-Produced 481 by master 6
-Produced 482 by master 6
-Produced 483 by master 6
-Produced 484 by master 6
-Produced 485 by master 6
-Produced 486 by master 6
-Produced 487 by master 6
-Produced 488 by master 6
-Produced 489 by master 6
-Produced 490 by master 6
-Produced 491 by master 6
-Produced 492 by master 6
-Produced 493 by master 6
-Produced 494 by master 6
-Produced 495 by master 6
-Produced 496 by master 6
-Produced 497 by master 6
-Produced 498 by master 6
-Produced 499 by master 6
-Produced 500 by master 6
-wait! maxbuf
-produce: wake--
-wait! maxbuf
-producer got lock
-wait! maxbuf
-consume:wake--.
-zai con currbuf:100  buf:0
-Consumed 500 by worker 0
-Consumed 499 by worker 0
-Consumed 498 by worker 0
-Consumed 497 by worker 0
-Consumed 496 by worker 0
-Consumed 495 by worker 0
-Consumed 494 by worker 0
-Consumed 493 by worker 0
-Consumed 492 by worker 0
-Consumed 491 by worker 0
-Consumed 490 by worker 0
-Consumed 489 by worker 0
-Consumed 488 by worker 0
-Consumed 487 by worker 0
-Consumed 486 by worker 0
-Consumed 485 by worker 0
-Consumed 484 by worker 0
-Consumed 483 by worker 0
-Consumed 482 by worker 0
-Consumed 481 by worker 0
-Consumed 480 by worker 0
-Consumed 479 by worker 0
-Consumed 478 by worker 0
-Consumed 477 by worker 0
-Consumed 476 by worker 0
-Consumed 475 by worker 0
-Consumed 474 by worker 0
-Consumed 473 by worker 0
-Consumed 472 by worker 0
-Consumed 471 by worker 0
-Consumed 470 by worker 0
-Consumed 469 by worker 0
-Consumed 468 by worker 0
-Consumed 467 by worker 0
-Consumed 466 by worker 0
-Consumed 465 by worker 0
-Consumed 464 by worker 0
-Consumed 463 by worker 0
-Consumed 462 by worker 0
-Consumed 461 by worker 0
-Consumed 460 by worker 0
-Consumed 459 by worker 0
-Consumed 458 by worker 0
-Consumed 457 by worker 0
-Consumed 456 by worker 0
-Consumed 455 by worker 0
-Consumed 454 by worker 0
-Consumed 453 by worker 0
-Consumed 452 by worker 0
-Consumed 451 by worker 0
-Consumed 450 by worker 0
-Consumed 449 by worker 0
-Consumed 448 by worker 0
-Consumed 447 by worker 0
-Consumed 446 by worker 0
-Consumed 445 by worker 0
-Consumed 444 by worker 0
-Consumed 443 by worker 0
-Consumed 442 by worker 0
-Consumed 441 by worker 0
-Consumed 440 by worker 0
-Consumed 439 by worker 0
-Consumed 438 by worker 0
-Consumed 437 by worker 0
-Consumed 436 by worker 0
-Consumed 435 by worker 0
-Consumed 434 by worker 0
-Consumed 433 by worker 0
-Consumed 432 by worker 0
-Consumed 431 by worker 0
-Consumed 430 by worker 0
-Consumed 429 by worker 0
-Consumed 428 by worker 0
-Consumed 427 by worker 0
-Consumed 426 by worker 0
-Consumed 425 by worker 0
-Consumed 424 by worker 0
-Consumed 423 by worker 0
-Consumed 422 by worker 0
-Consumed 421 by worker 0
-Consumed 420 by worker 0
-Consumed 419 by worker 0
-Consumed 418 by worker 0
-Consumed 417 by worker 0
-Consumed 416 by worker 0
-Consumed 415 by worker 0
-Consumed 414 by worker 0
-Consumed 413 by worker 0
-Consumed 412 by worker 0
-Consumed 411 by worker 0
-Consumed 410 by worker 0
-Consumed 409 by worker 0
-Consumed 408 by worker 0
-Consumed 407 by worker 0
-Consumed 406 by worker 0
-Consumed 405 by worker 0
-Consumed 404 by worker 0
-Consumed 403 by worker 0
-Consumed 402 by worker 0
-Consumed 401 by worker 0
-consume:wait! empty
-produce: wake--
-Produced 501 by master 5
 Produced 502 by master 5
+prod buf[1]:-1
 Produced 503 by master 5
+prod buf[2]:-1
 Produced 504 by master 5
+prod buf[3]:-1
 Produced 505 by master 5
+prod buf[4]:-1
 Produced 506 by master 5
+prod buf[5]:-1
 Produced 507 by master 5
+prod buf[6]:-1
 Produced 508 by master 5
+prod buf[7]:-1
 Produced 509 by master 5
+prod buf[8]:-1
 Produced 510 by master 5
+prod buf[9]:-1
 Produced 511 by master 5
+prod buf[10]:-1
 Produced 512 by master 5
+prod buf[11]:-1
 Produced 513 by master 5
+prod buf[12]:-1
 Produced 514 by master 5
+prod buf[13]:-1
 Produced 515 by master 5
+prod buf[14]:-1
 Produced 516 by master 5
+prod buf[15]:-1
 Produced 517 by master 5
+prod buf[16]:-1
 Produced 518 by master 5
+prod buf[17]:-1
 Produced 519 by master 5
+prod buf[18]:-1
 Produced 520 by master 5
+prod buf[19]:-1
 Produced 521 by master 5
+prod buf[20]:-1
 Produced 522 by master 5
+prod buf[21]:-1
 Produced 523 by master 5
+prod buf[22]:-1
 Produced 524 by master 5
+prod buf[23]:-1
 Produced 525 by master 5
+prod buf[24]:-1
 Produced 526 by master 5
+prod buf[25]:-1
 Produced 527 by master 5
+prod buf[26]:-1
 Produced 528 by master 5
+prod buf[27]:-1
 Produced 529 by master 5
+prod buf[28]:-1
 Produced 530 by master 5
+prod buf[29]:-1
 Produced 531 by master 5
+prod buf[30]:-1
 Produced 532 by master 5
+prod buf[31]:-1
 Produced 533 by master 5
+prod buf[32]:-1
 Produced 534 by master 5
+prod buf[33]:-1
 Produced 535 by master 5
+prod buf[34]:-1
 Produced 536 by master 5
+prod buf[35]:-1
 Produced 537 by master 5
+prod buf[36]:-1
 Produced 538 by master 5
+prod buf[37]:-1
 Produced 539 by master 5
+prod buf[38]:-1
 Produced 540 by master 5
+prod buf[39]:-1
 Produced 541 by master 5
+prod buf[40]:-1
 Produced 542 by master 5
+prod buf[41]:-1
 Produced 543 by master 5
+prod buf[42]:-1
 Produced 544 by master 5
+prod buf[43]:-1
 Produced 545 by master 5
+prod buf[44]:-1
 Produced 546 by master 5
+prod buf[45]:-1
 Produced 547 by master 5
+prod buf[46]:-1
 Produced 548 by master 5
+prod buf[47]:-1
 Produced 549 by master 5
+prod buf[48]:-1
 Produced 550 by master 5
+prod buf[49]:-1
 Produced 551 by master 5
+prod buf[50]:-1
 Produced 552 by master 5
+prod buf[51]:-1
 Produced 553 by master 5
+prod buf[52]:-1
 Produced 554 by master 5
+prod buf[53]:-1
 Produced 555 by master 5
+prod buf[54]:-1
 Produced 556 by master 5
+prod buf[55]:-1
 Produced 557 by master 5
+prod buf[56]:-1
 Produced 558 by master 5
+prod buf[57]:-1
 Produced 559 by master 5
+prod buf[58]:-1
 Produced 560 by master 5
+prod buf[59]:-1
 Produced 561 by master 5
+prod buf[60]:-1
 Produced 562 by master 5
+prod buf[61]:-1
 Produced 563 by master 5
+prod buf[62]:-1
 Produced 564 by master 5
+prod buf[63]:-1
 Produced 565 by master 5
+prod buf[64]:-1
 Produced 566 by master 5
+prod buf[65]:-1
 Produced 567 by master 5
+prod buf[66]:-1
 Produced 568 by master 5
+prod buf[67]:-1
 Produced 569 by master 5
+prod buf[68]:-1
 Produced 570 by master 5
+prod buf[69]:-1
 Produced 571 by master 5
+prod buf[70]:-1
 Produced 572 by master 5
+prod buf[71]:-1
 Produced 573 by master 5
+prod buf[72]:-1
 Produced 574 by master 5
+prod buf[73]:-1
 Produced 575 by master 5
+prod buf[74]:-1
 Produced 576 by master 5
+prod buf[75]:-1
 Produced 577 by master 5
+prod buf[76]:-1
 Produced 578 by master 5
+prod buf[77]:-1
 Produced 579 by master 5
+prod buf[78]:-1
 Produced 580 by master 5
+prod buf[79]:-1
 Produced 581 by master 5
+prod buf[80]:-1
 Produced 582 by master 5
+prod buf[81]:-1
 Produced 583 by master 5
+prod buf[82]:-1
 Produced 584 by master 5
+prod buf[83]:-1
 Produced 585 by master 5
+prod buf[84]:-1
 Produced 586 by master 5
+prod buf[85]:-1
 Produced 587 by master 5
+prod buf[86]:-1
 Produced 588 by master 5
+prod buf[87]:-1
 Produced 589 by master 5
+prod buf[88]:-1
 Produced 590 by master 5
+prod buf[89]:-1
 Produced 591 by master 5
+prod buf[90]:-1
 Produced 592 by master 5
+prod buf[91]:-1
 Produced 593 by master 5
+prod buf[92]:-1
 Produced 594 by master 5
+prod buf[93]:-1
 Produced 595 by master 5
+prod buf[94]:-1
 Produced 596 by master 5
+prod buf[95]:-1
 Produced 597 by master 5
+prod buf[96]:-1
 Produced 598 by master 5
+prod buf[97]:-1
 Produced 599 by master 5
+prod buf[98]:-1
 Produced 600 by master 5
+prod buf[99]:-1
+Produced 601 by master 5
+prod buf[100]:0
 wait! maxbuf
 produce: wake--
 wait! maxbuf
-produce: wake--
+producer got lock
 wait! maxbuf
 consume:wake--.
 zai con currbuf:100  buf:0
-Consumed 600 by worker 0
-Consumed 599 by worker 0
-Consumed 598 by worker 0
-Consumed 597 by worker 0
-Consumed 596 by worker 0
-Consumed 595 by worker 0
-Consumed 594 by worker 0
-Consumed 593 by worker 0
-Consumed 592 by worker 0
-Consumed 591 by worker 0
-Consumed 590 by worker 0
-Consumed 589 by worker 0
-Consumed 588 by worker 0
-Consumed 587 by worker 0
-Consumed 586 by worker 0
-Consumed 585 by worker 0
-Consumed 584 by worker 0
-Consumed 583 by worker 0
-Consumed 582 by worker 0
-Consumed 581 by worker 0
-Consumed 580 by worker 0
-Consumed 579 by worker 0
-Consumed 578 by worker 0
-Consumed 577 by worker 0
-Consumed 576 by worker 0
-Consumed 575 by worker 0
-Consumed 574 by worker 0
-Consumed 573 by worker 0
-Consumed 572 by worker 0
-Consumed 571 by worker 0
-Consumed 570 by worker 0
-Consumed 569 by worker 0
-Consumed 568 by worker 0
-Consumed 567 by worker 0
-Consumed 566 by worker 0
-Consumed 565 by worker 0
-Consumed 564 by worker 0
-Consumed 563 by worker 0
-Consumed 562 by worker 0
-Consumed 561 by worker 0
-Consumed 560 by worker 0
-Consumed 559 by worker 0
-Consumed 558 by worker 0
-Consumed 557 by worker 0
-Consumed 556 by worker 0
-Consumed 555 by worker 0
-Consumed 554 by worker 0
-Consumed 553 by worker 0
-Consumed 552 by worker 0
-Consumed 551 by worker 0
-Consumed 550 by worker 0
-Consumed 549 by worker 0
-Consumed 548 by worker 0
-Consumed 547 by worker 0
-Consumed 546 by worker 0
-Consumed 545 by worker 0
-Consumed 544 by worker 0
-Consumed 543 by worker 0
-Consumed 542 by worker 0
-Consumed 541 by worker 0
-Consumed 540 by worker 0
-Consumed 539 by worker 0
-Consumed 538 by worker 0
-Consumed 537 by worker 0
-Consumed 536 by worker 0
-Consumed 535 by worker 0
-Consumed 534 by worker 0
-Consumed 533 by worker 0
-Consumed 532 by worker 0
-Consumed 531 by worker 0
-Consumed 530 by worker 0
-Consumed 529 by worker 0
-Consumed 528 by worker 0
-Consumed 527 by worker 0
-Consumed 526 by worker 0
-Consumed 525 by worker 0
-Consumed 524 by worker 0
-Consumed 523 by worker 0
-Consumed 522 by worker 0
-Consumed 521 by worker 0
-Consumed 520 by worker 0
-Consumed 519 by worker 0
-Consumed 518 by worker 0
-Consumed 517 by worker 0
-Consumed 516 by worker 0
-Consumed 515 by worker 0
-Consumed 514 by worker 0
-Consumed 513 by worker 0
-Consumed 512 by worker 0
-Consumed 511 by worker 0
-Consumed 510 by worker 0
-Consumed 509 by worker 0
-Consumed 508 by worker 0
-Consumed 507 by worker 0
-Consumed 506 by worker 0
-Consumed 505 by worker 0
-Consumed 504 by worker 0
-Consumed 503 by worker 0
-Consumed 502 by worker 0
-Consumed 501 by worker 0
+Consumed 601 by worker 1
+cons buf[99]:601
+con: to produce:602 >= total:1000
+Consumed 600 by worker 1
+cons buf[98]:600
+con: to produce:602 >= total:1000
+Consumed 599 by worker 1
+cons buf[97]:599
+con: to produce:602 >= total:1000
+Consumed 598 by worker 1
+cons buf[96]:598
+con: to produce:602 >= total:1000
+Consumed 597 by worker 1
+cons buf[95]:597
+con: to produce:602 >= total:1000
+Consumed 596 by worker 1
+cons buf[94]:596
+con: to produce:602 >= total:1000
+Consumed 595 by worker 1
+cons buf[93]:595
+con: to produce:602 >= total:1000
+Consumed 594 by worker 1
+cons buf[92]:594
+con: to produce:602 >= total:1000
+Consumed 593 by worker 1
+cons buf[91]:593
+con: to produce:602 >= total:1000
+Consumed 592 by worker 1
+cons buf[90]:592
+con: to produce:602 >= total:1000
+Consumed 591 by worker 1
+cons buf[89]:591
+con: to produce:602 >= total:1000
+Consumed 590 by worker 1
+cons buf[88]:590
+con: to produce:602 >= total:1000
+Consumed 589 by worker 1
+cons buf[87]:589
+con: to produce:602 >= total:1000
+Consumed 588 by worker 1
+cons buf[86]:588
+con: to produce:602 >= total:1000
+Consumed 587 by worker 1
+cons buf[85]:587
+con: to produce:602 >= total:1000
+Consumed 586 by worker 1
+cons buf[84]:586
+con: to produce:602 >= total:1000
+Consumed 585 by worker 1
+cons buf[83]:585
+con: to produce:602 >= total:1000
+Consumed 584 by worker 1
+cons buf[82]:584
+con: to produce:602 >= total:1000
+Consumed 583 by worker 1
+cons buf[81]:583
+con: to produce:602 >= total:1000
+Consumed 582 by worker 1
+cons buf[80]:582
+con: to produce:602 >= total:1000
+Consumed 581 by worker 1
+cons buf[79]:581
+con: to produce:602 >= total:1000
+Consumed 580 by worker 1
+cons buf[78]:580
+con: to produce:602 >= total:1000
+Consumed 579 by worker 1
+cons buf[77]:579
+con: to produce:602 >= total:1000
+Consumed 578 by worker 1
+cons buf[76]:578
+con: to produce:602 >= total:1000
+Consumed 577 by worker 1
+cons buf[75]:577
+con: to produce:602 >= total:1000
+Consumed 576 by worker 1
+cons buf[74]:576
+con: to produce:602 >= total:1000
+Consumed 575 by worker 1
+cons buf[73]:575
+con: to produce:602 >= total:1000
+Consumed 574 by worker 1
+cons buf[72]:574
+con: to produce:602 >= total:1000
+Consumed 573 by worker 1
+cons buf[71]:573
+con: to produce:602 >= total:1000
+Consumed 572 by worker 1
+cons buf[70]:572
+con: to produce:602 >= total:1000
+Consumed 571 by worker 1
+cons buf[69]:571
+con: to produce:602 >= total:1000
+Consumed 570 by worker 1
+cons buf[68]:570
+con: to produce:602 >= total:1000
+Consumed 569 by worker 1
+cons buf[67]:569
+con: to produce:602 >= total:1000
+Consumed 568 by worker 1
+cons buf[66]:568
+con: to produce:602 >= total:1000
+Consumed 567 by worker 1
+cons buf[65]:567
+con: to produce:602 >= total:1000
+Consumed 566 by worker 1
+cons buf[64]:566
+con: to produce:602 >= total:1000
+Consumed 565 by worker 1
+cons buf[63]:565
+con: to produce:602 >= total:1000
+Consumed 564 by worker 1
+cons buf[62]:564
+con: to produce:602 >= total:1000
+Consumed 563 by worker 1
+cons buf[61]:563
+con: to produce:602 >= total:1000
+Consumed 562 by worker 1
+cons buf[60]:562
+con: to produce:602 >= total:1000
+Consumed 561 by worker 1
+cons buf[59]:561
+con: to produce:602 >= total:1000
+Consumed 560 by worker 1
+cons buf[58]:560
+con: to produce:602 >= total:1000
+Consumed 559 by worker 1
+cons buf[57]:559
+con: to produce:602 >= total:1000
+Consumed 558 by worker 1
+cons buf[56]:558
+con: to produce:602 >= total:1000
+Consumed 557 by worker 1
+cons buf[55]:557
+con: to produce:602 >= total:1000
+Consumed 556 by worker 1
+cons buf[54]:556
+con: to produce:602 >= total:1000
+Consumed 555 by worker 1
+cons buf[53]:555
+con: to produce:602 >= total:1000
+Consumed 554 by worker 1
+cons buf[52]:554
+con: to produce:602 >= total:1000
+Consumed 553 by worker 1
+cons buf[51]:553
+con: to produce:602 >= total:1000
+Consumed 552 by worker 1
+cons buf[50]:552
+con: to produce:602 >= total:1000
+Consumed 551 by worker 1
+cons buf[49]:551
+con: to produce:602 >= total:1000
+Consumed 550 by worker 1
+cons buf[48]:550
+con: to produce:602 >= total:1000
+Consumed 549 by worker 1
+cons buf[47]:549
+con: to produce:602 >= total:1000
+Consumed 548 by worker 1
+cons buf[46]:548
+con: to produce:602 >= total:1000
+Consumed 547 by worker 1
+cons buf[45]:547
+con: to produce:602 >= total:1000
+Consumed 546 by worker 1
+cons buf[44]:546
+con: to produce:602 >= total:1000
+Consumed 545 by worker 1
+cons buf[43]:545
+con: to produce:602 >= total:1000
+Consumed 544 by worker 1
+cons buf[42]:544
+con: to produce:602 >= total:1000
+Consumed 543 by worker 1
+cons buf[41]:543
+con: to produce:602 >= total:1000
+Consumed 542 by worker 1
+cons buf[40]:542
+con: to produce:602 >= total:1000
+Consumed 541 by worker 1
+cons buf[39]:541
+con: to produce:602 >= total:1000
+Consumed 540 by worker 1
+cons buf[38]:540
+con: to produce:602 >= total:1000
+Consumed 539 by worker 1
+cons buf[37]:539
+con: to produce:602 >= total:1000
+Consumed 538 by worker 1
+cons buf[36]:538
+con: to produce:602 >= total:1000
+Consumed 537 by worker 1
+cons buf[35]:537
+con: to produce:602 >= total:1000
+Consumed 536 by worker 1
+cons buf[34]:536
+con: to produce:602 >= total:1000
+Consumed 535 by worker 1
+cons buf[33]:535
+con: to produce:602 >= total:1000
+Consumed 534 by worker 1
+cons buf[32]:534
+con: to produce:602 >= total:1000
+Consumed 533 by worker 1
+cons buf[31]:533
+con: to produce:602 >= total:1000
+Consumed 532 by worker 1
+cons buf[30]:532
+con: to produce:602 >= total:1000
+Consumed 531 by worker 1
+cons buf[29]:531
+con: to produce:602 >= total:1000
+Consumed 530 by worker 1
+cons buf[28]:530
+con: to produce:602 >= total:1000
+Consumed 529 by worker 1
+cons buf[27]:529
+con: to produce:602 >= total:1000
+Consumed 528 by worker 1
+cons buf[26]:528
+con: to produce:602 >= total:1000
+Consumed 527 by worker 1
+cons buf[25]:527
+con: to produce:602 >= total:1000
+Consumed 526 by worker 1
+cons buf[24]:526
+con: to produce:602 >= total:1000
+Consumed 525 by worker 1
+cons buf[23]:525
+con: to produce:602 >= total:1000
+Consumed 524 by worker 1
+cons buf[22]:524
+con: to produce:602 >= total:1000
+Consumed 523 by worker 1
+cons buf[21]:523
+con: to produce:602 >= total:1000
+Consumed 522 by worker 1
+cons buf[20]:522
+con: to produce:602 >= total:1000
+Consumed 521 by worker 1
+cons buf[19]:521
+con: to produce:602 >= total:1000
+Consumed 520 by worker 1
+cons buf[18]:520
+con: to produce:602 >= total:1000
+Consumed 519 by worker 1
+cons buf[17]:519
+con: to produce:602 >= total:1000
+Consumed 518 by worker 1
+cons buf[16]:518
+con: to produce:602 >= total:1000
+Consumed 517 by worker 1
+cons buf[15]:517
+con: to produce:602 >= total:1000
+Consumed 516 by worker 1
+cons buf[14]:516
+con: to produce:602 >= total:1000
+Consumed 515 by worker 1
+cons buf[13]:515
+con: to produce:602 >= total:1000
+Consumed 514 by worker 1
+cons buf[12]:514
+con: to produce:602 >= total:1000
+Consumed 513 by worker 1
+cons buf[11]:513
+con: to produce:602 >= total:1000
+Consumed 512 by worker 1
+cons buf[10]:512
+con: to produce:602 >= total:1000
+Consumed 511 by worker 1
+cons buf[9]:511
+con: to produce:602 >= total:1000
+Consumed 510 by worker 1
+cons buf[8]:510
+con: to produce:602 >= total:1000
+Consumed 509 by worker 1
+cons buf[7]:509
+con: to produce:602 >= total:1000
+Consumed 508 by worker 1
+cons buf[6]:508
+con: to produce:602 >= total:1000
+Consumed 507 by worker 1
+cons buf[5]:507
+con: to produce:602 >= total:1000
+Consumed 506 by worker 1
+cons buf[4]:506
+con: to produce:602 >= total:1000
+Consumed 505 by worker 1
+cons buf[3]:505
+con: to produce:602 >= total:1000
+Consumed 504 by worker 1
+cons buf[2]:504
+con: to produce:602 >= total:1000
+Consumed 503 by worker 1
+cons buf[1]:503
+con: to produce:602 >= total:1000
+Consumed 502 by worker 1
+cons buf[0]:502
+con: to produce:602 >= total:1000
 consume:wait! empty
 produce: wake--
-Produced 601 by master 4
 Produced 602 by master 4
+prod buf[1]:-1
 Produced 603 by master 4
+prod buf[2]:-1
 Produced 604 by master 4
+prod buf[3]:-1
 Produced 605 by master 4
+prod buf[4]:-1
 Produced 606 by master 4
+prod buf[5]:-1
 Produced 607 by master 4
+prod buf[6]:-1
 Produced 608 by master 4
+prod buf[7]:-1
 Produced 609 by master 4
+prod buf[8]:-1
 Produced 610 by master 4
+prod buf[9]:-1
 Produced 611 by master 4
+prod buf[10]:-1
 Produced 612 by master 4
+prod buf[11]:-1
 Produced 613 by master 4
+prod buf[12]:-1
 Produced 614 by master 4
+prod buf[13]:-1
 Produced 615 by master 4
+prod buf[14]:-1
 Produced 616 by master 4
+prod buf[15]:-1
 Produced 617 by master 4
+prod buf[16]:-1
 Produced 618 by master 4
+prod buf[17]:-1
 Produced 619 by master 4
+prod buf[18]:-1
 Produced 620 by master 4
+prod buf[19]:-1
 Produced 621 by master 4
+prod buf[20]:-1
 Produced 622 by master 4
+prod buf[21]:-1
 Produced 623 by master 4
+prod buf[22]:-1
 Produced 624 by master 4
+prod buf[23]:-1
 Produced 625 by master 4
+prod buf[24]:-1
 Produced 626 by master 4
+prod buf[25]:-1
 Produced 627 by master 4
+prod buf[26]:-1
 Produced 628 by master 4
+prod buf[27]:-1
 Produced 629 by master 4
+prod buf[28]:-1
 Produced 630 by master 4
+prod buf[29]:-1
 Produced 631 by master 4
+prod buf[30]:-1
 Produced 632 by master 4
+prod buf[31]:-1
 Produced 633 by master 4
+prod buf[32]:-1
 Produced 634 by master 4
+prod buf[33]:-1
 Produced 635 by master 4
+prod buf[34]:-1
 Produced 636 by master 4
+prod buf[35]:-1
 Produced 637 by master 4
+prod buf[36]:-1
 Produced 638 by master 4
+prod buf[37]:-1
 Produced 639 by master 4
+prod buf[38]:-1
 Produced 640 by master 4
+prod buf[39]:-1
 Produced 641 by master 4
+prod buf[40]:-1
 Produced 642 by master 4
+prod buf[41]:-1
 Produced 643 by master 4
+prod buf[42]:-1
 Produced 644 by master 4
+prod buf[43]:-1
 Produced 645 by master 4
+prod buf[44]:-1
 Produced 646 by master 4
+prod buf[45]:-1
 Produced 647 by master 4
+prod buf[46]:-1
 Produced 648 by master 4
+prod buf[47]:-1
 Produced 649 by master 4
+prod buf[48]:-1
 Produced 650 by master 4
+prod buf[49]:-1
 Produced 651 by master 4
+prod buf[50]:-1
 Produced 652 by master 4
+prod buf[51]:-1
 Produced 653 by master 4
+prod buf[52]:-1
 Produced 654 by master 4
+prod buf[53]:-1
 Produced 655 by master 4
+prod buf[54]:-1
 Produced 656 by master 4
+prod buf[55]:-1
 Produced 657 by master 4
+prod buf[56]:-1
 Produced 658 by master 4
+prod buf[57]:-1
 Produced 659 by master 4
+prod buf[58]:-1
 Produced 660 by master 4
+prod buf[59]:-1
 Produced 661 by master 4
+prod buf[60]:-1
 Produced 662 by master 4
+prod buf[61]:-1
 Produced 663 by master 4
+prod buf[62]:-1
 Produced 664 by master 4
+prod buf[63]:-1
 Produced 665 by master 4
+prod buf[64]:-1
 Produced 666 by master 4
+prod buf[65]:-1
 Produced 667 by master 4
+prod buf[66]:-1
 Produced 668 by master 4
+prod buf[67]:-1
 Produced 669 by master 4
+prod buf[68]:-1
 Produced 670 by master 4
+prod buf[69]:-1
 Produced 671 by master 4
+prod buf[70]:-1
 Produced 672 by master 4
+prod buf[71]:-1
 Produced 673 by master 4
+prod buf[72]:-1
 Produced 674 by master 4
+prod buf[73]:-1
 Produced 675 by master 4
+prod buf[74]:-1
 Produced 676 by master 4
+prod buf[75]:-1
 Produced 677 by master 4
+prod buf[76]:-1
 Produced 678 by master 4
+prod buf[77]:-1
 Produced 679 by master 4
+prod buf[78]:-1
 Produced 680 by master 4
+prod buf[79]:-1
 Produced 681 by master 4
+prod buf[80]:-1
 Produced 682 by master 4
+prod buf[81]:-1
 Produced 683 by master 4
+prod buf[82]:-1
 Produced 684 by master 4
+prod buf[83]:-1
 Produced 685 by master 4
+prod buf[84]:-1
 Produced 686 by master 4
+prod buf[85]:-1
 Produced 687 by master 4
+prod buf[86]:-1
 Produced 688 by master 4
+prod buf[87]:-1
 Produced 689 by master 4
+prod buf[88]:-1
 Produced 690 by master 4
+prod buf[89]:-1
 Produced 691 by master 4
+prod buf[90]:-1
 Produced 692 by master 4
+prod buf[91]:-1
 Produced 693 by master 4
+prod buf[92]:-1
 Produced 694 by master 4
+prod buf[93]:-1
 Produced 695 by master 4
+prod buf[94]:-1
 Produced 696 by master 4
+prod buf[95]:-1
 Produced 697 by master 4
+prod buf[96]:-1
 Produced 698 by master 4
+prod buf[97]:-1
 Produced 699 by master 4
+prod buf[98]:-1
 Produced 700 by master 4
+prod buf[99]:-1
+Produced 701 by master 4
+prod buf[100]:0
 wait! maxbuf
 produce: wake--
 wait! maxbuf
@@ -1351,421 +3273,508 @@ produce: wake--
 wait! maxbuf
 consume:wake--.
 zai con currbuf:100  buf:0
-Consumed 700 by worker 0
-Consumed 699 by worker 0
-Consumed 698 by worker 0
-Consumed 697 by worker 0
-Consumed 696 by worker 0
-Consumed 695 by worker 0
-Consumed 694 by worker 0
-Consumed 693 by worker 0
-Consumed 692 by worker 0
-Consumed 691 by worker 0
-Consumed 690 by worker 0
-Consumed 689 by worker 0
-Consumed 688 by worker 0
-Consumed 687 by worker 0
-Consumed 686 by worker 0
-Consumed 685 by worker 0
-Consumed 684 by worker 0
-Consumed 683 by worker 0
-Consumed 682 by worker 0
-Consumed 681 by worker 0
-Consumed 680 by worker 0
-Consumed 679 by worker 0
-Consumed 678 by worker 0
-Consumed 677 by worker 0
-Consumed 676 by worker 0
-Consumed 675 by worker 0
-Consumed 674 by worker 0
-Consumed 673 by worker 0
-Consumed 672 by worker 0
-Consumed 671 by worker 0
-Consumed 670 by worker 0
-Consumed 669 by worker 0
-Consumed 668 by worker 0
-Consumed 667 by worker 0
-Consumed 666 by worker 0
-Consumed 665 by worker 0
-Consumed 664 by worker 0
-Consumed 663 by worker 0
-Consumed 662 by worker 0
-Consumed 661 by worker 0
-Consumed 660 by worker 0
-Consumed 659 by worker 0
-Consumed 658 by worker 0
-Consumed 657 by worker 0
-Consumed 656 by worker 0
-Consumed 655 by worker 0
-Consumed 654 by worker 0
-Consumed 653 by worker 0
-Consumed 652 by worker 0
-Consumed 651 by worker 0
-Consumed 650 by worker 0
-Consumed 649 by worker 0
-Consumed 648 by worker 0
-Consumed 647 by worker 0
-Consumed 646 by worker 0
-Consumed 645 by worker 0
-Consumed 644 by worker 0
-Consumed 643 by worker 0
-Consumed 642 by worker 0
-Consumed 641 by worker 0
-Consumed 640 by worker 0
-Consumed 639 by worker 0
-Consumed 638 by worker 0
-Consumed 637 by worker 0
-Consumed 636 by worker 0
-Consumed 635 by worker 0
-Consumed 634 by worker 0
-Consumed 633 by worker 0
-Consumed 632 by worker 0
-Consumed 631 by worker 0
-Consumed 630 by worker 0
-Consumed 629 by worker 0
-Consumed 628 by worker 0
-Consumed 627 by worker 0
-Consumed 626 by worker 0
-Consumed 625 by worker 0
-Consumed 624 by worker 0
-Consumed 623 by worker 0
-Consumed 622 by worker 0
-Consumed 621 by worker 0
-Consumed 620 by worker 0
-Consumed 619 by worker 0
-Consumed 618 by worker 0
-Consumed 617 by worker 0
-Consumed 616 by worker 0
-Consumed 615 by worker 0
-Consumed 614 by worker 0
-Consumed 613 by worker 0
-Consumed 612 by worker 0
-Consumed 611 by worker 0
-Consumed 610 by worker 0
-Consumed 609 by worker 0
-Consumed 608 by worker 0
-Consumed 607 by worker 0
-Consumed 606 by worker 0
-Consumed 605 by worker 0
-Consumed 604 by worker 0
-Consumed 603 by worker 0
-Consumed 602 by worker 0
-Consumed 601 by worker 0
+Consumed 701 by worker 1
+cons buf[99]:701
+con: to produce:702 >= total:1000
+Consumed 700 by worker 1
+cons buf[98]:700
+con: to produce:702 >= total:1000
+Consumed 699 by worker 1
+cons buf[97]:699
+con: to produce:702 >= total:1000
+Consumed 698 by worker 1
+cons buf[96]:698
+con: to produce:702 >= total:1000
+Consumed 697 by worker 1
+cons buf[95]:697
+con: to produce:702 >= total:1000
+Consumed 696 by worker 1
+cons buf[94]:696
+con: to produce:702 >= total:1000
+Consumed 695 by worker 1
+cons buf[93]:695
+con: to produce:702 >= total:1000
+Consumed 694 by worker 1
+cons buf[92]:694
+con: to produce:702 >= total:1000
+Consumed 693 by worker 1
+cons buf[91]:693
+con: to produce:702 >= total:1000
+Consumed 692 by worker 1
+cons buf[90]:692
+con: to produce:702 >= total:1000
+Consumed 691 by worker 1
+cons buf[89]:691
+con: to produce:702 >= total:1000
+Consumed 690 by worker 1
+cons buf[88]:690
+con: to produce:702 >= total:1000
+Consumed 689 by worker 1
+cons buf[87]:689
+con: to produce:702 >= total:1000
+Consumed 688 by worker 1
+cons buf[86]:688
+con: to produce:702 >= total:1000
+Consumed 687 by worker 1
+cons buf[85]:687
+con: to produce:702 >= total:1000
+Consumed 686 by worker 1
+cons buf[84]:686
+con: to produce:702 >= total:1000
+Consumed 685 by worker 1
+cons buf[83]:685
+con: to produce:702 >= total:1000
+Consumed 684 by worker 1
+cons buf[82]:684
+con: to produce:702 >= total:1000
+Consumed 683 by worker 1
+cons buf[81]:683
+con: to produce:702 >= total:1000
+Consumed 682 by worker 1
+cons buf[80]:682
+con: to produce:702 >= total:1000
+Consumed 681 by worker 1
+cons buf[79]:681
+con: to produce:702 >= total:1000
+Consumed 680 by worker 1
+cons buf[78]:680
+con: to produce:702 >= total:1000
+Consumed 679 by worker 1
+cons buf[77]:679
+con: to produce:702 >= total:1000
+Consumed 678 by worker 1
+cons buf[76]:678
+con: to produce:702 >= total:1000
+Consumed 677 by worker 1
+cons buf[75]:677
+con: to produce:702 >= total:1000
+Consumed 676 by worker 1
+cons buf[74]:676
+con: to produce:702 >= total:1000
+Consumed 675 by worker 1
+cons buf[73]:675
+con: to produce:702 >= total:1000
+Consumed 674 by worker 1
+cons buf[72]:674
+con: to produce:702 >= total:1000
+Consumed 673 by worker 1
+cons buf[71]:673
+con: to produce:702 >= total:1000
+Consumed 672 by worker 1
+cons buf[70]:672
+con: to produce:702 >= total:1000
+Consumed 671 by worker 1
+cons buf[69]:671
+con: to produce:702 >= total:1000
+Consumed 670 by worker 1
+cons buf[68]:670
+con: to produce:702 >= total:1000
+Consumed 669 by worker 1
+cons buf[67]:669
+con: to produce:702 >= total:1000
+Consumed 668 by worker 1
+cons buf[66]:668
+con: to produce:702 >= total:1000
+Consumed 667 by worker 1
+cons buf[65]:667
+con: to produce:702 >= total:1000
+Consumed 666 by worker 1
+cons buf[64]:666
+con: to produce:702 >= total:1000
+Consumed 665 by worker 1
+cons buf[63]:665
+con: to produce:702 >= total:1000
+Consumed 664 by worker 1
+cons buf[62]:664
+con: to produce:702 >= total:1000
+Consumed 663 by worker 1
+cons buf[61]:663
+con: to produce:702 >= total:1000
+Consumed 662 by worker 1
+cons buf[60]:662
+con: to produce:702 >= total:1000
+Consumed 661 by worker 1
+cons buf[59]:661
+con: to produce:702 >= total:1000
+Consumed 660 by worker 1
+cons buf[58]:660
+con: to produce:702 >= total:1000
+Consumed 659 by worker 1
+cons buf[57]:659
+con: to produce:702 >= total:1000
+Consumed 658 by worker 1
+cons buf[56]:658
+con: to produce:702 >= total:1000
+Consumed 657 by worker 1
+cons buf[55]:657
+con: to produce:702 >= total:1000
+Consumed 656 by worker 1
+cons buf[54]:656
+con: to produce:702 >= total:1000
+Consumed 655 by worker 1
+cons buf[53]:655
+con: to produce:702 >= total:1000
+Consumed 654 by worker 1
+cons buf[52]:654
+con: to produce:702 >= total:1000
+Consumed 653 by worker 1
+cons buf[51]:653
+con: to produce:702 >= total:1000
+Consumed 652 by worker 1
+cons buf[50]:652
+con: to produce:702 >= total:1000
+Consumed 651 by worker 1
+cons buf[49]:651
+con: to produce:702 >= total:1000
+Consumed 650 by worker 1
+cons buf[48]:650
+con: to produce:702 >= total:1000
+Consumed 649 by worker 1
+cons buf[47]:649
+con: to produce:702 >= total:1000
+Consumed 648 by worker 1
+cons buf[46]:648
+con: to produce:702 >= total:1000
+Consumed 647 by worker 1
+cons buf[45]:647
+con: to produce:702 >= total:1000
+Consumed 646 by worker 1
+cons buf[44]:646
+con: to produce:702 >= total:1000
+Consumed 645 by worker 1
+cons buf[43]:645
+con: to produce:702 >= total:1000
+Consumed 644 by worker 1
+cons buf[42]:644
+con: to produce:702 >= total:1000
+Consumed 643 by worker 1
+cons buf[41]:643
+con: to produce:702 >= total:1000
+Consumed 642 by worker 1
+cons buf[40]:642
+con: to produce:702 >= total:1000
+Consumed 641 by worker 1
+cons buf[39]:641
+con: to produce:702 >= total:1000
+Consumed 640 by worker 1
+cons buf[38]:640
+con: to produce:702 >= total:1000
+Consumed 639 by worker 1
+cons buf[37]:639
+con: to produce:702 >= total:1000
+Consumed 638 by worker 1
+cons buf[36]:638
+con: to produce:702 >= total:1000
+Consumed 637 by worker 1
+cons buf[35]:637
+con: to produce:702 >= total:1000
+Consumed 636 by worker 1
+cons buf[34]:636
+con: to produce:702 >= total:1000
+Consumed 635 by worker 1
+cons buf[33]:635
+con: to produce:702 >= total:1000
+Consumed 634 by worker 1
+cons buf[32]:634
+con: to produce:702 >= total:1000
+Consumed 633 by worker 1
+cons buf[31]:633
+con: to produce:702 >= total:1000
+Consumed 632 by worker 1
+cons buf[30]:632
+con: to produce:702 >= total:1000
+Consumed 631 by worker 1
+cons buf[29]:631
+con: to produce:702 >= total:1000
+Consumed 630 by worker 1
+cons buf[28]:630
+con: to produce:702 >= total:1000
+Consumed 629 by worker 1
+cons buf[27]:629
+con: to produce:702 >= total:1000
+Consumed 628 by worker 1
+cons buf[26]:628
+con: to produce:702 >= total:1000
+Consumed 627 by worker 1
+cons buf[25]:627
+con: to produce:702 >= total:1000
+Consumed 626 by worker 1
+cons buf[24]:626
+con: to produce:702 >= total:1000
+Consumed 625 by worker 1
+cons buf[23]:625
+con: to produce:702 >= total:1000
+Consumed 624 by worker 1
+cons buf[22]:624
+con: to produce:702 >= total:1000
+Consumed 623 by worker 1
+cons buf[21]:623
+con: to produce:702 >= total:1000
+Consumed 622 by worker 1
+cons buf[20]:622
+con: to produce:702 >= total:1000
+Consumed 621 by worker 1
+cons buf[19]:621
+con: to produce:702 >= total:1000
+Consumed 620 by worker 1
+cons buf[18]:620
+con: to produce:702 >= total:1000
+Consumed 619 by worker 1
+cons buf[17]:619
+con: to produce:702 >= total:1000
+Consumed 618 by worker 1
+cons buf[16]:618
+con: to produce:702 >= total:1000
+Consumed 617 by worker 1
+cons buf[15]:617
+con: to produce:702 >= total:1000
+Consumed 616 by worker 1
+cons buf[14]:616
+con: to produce:702 >= total:1000
+Consumed 615 by worker 1
+cons buf[13]:615
+con: to produce:702 >= total:1000
+Consumed 614 by worker 1
+cons buf[12]:614
+con: to produce:702 >= total:1000
+Consumed 613 by worker 1
+cons buf[11]:613
+con: to produce:702 >= total:1000
+Consumed 612 by worker 1
+cons buf[10]:612
+con: to produce:702 >= total:1000
+Consumed 611 by worker 1
+cons buf[9]:611
+con: to produce:702 >= total:1000
+Consumed 610 by worker 1
+cons buf[8]:610
+con: to produce:702 >= total:1000
+Consumed 609 by worker 1
+cons buf[7]:609
+con: to produce:702 >= total:1000
+Consumed 608 by worker 1
+cons buf[6]:608
+con: to produce:702 >= total:1000
+Consumed 607 by worker 1
+cons buf[5]:607
+con: to produce:702 >= total:1000
+Consumed 606 by worker 1
+cons buf[4]:606
+con: to produce:702 >= total:1000
+Consumed 605 by worker 1
+cons buf[3]:605
+con: to produce:702 >= total:1000
+Consumed 604 by worker 1
+cons buf[2]:604
+con: to produce:702 >= total:1000
+Consumed 603 by worker 1
+cons buf[1]:603
+con: to produce:702 >= total:1000
+Consumed 602 by worker 1
+cons buf[0]:602
+con: to produce:702 >= total:1000
 consume:wait! empty
 produce: wake--
-Produced 701 by master 6
-Produced 702 by master 6
-Produced 703 by master 6
-Produced 704 by master 6
-Produced 705 by master 6
-Produced 706 by master 6
-Produced 707 by master 6
-Produced 708 by master 6
-Produced 709 by master 6
-Produced 710 by master 6
-Produced 711 by master 6
-Produced 712 by master 6
-Produced 713 by master 6
-Produced 714 by master 6
-Produced 715 by master 6
-Produced 716 by master 6
-Produced 717 by master 6
-Produced 718 by master 6
-Produced 719 by master 6
-Produced 720 by master 6
-Produced 721 by master 6
-Produced 722 by master 6
-Produced 723 by master 6
-Produced 724 by master 6
-Produced 725 by master 6
-Produced 726 by master 6
-Produced 727 by master 6
-Produced 728 by master 6
-Produced 729 by master 6
-Produced 730 by master 6
-Produced 731 by master 6
-Produced 732 by master 6
-Produced 733 by master 6
-Produced 734 by master 6
-Produced 735 by master 6
-Produced 736 by master 6
-Produced 737 by master 6
-Produced 738 by master 6
-Produced 739 by master 6
-Produced 740 by master 6
-Produced 741 by master 6
-Produced 742 by master 6
-Produced 743 by master 6
-Produced 744 by master 6
-Produced 745 by master 6
-Produced 746 by master 6
-Produced 747 by master 6
-Produced 748 by master 6
-Produced 749 by master 6
-Produced 750 by master 6
-Produced 751 by master 6
-Produced 752 by master 6
-Produced 753 by master 6
-Produced 754 by master 6
-Produced 755 by master 6
-Produced 756 by master 6
-Produced 757 by master 6
-Produced 758 by master 6
-Produced 759 by master 6
-Produced 760 by master 6
-Produced 761 by master 6
-Produced 762 by master 6
-Produced 763 by master 6
-Produced 764 by master 6
-Produced 765 by master 6
-Produced 766 by master 6
-Produced 767 by master 6
-Produced 768 by master 6
-Produced 769 by master 6
-Produced 770 by master 6
-Produced 771 by master 6
-Produced 772 by master 6
-Produced 773 by master 6
-Produced 774 by master 6
-Produced 775 by master 6
-Produced 776 by master 6
-Produced 777 by master 6
-Produced 778 by master 6
-Produced 779 by master 6
-Produced 780 by master 6
-Produced 781 by master 6
-Produced 782 by master 6
-Produced 783 by master 6
-Produced 784 by master 6
-Produced 785 by master 6
-Produced 786 by master 6
-Produced 787 by master 6
-Produced 788 by master 6
-Produced 789 by master 6
-Produced 790 by master 6
-Produced 791 by master 6
-Produced 792 by master 6
-Produced 793 by master 6
-Produced 794 by master 6
-Produced 795 by master 6
-Produced 796 by master 6
-Produced 797 by master 6
-Produced 798 by master 6
-Produced 799 by master 6
-Produced 800 by master 6
-wait! maxbuf
-produce: wake--
-wait! maxbuf
-produce: wake--
-wait! maxbuf
-producer got lock
-wait! maxbuf
-consume:wake--.
-zai con currbuf:100  buf:0
-Consumed 800 by worker 0
-Consumed 799 by worker 0
-Consumed 798 by worker 0
-Consumed 797 by worker 0
-Consumed 796 by worker 0
-Consumed 795 by worker 0
-Consumed 794 by worker 0
-Consumed 793 by worker 0
-Consumed 792 by worker 0
-Consumed 791 by worker 0
-Consumed 790 by worker 0
-Consumed 789 by worker 0
-Consumed 788 by worker 0
-Consumed 787 by worker 0
-Consumed 786 by worker 0
-Consumed 785 by worker 0
-Consumed 784 by worker 0
-Consumed 783 by worker 0
-Consumed 782 by worker 0
-Consumed 781 by worker 0
-Consumed 780 by worker 0
-Consumed 779 by worker 0
-Consumed 778 by worker 0
-Consumed 777 by worker 0
-Consumed 776 by worker 0
-Consumed 775 by worker 0
-Consumed 774 by worker 0
-Consumed 773 by worker 0
-Consumed 772 by worker 0
-Consumed 771 by worker 0
-Consumed 770 by worker 0
-Consumed 769 by worker 0
-Consumed 768 by worker 0
-Consumed 767 by worker 0
-Consumed 766 by worker 0
-Consumed 765 by worker 0
-Consumed 764 by worker 0
-Consumed 763 by worker 0
-Consumed 762 by worker 0
-Consumed 761 by worker 0
-Consumed 760 by worker 0
-Consumed 759 by worker 0
-Consumed 758 by worker 0
-Consumed 757 by worker 0
-Consumed 756 by worker 0
-Consumed 755 by worker 0
-Consumed 754 by worker 0
-Consumed 753 by worker 0
-Consumed 752 by worker 0
-Consumed 751 by worker 0
-Consumed 750 by worker 0
-Consumed 749 by worker 0
-Consumed 748 by worker 0
-Consumed 747 by worker 0
-Consumed 746 by worker 0
-Consumed 745 by worker 0
-Consumed 744 by worker 0
-Consumed 743 by worker 0
-Consumed 742 by worker 0
-Consumed 741 by worker 0
-Consumed 740 by worker 0
-Consumed 739 by worker 0
-Consumed 738 by worker 0
-Consumed 737 by worker 0
-Consumed 736 by worker 0
-Consumed 735 by worker 0
-Consumed 734 by worker 0
-Consumed 733 by worker 0
-Consumed 732 by worker 0
-Consumed 731 by worker 0
-Consumed 730 by worker 0
-Consumed 729 by worker 0
-Consumed 728 by worker 0
-Consumed 727 by worker 0
-Consumed 726 by worker 0
-Consumed 725 by worker 0
-Consumed 724 by worker 0
-Consumed 723 by worker 0
-Consumed 722 by worker 0
-Consumed 721 by worker 0
-Consumed 720 by worker 0
-Consumed 719 by worker 0
-Consumed 718 by worker 0
-Consumed 717 by worker 0
-Consumed 716 by worker 0
-Consumed 715 by worker 0
-Consumed 714 by worker 0
-Consumed 713 by worker 0
-Consumed 712 by worker 0
-Consumed 711 by worker 0
-Consumed 710 by worker 0
-Consumed 709 by worker 0
-Consumed 708 by worker 0
-Consumed 707 by worker 0
-Consumed 706 by worker 0
-Consumed 705 by worker 0
-Consumed 704 by worker 0
-Consumed 703 by worker 0
-Consumed 702 by worker 0
-Consumed 701 by worker 0
-consume:wait! empty
-produce: wake--
+Produced 702 by master 5
+prod buf[1]:-1
+Produced 703 by master 5
+prod buf[2]:-1
+Produced 704 by master 5
+prod buf[3]:-1
+Produced 705 by master 5
+prod buf[4]:-1
+Produced 706 by master 5
+prod buf[5]:-1
+Produced 707 by master 5
+prod buf[6]:-1
+Produced 708 by master 5
+prod buf[7]:-1
+Produced 709 by master 5
+prod buf[8]:-1
+Produced 710 by master 5
+prod buf[9]:-1
+Produced 711 by master 5
+prod buf[10]:-1
+Produced 712 by master 5
+prod buf[11]:-1
+Produced 713 by master 5
+prod buf[12]:-1
+Produced 714 by master 5
+prod buf[13]:-1
+Produced 715 by master 5
+prod buf[14]:-1
+Produced 716 by master 5
+prod buf[15]:-1
+Produced 717 by master 5
+prod buf[16]:-1
+Produced 718 by master 5
+prod buf[17]:-1
+Produced 719 by master 5
+prod buf[18]:-1
+Produced 720 by master 5
+prod buf[19]:-1
+Produced 721 by master 5
+prod buf[20]:-1
+Produced 722 by master 5
+prod buf[21]:-1
+Produced 723 by master 5
+prod buf[22]:-1
+Produced 724 by master 5
+prod buf[23]:-1
+Produced 725 by master 5
+prod buf[24]:-1
+Produced 726 by master 5
+prod buf[25]:-1
+Produced 727 by master 5
+prod buf[26]:-1
+Produced 728 by master 5
+prod buf[27]:-1
+Produced 729 by master 5
+prod buf[28]:-1
+Produced 730 by master 5
+prod buf[29]:-1
+Produced 731 by master 5
+prod buf[30]:-1
+Produced 732 by master 5
+prod buf[31]:-1
+Produced 733 by master 5
+prod buf[32]:-1
+Produced 734 by master 5
+prod buf[33]:-1
+Produced 735 by master 5
+prod buf[34]:-1
+Produced 736 by master 5
+prod buf[35]:-1
+Produced 737 by master 5
+prod buf[36]:-1
+Produced 738 by master 5
+prod buf[37]:-1
+Produced 739 by master 5
+prod buf[38]:-1
+Produced 740 by master 5
+prod buf[39]:-1
+Produced 741 by master 5
+prod buf[40]:-1
+Produced 742 by master 5
+prod buf[41]:-1
+Produced 743 by master 5
+prod buf[42]:-1
+Produced 744 by master 5
+prod buf[43]:-1
+Produced 745 by master 5
+prod buf[44]:-1
+Produced 746 by master 5
+prod buf[45]:-1
+Produced 747 by master 5
+prod buf[46]:-1
+Produced 748 by master 5
+prod buf[47]:-1
+Produced 749 by master 5
+prod buf[48]:-1
+Produced 750 by master 5
+prod buf[49]:-1
+Produced 751 by master 5
+prod buf[50]:-1
+Produced 752 by master 5
+prod buf[51]:-1
+Produced 753 by master 5
+prod buf[52]:-1
+Produced 754 by master 5
+prod buf[53]:-1
+Produced 755 by master 5
+prod buf[54]:-1
+Produced 756 by master 5
+prod buf[55]:-1
+Produced 757 by master 5
+prod buf[56]:-1
+Produced 758 by master 5
+prod buf[57]:-1
+Produced 759 by master 5
+prod buf[58]:-1
+Produced 760 by master 5
+prod buf[59]:-1
+Produced 761 by master 5
+prod buf[60]:-1
+Produced 762 by master 5
+prod buf[61]:-1
+Produced 763 by master 5
+prod buf[62]:-1
+Produced 764 by master 5
+prod buf[63]:-1
+Produced 765 by master 5
+prod buf[64]:-1
+Produced 766 by master 5
+prod buf[65]:-1
+Produced 767 by master 5
+prod buf[66]:-1
+Produced 768 by master 5
+prod buf[67]:-1
+Produced 769 by master 5
+prod buf[68]:-1
+Produced 770 by master 5
+prod buf[69]:-1
+Produced 771 by master 5
+prod buf[70]:-1
+Produced 772 by master 5
+prod buf[71]:-1
+Produced 773 by master 5
+prod buf[72]:-1
+Produced 774 by master 5
+prod buf[73]:-1
+Produced 775 by master 5
+prod buf[74]:-1
+Produced 776 by master 5
+prod buf[75]:-1
+Produced 777 by master 5
+prod buf[76]:-1
+Produced 778 by master 5
+prod buf[77]:-1
+Produced 779 by master 5
+prod buf[78]:-1
+Produced 780 by master 5
+prod buf[79]:-1
+Produced 781 by master 5
+prod buf[80]:-1
+Produced 782 by master 5
+prod buf[81]:-1
+Produced 783 by master 5
+prod buf[82]:-1
+Produced 784 by master 5
+prod buf[83]:-1
+Produced 785 by master 5
+prod buf[84]:-1
+Produced 786 by master 5
+prod buf[85]:-1
+Produced 787 by master 5
+prod buf[86]:-1
+Produced 788 by master 5
+prod buf[87]:-1
+Produced 789 by master 5
+prod buf[88]:-1
+Produced 790 by master 5
+prod buf[89]:-1
+Produced 791 by master 5
+prod buf[90]:-1
+Produced 792 by master 5
+prod buf[91]:-1
+Produced 793 by master 5
+prod buf[92]:-1
+Produced 794 by master 5
+prod buf[93]:-1
+Produced 795 by master 5
+prod buf[94]:-1
+Produced 796 by master 5
+prod buf[95]:-1
+Produced 797 by master 5
+prod buf[96]:-1
+Produced 798 by master 5
+prod buf[97]:-1
+Produced 799 by master 5
+prod buf[98]:-1
+Produced 800 by master 5
+prod buf[99]:-1
 Produced 801 by master 5
-Produced 802 by master 5
-Produced 803 by master 5
-Produced 804 by master 5
-Produced 805 by master 5
-Produced 806 by master 5
-Produced 807 by master 5
-Produced 808 by master 5
-Produced 809 by master 5
-Produced 810 by master 5
-Produced 811 by master 5
-Produced 812 by master 5
-Produced 813 by master 5
-Produced 814 by master 5
-Produced 815 by master 5
-Produced 816 by master 5
-Produced 817 by master 5
-Produced 818 by master 5
-Produced 819 by master 5
-Produced 820 by master 5
-Produced 821 by master 5
-Produced 822 by master 5
-Produced 823 by master 5
-Produced 824 by master 5
-Produced 825 by master 5
-Produced 826 by master 5
-Produced 827 by master 5
-Produced 828 by master 5
-Produced 829 by master 5
-Produced 830 by master 5
-Produced 831 by master 5
-Produced 832 by master 5
-Produced 833 by master 5
-Produced 834 by master 5
-Produced 835 by master 5
-Produced 836 by master 5
-Produced 837 by master 5
-Produced 838 by master 5
-Produced 839 by master 5
-Produced 840 by master 5
-Produced 841 by master 5
-Produced 842 by master 5
-Produced 843 by master 5
-Produced 844 by master 5
-Produced 845 by master 5
-Produced 846 by master 5
-Produced 847 by master 5
-Produced 848 by master 5
-Produced 849 by master 5
-Produced 850 by master 5
-Produced 851 by master 5
-Produced 852 by master 5
-Produced 853 by master 5
-Produced 854 by master 5
-Produced 855 by master 5
-Produced 856 by master 5
-Produced 857 by master 5
-Produced 858 by master 5
-Produced 859 by master 5
-Produced 860 by master 5
-Produced 861 by master 5
-Produced 862 by master 5
-Produced 863 by master 5
-Produced 864 by master 5
-Produced 865 by master 5
-Produced 866 by master 5
-Produced 867 by master 5
-Produced 868 by master 5
-Produced 869 by master 5
-Produced 870 by master 5
-Produced 871 by master 5
-Produced 872 by master 5
-Produced 873 by master 5
-Produced 874 by master 5
-Produced 875 by master 5
-Produced 876 by master 5
-Produced 877 by master 5
-Produced 878 by master 5
-Produced 879 by master 5
-Produced 880 by master 5
-Produced 881 by master 5
-Produced 882 by master 5
-Produced 883 by master 5
-Produced 884 by master 5
-Produced 885 by master 5
-Produced 886 by master 5
-Produced 887 by master 5
-Produced 888 by master 5
-Produced 889 by master 5
-Produced 890 by master 5
-Produced 891 by master 5
-Produced 892 by master 5
-Produced 893 by master 5
-Produced 894 by master 5
-Produced 895 by master 5
-Produced 896 by master 5
-Produced 897 by master 5
-Produced 898 by master 5
-Produced 899 by master 5
-Produced 900 by master 5
-wait! maxbuf
-produce: wake--
+prod buf[100]:0
 wait! maxbuf
 produce: wake--
 wait! maxbuf
@@ -1773,319 +3782,1278 @@ produce: wake--
 wait! maxbuf
 consume:wake--.
 zai con currbuf:100  buf:0
-Consumed 900 by worker 0
-Consumed 899 by worker 0
-Consumed 898 by worker 0
-Consumed 897 by worker 0
-Consumed 896 by worker 0
-Consumed 895 by worker 0
-Consumed 894 by worker 0
-Consumed 893 by worker 0
-Consumed 892 by worker 0
-Consumed 891 by worker 0
-Consumed 890 by worker 0
-Consumed 889 by worker 0
-Consumed 888 by worker 0
-Consumed 887 by worker 0
-Consumed 886 by worker 0
-Consumed 885 by worker 0
-Consumed 884 by worker 0
-Consumed 883 by worker 0
-Consumed 882 by worker 0
-Consumed 881 by worker 0
-Consumed 880 by worker 0
-Consumed 879 by worker 0
-Consumed 878 by worker 0
-Consumed 877 by worker 0
-Consumed 876 by worker 0
-Consumed 875 by worker 0
-Consumed 874 by worker 0
-Consumed 873 by worker 0
-Consumed 872 by worker 0
-Consumed 871 by worker 0
-Consumed 870 by worker 0
-Consumed 869 by worker 0
-Consumed 868 by worker 0
-Consumed 867 by worker 0
-Consumed 866 by worker 0
-Consumed 865 by worker 0
-Consumed 864 by worker 0
-Consumed 863 by worker 0
-Consumed 862 by worker 0
-Consumed 861 by worker 0
-Consumed 860 by worker 0
-Consumed 859 by worker 0
-Consumed 858 by worker 0
-Consumed 857 by worker 0
-Consumed 856 by worker 0
-Consumed 855 by worker 0
-Consumed 854 by worker 0
-Consumed 853 by worker 0
-Consumed 852 by worker 0
-Consumed 851 by worker 0
-Consumed 850 by worker 0
-Consumed 849 by worker 0
-Consumed 848 by worker 0
-Consumed 847 by worker 0
-Consumed 846 by worker 0
-Consumed 845 by worker 0
-Consumed 844 by worker 0
-Consumed 843 by worker 0
-Consumed 842 by worker 0
-Consumed 841 by worker 0
-Consumed 840 by worker 0
-Consumed 839 by worker 0
-Consumed 838 by worker 0
-Consumed 837 by worker 0
-Consumed 836 by worker 0
-Consumed 835 by worker 0
-Consumed 834 by worker 0
-Consumed 833 by worker 0
-Consumed 832 by worker 0
-Consumed 831 by worker 0
-Consumed 830 by worker 0
-Consumed 829 by worker 0
-Consumed 828 by worker 0
-Consumed 827 by worker 0
-Consumed 826 by worker 0
-Consumed 825 by worker 0
-Consumed 824 by worker 0
-Consumed 823 by worker 0
-Consumed 822 by worker 0
-Consumed 821 by worker 0
-Consumed 820 by worker 0
-Consumed 819 by worker 0
-Consumed 818 by worker 0
-Consumed 817 by worker 0
-Consumed 816 by worker 0
-Consumed 815 by worker 0
-Consumed 814 by worker 0
-Consumed 813 by worker 0
-Consumed 812 by worker 0
-Consumed 811 by worker 0
-Consumed 810 by worker 0
-Consumed 809 by worker 0
-Consumed 808 by worker 0
-Consumed 807 by worker 0
-Consumed 806 by worker 0
-Consumed 805 by worker 0
-Consumed 804 by worker 0
-Consumed 803 by worker 0
-Consumed 802 by worker 0
-Consumed 801 by worker 0
+Consumed 801 by worker 1
+cons buf[99]:801
+con: to produce:802 >= total:1000
+Consumed 800 by worker 1
+cons buf[98]:800
+con: to produce:802 >= total:1000
+Consumed 799 by worker 1
+cons buf[97]:799
+con: to produce:802 >= total:1000
+Consumed 798 by worker 1
+cons buf[96]:798
+con: to produce:802 >= total:1000
+Consumed 797 by worker 1
+cons buf[95]:797
+con: to produce:802 >= total:1000
+Consumed 796 by worker 1
+cons buf[94]:796
+con: to produce:802 >= total:1000
+Consumed 795 by worker 1
+cons buf[93]:795
+con: to produce:802 >= total:1000
+Consumed 794 by worker 1
+cons buf[92]:794
+con: to produce:802 >= total:1000
+Consumed 793 by worker 1
+cons buf[91]:793
+con: to produce:802 >= total:1000
+Consumed 792 by worker 1
+cons buf[90]:792
+con: to produce:802 >= total:1000
+Consumed 791 by worker 1
+cons buf[89]:791
+con: to produce:802 >= total:1000
+Consumed 790 by worker 1
+cons buf[88]:790
+con: to produce:802 >= total:1000
+Consumed 789 by worker 1
+cons buf[87]:789
+con: to produce:802 >= total:1000
+Consumed 788 by worker 1
+cons buf[86]:788
+con: to produce:802 >= total:1000
+Consumed 787 by worker 1
+cons buf[85]:787
+con: to produce:802 >= total:1000
+Consumed 786 by worker 1
+cons buf[84]:786
+con: to produce:802 >= total:1000
+Consumed 785 by worker 1
+cons buf[83]:785
+con: to produce:802 >= total:1000
+Consumed 784 by worker 1
+cons buf[82]:784
+con: to produce:802 >= total:1000
+Consumed 783 by worker 1
+cons buf[81]:783
+con: to produce:802 >= total:1000
+Consumed 782 by worker 1
+cons buf[80]:782
+con: to produce:802 >= total:1000
+Consumed 781 by worker 1
+cons buf[79]:781
+con: to produce:802 >= total:1000
+Consumed 780 by worker 1
+cons buf[78]:780
+con: to produce:802 >= total:1000
+Consumed 779 by worker 1
+cons buf[77]:779
+con: to produce:802 >= total:1000
+Consumed 778 by worker 1
+cons buf[76]:778
+con: to produce:802 >= total:1000
+Consumed 777 by worker 1
+cons buf[75]:777
+con: to produce:802 >= total:1000
+Consumed 776 by worker 1
+cons buf[74]:776
+con: to produce:802 >= total:1000
+Consumed 775 by worker 1
+cons buf[73]:775
+con: to produce:802 >= total:1000
+Consumed 774 by worker 1
+cons buf[72]:774
+con: to produce:802 >= total:1000
+Consumed 773 by worker 1
+cons buf[71]:773
+con: to produce:802 >= total:1000
+Consumed 772 by worker 1
+cons buf[70]:772
+con: to produce:802 >= total:1000
+Consumed 771 by worker 1
+cons buf[69]:771
+con: to produce:802 >= total:1000
+Consumed 770 by worker 1
+cons buf[68]:770
+con: to produce:802 >= total:1000
+Consumed 769 by worker 1
+cons buf[67]:769
+con: to produce:802 >= total:1000
+Consumed 768 by worker 1
+cons buf[66]:768
+con: to produce:802 >= total:1000
+Consumed 767 by worker 1
+cons buf[65]:767
+con: to produce:802 >= total:1000
+Consumed 766 by worker 1
+cons buf[64]:766
+con: to produce:802 >= total:1000
+Consumed 765 by worker 1
+cons buf[63]:765
+con: to produce:802 >= total:1000
+Consumed 764 by worker 1
+cons buf[62]:764
+con: to produce:802 >= total:1000
+Consumed 763 by worker 1
+cons buf[61]:763
+con: to produce:802 >= total:1000
+Consumed 762 by worker 1
+cons buf[60]:762
+con: to produce:802 >= total:1000
+Consumed 761 by worker 1
+cons buf[59]:761
+con: to produce:802 >= total:1000
+Consumed 760 by worker 1
+cons buf[58]:760
+con: to produce:802 >= total:1000
+Consumed 759 by worker 1
+cons buf[57]:759
+con: to produce:802 >= total:1000
+Consumed 758 by worker 1
+cons buf[56]:758
+con: to produce:802 >= total:1000
+Consumed 757 by worker 1
+cons buf[55]:757
+con: to produce:802 >= total:1000
+Consumed 756 by worker 1
+cons buf[54]:756
+con: to produce:802 >= total:1000
+Consumed 755 by worker 1
+cons buf[53]:755
+con: to produce:802 >= total:1000
+Consumed 754 by worker 1
+cons buf[52]:754
+con: to produce:802 >= total:1000
+Consumed 753 by worker 1
+cons buf[51]:753
+con: to produce:802 >= total:1000
+Consumed 752 by worker 1
+cons buf[50]:752
+con: to produce:802 >= total:1000
+Consumed 751 by worker 1
+cons buf[49]:751
+con: to produce:802 >= total:1000
+Consumed 750 by worker 1
+cons buf[48]:750
+con: to produce:802 >= total:1000
+Consumed 749 by worker 1
+cons buf[47]:749
+con: to produce:802 >= total:1000
+Consumed 748 by worker 1
+cons buf[46]:748
+con: to produce:802 >= total:1000
+Consumed 747 by worker 1
+cons buf[45]:747
+con: to produce:802 >= total:1000
+Consumed 746 by worker 1
+cons buf[44]:746
+con: to produce:802 >= total:1000
+Consumed 745 by worker 1
+cons buf[43]:745
+con: to produce:802 >= total:1000
+Consumed 744 by worker 1
+cons buf[42]:744
+con: to produce:802 >= total:1000
+Consumed 743 by worker 1
+cons buf[41]:743
+con: to produce:802 >= total:1000
+Consumed 742 by worker 1
+cons buf[40]:742
+con: to produce:802 >= total:1000
+Consumed 741 by worker 1
+cons buf[39]:741
+con: to produce:802 >= total:1000
+Consumed 740 by worker 1
+cons buf[38]:740
+con: to produce:802 >= total:1000
+Consumed 739 by worker 1
+cons buf[37]:739
+con: to produce:802 >= total:1000
+Consumed 738 by worker 1
+cons buf[36]:738
+con: to produce:802 >= total:1000
+Consumed 737 by worker 1
+cons buf[35]:737
+con: to produce:802 >= total:1000
+Consumed 736 by worker 1
+cons buf[34]:736
+con: to produce:802 >= total:1000
+Consumed 735 by worker 1
+cons buf[33]:735
+con: to produce:802 >= total:1000
+Consumed 734 by worker 1
+cons buf[32]:734
+con: to produce:802 >= total:1000
+Consumed 733 by worker 1
+cons buf[31]:733
+con: to produce:802 >= total:1000
+Consumed 732 by worker 1
+cons buf[30]:732
+con: to produce:802 >= total:1000
+Consumed 731 by worker 1
+cons buf[29]:731
+con: to produce:802 >= total:1000
+Consumed 730 by worker 1
+cons buf[28]:730
+con: to produce:802 >= total:1000
+Consumed 729 by worker 1
+cons buf[27]:729
+con: to produce:802 >= total:1000
+Consumed 728 by worker 1
+cons buf[26]:728
+con: to produce:802 >= total:1000
+Consumed 727 by worker 1
+cons buf[25]:727
+con: to produce:802 >= total:1000
+Consumed 726 by worker 1
+cons buf[24]:726
+con: to produce:802 >= total:1000
+Consumed 725 by worker 1
+cons buf[23]:725
+con: to produce:802 >= total:1000
+Consumed 724 by worker 1
+cons buf[22]:724
+con: to produce:802 >= total:1000
+Consumed 723 by worker 1
+cons buf[21]:723
+con: to produce:802 >= total:1000
+Consumed 722 by worker 1
+cons buf[20]:722
+con: to produce:802 >= total:1000
+Consumed 721 by worker 1
+cons buf[19]:721
+con: to produce:802 >= total:1000
+Consumed 720 by worker 1
+cons buf[18]:720
+con: to produce:802 >= total:1000
+Consumed 719 by worker 1
+cons buf[17]:719
+con: to produce:802 >= total:1000
+Consumed 718 by worker 1
+cons buf[16]:718
+con: to produce:802 >= total:1000
+Consumed 717 by worker 1
+cons buf[15]:717
+con: to produce:802 >= total:1000
+Consumed 716 by worker 1
+cons buf[14]:716
+con: to produce:802 >= total:1000
+Consumed 715 by worker 1
+cons buf[13]:715
+con: to produce:802 >= total:1000
+Consumed 714 by worker 1
+cons buf[12]:714
+con: to produce:802 >= total:1000
+Consumed 713 by worker 1
+cons buf[11]:713
+con: to produce:802 >= total:1000
+Consumed 712 by worker 1
+cons buf[10]:712
+con: to produce:802 >= total:1000
+Consumed 711 by worker 1
+cons buf[9]:711
+con: to produce:802 >= total:1000
+Consumed 710 by worker 1
+cons buf[8]:710
+con: to produce:802 >= total:1000
+Consumed 709 by worker 1
+cons buf[7]:709
+con: to produce:802 >= total:1000
+Consumed 708 by worker 1
+cons buf[6]:708
+con: to produce:802 >= total:1000
+Consumed 707 by worker 1
+cons buf[5]:707
+con: to produce:802 >= total:1000
+Consumed 706 by worker 1
+cons buf[4]:706
+con: to produce:802 >= total:1000
+Consumed 705 by worker 1
+cons buf[3]:705
+con: to produce:802 >= total:1000
+Consumed 704 by worker 1
+cons buf[2]:704
+con: to produce:802 >= total:1000
+Consumed 703 by worker 1
+cons buf[1]:703
+con: to produce:802 >= total:1000
+Consumed 702 by worker 1
+cons buf[0]:702
+con: to produce:802 >= total:1000
 consume:wait! empty
 produce: wake--
-Produced 901 by master 4
-Produced 902 by master 4
-Produced 903 by master 4
-Produced 904 by master 4
-Produced 905 by master 4
-Produced 906 by master 4
-Produced 907 by master 4
-Produced 908 by master 4
-Produced 909 by master 4
-Produced 910 by master 4
-Produced 911 by master 4
-Produced 912 by master 4
-Produced 913 by master 4
-Produced 914 by master 4
-Produced 915 by master 4
-Produced 916 by master 4
-Produced 917 by master 4
-Produced 918 by master 4
-Produced 919 by master 4
-Produced 920 by master 4
-Produced 921 by master 4
-Produced 922 by master 4
-Produced 923 by master 4
-Produced 924 by master 4
-Produced 925 by master 4
-Produced 926 by master 4
-Produced 927 by master 4
-Produced 928 by master 4
-Produced 929 by master 4
-Produced 930 by master 4
-Produced 931 by master 4
-Produced 932 by master 4
-Produced 933 by master 4
-Produced 934 by master 4
-Produced 935 by master 4
-Produced 936 by master 4
-Produced 937 by master 4
-Produced 938 by master 4
-Produced 939 by master 4
-Produced 940 by master 4
-Produced 941 by master 4
-Produced 942 by master 4
-Produced 943 by master 4
-Produced 944 by master 4
-Produced 945 by master 4
-Produced 946 by master 4
-Produced 947 by master 4
-Produced 948 by master 4
-Produced 949 by master 4
-Produced 950 by master 4
-Produced 951 by master 4
-Produced 952 by master 4
-Produced 953 by master 4
-Produced 954 by master 4
-Produced 955 by master 4
-Produced 956 by master 4
-Produced 957 by master 4
-Produced 958 by master 4
-Produced 959 by master 4
-Produced 960 by master 4
-Produced 961 by master 4
-Produced 962 by master 4
-Produced 963 by master 4
-Produced 964 by master 4
-Produced 965 by master 4
-Produced 966 by master 4
-Produced 967 by master 4
-Produced 968 by master 4
-Produced 969 by master 4
-Produced 970 by master 4
-Produced 971 by master 4
-Produced 972 by master 4
-Produced 973 by master 4
-Produced 974 by master 4
-Produced 975 by master 4
-Produced 976 by master 4
-Produced 977 by master 4
-Produced 978 by master 4
-Produced 979 by master 4
-Produced 980 by master 4
-Produced 981 by master 4
-Produced 982 by master 4
-Produced 983 by master 4
-Produced 984 by master 4
-Produced 985 by master 4
-Produced 986 by master 4
-Produced 987 by master 4
-Produced 988 by master 4
-Produced 989 by master 4
-Produced 990 by master 4
-Produced 991 by master 4
-Produced 992 by master 4
-Produced 993 by master 4
-Produced 994 by master 4
-Produced 995 by master 4
-Produced 996 by master 4
-Produced 997 by master 4
-Produced 998 by master 4
-Produced 999 by master 4
+Produced 802 by master 3
+prod buf[1]:-1
+Produced 803 by master 3
+prod buf[2]:-1
+Produced 804 by master 3
+prod buf[3]:-1
+Produced 805 by master 3
+prod buf[4]:-1
+Produced 806 by master 3
+prod buf[5]:-1
+Produced 807 by master 3
+prod buf[6]:-1
+Produced 808 by master 3
+prod buf[7]:-1
+Produced 809 by master 3
+prod buf[8]:-1
+Produced 810 by master 3
+prod buf[9]:-1
+Produced 811 by master 3
+prod buf[10]:-1
+Produced 812 by master 3
+prod buf[11]:-1
+Produced 813 by master 3
+prod buf[12]:-1
+Produced 814 by master 3
+prod buf[13]:-1
+Produced 815 by master 3
+prod buf[14]:-1
+Produced 816 by master 3
+prod buf[15]:-1
+Produced 817 by master 3
+prod buf[16]:-1
+Produced 818 by master 3
+prod buf[17]:-1
+Produced 819 by master 3
+prod buf[18]:-1
+Produced 820 by master 3
+prod buf[19]:-1
+Produced 821 by master 3
+prod buf[20]:-1
+Produced 822 by master 3
+prod buf[21]:-1
+Produced 823 by master 3
+prod buf[22]:-1
+Produced 824 by master 3
+prod buf[23]:-1
+Produced 825 by master 3
+prod buf[24]:-1
+Produced 826 by master 3
+prod buf[25]:-1
+Produced 827 by master 3
+prod buf[26]:-1
+Produced 828 by master 3
+prod buf[27]:-1
+Produced 829 by master 3
+prod buf[28]:-1
+Produced 830 by master 3
+prod buf[29]:-1
+Produced 831 by master 3
+prod buf[30]:-1
+Produced 832 by master 3
+prod buf[31]:-1
+Produced 833 by master 3
+prod buf[32]:-1
+Produced 834 by master 3
+prod buf[33]:-1
+Produced 835 by master 3
+prod buf[34]:-1
+Produced 836 by master 3
+prod buf[35]:-1
+Produced 837 by master 3
+prod buf[36]:-1
+Produced 838 by master 3
+prod buf[37]:-1
+Produced 839 by master 3
+prod buf[38]:-1
+Produced 840 by master 3
+prod buf[39]:-1
+Produced 841 by master 3
+prod buf[40]:-1
+Produced 842 by master 3
+prod buf[41]:-1
+Produced 843 by master 3
+prod buf[42]:-1
+Produced 844 by master 3
+prod buf[43]:-1
+Produced 845 by master 3
+prod buf[44]:-1
+Produced 846 by master 3
+prod buf[45]:-1
+Produced 847 by master 3
+prod buf[46]:-1
+Produced 848 by master 3
+prod buf[47]:-1
+Produced 849 by master 3
+prod buf[48]:-1
+Produced 850 by master 3
+prod buf[49]:-1
+Produced 851 by master 3
+prod buf[50]:-1
+Produced 852 by master 3
+prod buf[51]:-1
+Produced 853 by master 3
+prod buf[52]:-1
+Produced 854 by master 3
+prod buf[53]:-1
+Produced 855 by master 3
+prod buf[54]:-1
+Produced 856 by master 3
+prod buf[55]:-1
+Produced 857 by master 3
+prod buf[56]:-1
+Produced 858 by master 3
+prod buf[57]:-1
+Produced 859 by master 3
+prod buf[58]:-1
+Produced 860 by master 3
+prod buf[59]:-1
+Produced 861 by master 3
+prod buf[60]:-1
+Produced 862 by master 3
+prod buf[61]:-1
+Produced 863 by master 3
+prod buf[62]:-1
+Produced 864 by master 3
+prod buf[63]:-1
+Produced 865 by master 3
+prod buf[64]:-1
+Produced 866 by master 3
+prod buf[65]:-1
+Produced 867 by master 3
+prod buf[66]:-1
+Produced 868 by master 3
+prod buf[67]:-1
+Produced 869 by master 3
+prod buf[68]:-1
+Produced 870 by master 3
+prod buf[69]:-1
+Produced 871 by master 3
+prod buf[70]:-1
+Produced 872 by master 3
+prod buf[71]:-1
+Produced 873 by master 3
+prod buf[72]:-1
+Produced 874 by master 3
+prod buf[73]:-1
+Produced 875 by master 3
+prod buf[74]:-1
+Produced 876 by master 3
+prod buf[75]:-1
+Produced 877 by master 3
+prod buf[76]:-1
+Produced 878 by master 3
+prod buf[77]:-1
+Produced 879 by master 3
+prod buf[78]:-1
+Produced 880 by master 3
+prod buf[79]:-1
+Produced 881 by master 3
+prod buf[80]:-1
+Produced 882 by master 3
+prod buf[81]:-1
+Produced 883 by master 3
+prod buf[82]:-1
+Produced 884 by master 3
+prod buf[83]:-1
+Produced 885 by master 3
+prod buf[84]:-1
+Produced 886 by master 3
+prod buf[85]:-1
+Produced 887 by master 3
+prod buf[86]:-1
+Produced 888 by master 3
+prod buf[87]:-1
+Produced 889 by master 3
+prod buf[88]:-1
+Produced 890 by master 3
+prod buf[89]:-1
+Produced 891 by master 3
+prod buf[90]:-1
+Produced 892 by master 3
+prod buf[91]:-1
+Produced 893 by master 3
+prod buf[92]:-1
+Produced 894 by master 3
+prod buf[93]:-1
+Produced 895 by master 3
+prod buf[94]:-1
+Produced 896 by master 3
+prod buf[95]:-1
+Produced 897 by master 3
+prod buf[96]:-1
+Produced 898 by master 3
+prod buf[97]:-1
+Produced 899 by master 3
+prod buf[98]:-1
+Produced 900 by master 3
+prod buf[99]:-1
+Produced 901 by master 3
+prod buf[100]:0
+wait! maxbuf
 produce: wake--
+wait! maxbuf
 produce: wake--
-produce: wake--
+wait! maxbuf
 consume:wake--.
-zai con currbuf:99  buf:-1
-Consumed 999 by worker 0
-Consumed 998 by worker 0
-Consumed 997 by worker 0
-Consumed 996 by worker 0
-Consumed 995 by worker 0
-Consumed 994 by worker 0
-Consumed 993 by worker 0
-Consumed 992 by worker 0
-Consumed 991 by worker 0
-Consumed 990 by worker 0
-Consumed 989 by worker 0
-Consumed 988 by worker 0
-Consumed 987 by worker 0
-Consumed 986 by worker 0
-Consumed 985 by worker 0
-Consumed 984 by worker 0
-Consumed 983 by worker 0
-Consumed 982 by worker 0
-Consumed 981 by worker 0
-Consumed 980 by worker 0
-Consumed 979 by worker 0
-Consumed 978 by worker 0
-Consumed 977 by worker 0
-Consumed 976 by worker 0
-Consumed 975 by worker 0
-Consumed 974 by worker 0
-Consumed 973 by worker 0
-Consumed 972 by worker 0
-Consumed 971 by worker 0
-Consumed 970 by worker 0
-Consumed 969 by worker 0
-Consumed 968 by worker 0
-Consumed 967 by worker 0
-Consumed 966 by worker 0
-Consumed 965 by worker 0
-Consumed 964 by worker 0
-Consumed 963 by worker 0
-Consumed 962 by worker 0
-Consumed 961 by worker 0
-Consumed 960 by worker 0
-Consumed 959 by worker 0
-Consumed 958 by worker 0
-Consumed 957 by worker 0
-Consumed 956 by worker 0
-Consumed 955 by worker 0
-Consumed 954 by worker 0
-Consumed 953 by worker 0
-Consumed 952 by worker 0
-Consumed 951 by worker 0
-Consumed 950 by worker 0
-Consumed 949 by worker 0
-Consumed 948 by worker 0
-Consumed 947 by worker 0
-Consumed 946 by worker 0
-Consumed 945 by worker 0
-Consumed 944 by worker 0
-Consumed 943 by worker 0
-Consumed 942 by worker 0
-Consumed 941 by worker 0
-Consumed 940 by worker 0
-Consumed 939 by worker 0
-Consumed 938 by worker 0
-Consumed 937 by worker 0
-Consumed 936 by worker 0
-Consumed 935 by worker 0
-Consumed 934 by worker 0
-Consumed 933 by worker 0
-Consumed 932 by worker 0
-Consumed 931 by worker 0
-Consumed 930 by worker 0
-Consumed 929 by worker 0
-Consumed 928 by worker 0
-Consumed 927 by worker 0
-Consumed 926 by worker 0
-Consumed 925 by worker 0
-Consumed 924 by worker 0
-Consumed 923 by worker 0
-Consumed 922 by worker 0
-Consumed 921 by worker 0
-Consumed 920 by worker 0
-Consumed 919 by worker 0
-Consumed 918 by worker 0
-Consumed 917 by worker 0
-Consumed 916 by worker 0
-Consumed 915 by worker 0
-Consumed 914 by worker 0
-Consumed 913 by worker 0
-Consumed 912 by worker 0
-Consumed 911 by worker 0
-Consumed 910 by worker 0
-Consumed 909 by worker 0
-Consumed 908 by worker 0
-Consumed 907 by worker 0
-Consumed 906 by worker 0
-Consumed 905 by worker 0
-Consumed 904 by worker 0
-Consumed 903 by worker 0
-Consumed 902 by worker 0
-Consumed 901 by worker 0
+zai con currbuf:100  buf:0
+Consumed 901 by worker 1
+cons buf[99]:901
+con: to produce:902 >= total:1000
+Consumed 900 by worker 1
+cons buf[98]:900
+con: to produce:902 >= total:1000
+Consumed 899 by worker 1
+cons buf[97]:899
+con: to produce:902 >= total:1000
+Consumed 898 by worker 1
+cons buf[96]:898
+con: to produce:902 >= total:1000
+Consumed 897 by worker 1
+cons buf[95]:897
+con: to produce:902 >= total:1000
+Consumed 896 by worker 1
+cons buf[94]:896
+con: to produce:902 >= total:1000
+Consumed 895 by worker 1
+cons buf[93]:895
+con: to produce:902 >= total:1000
+Consumed 894 by worker 1
+cons buf[92]:894
+con: to produce:902 >= total:1000
+Consumed 893 by worker 1
+cons buf[91]:893
+con: to produce:902 >= total:1000
+Consumed 892 by worker 1
+cons buf[90]:892
+con: to produce:902 >= total:1000
+Consumed 891 by worker 1
+cons buf[89]:891
+con: to produce:902 >= total:1000
+Consumed 890 by worker 1
+cons buf[88]:890
+con: to produce:902 >= total:1000
+Consumed 889 by worker 1
+cons buf[87]:889
+con: to produce:902 >= total:1000
+Consumed 888 by worker 1
+cons buf[86]:888
+con: to produce:902 >= total:1000
+Consumed 887 by worker 1
+cons buf[85]:887
+con: to produce:902 >= total:1000
+Consumed 886 by worker 1
+cons buf[84]:886
+con: to produce:902 >= total:1000
+Consumed 885 by worker 1
+cons buf[83]:885
+con: to produce:902 >= total:1000
+Consumed 884 by worker 1
+cons buf[82]:884
+con: to produce:902 >= total:1000
+Consumed 883 by worker 1
+cons buf[81]:883
+con: to produce:902 >= total:1000
+Consumed 882 by worker 1
+cons buf[80]:882
+con: to produce:902 >= total:1000
+Consumed 881 by worker 1
+cons buf[79]:881
+con: to produce:902 >= total:1000
+Consumed 880 by worker 1
+cons buf[78]:880
+con: to produce:902 >= total:1000
+Consumed 879 by worker 1
+cons buf[77]:879
+con: to produce:902 >= total:1000
+Consumed 878 by worker 1
+cons buf[76]:878
+con: to produce:902 >= total:1000
+Consumed 877 by worker 1
+cons buf[75]:877
+con: to produce:902 >= total:1000
+Consumed 876 by worker 1
+cons buf[74]:876
+con: to produce:902 >= total:1000
+Consumed 875 by worker 1
+cons buf[73]:875
+con: to produce:902 >= total:1000
+Consumed 874 by worker 1
+cons buf[72]:874
+con: to produce:902 >= total:1000
+Consumed 873 by worker 1
+cons buf[71]:873
+con: to produce:902 >= total:1000
+Consumed 872 by worker 1
+cons buf[70]:872
+con: to produce:902 >= total:1000
+Consumed 871 by worker 1
+cons buf[69]:871
+con: to produce:902 >= total:1000
+Consumed 870 by worker 1
+cons buf[68]:870
+con: to produce:902 >= total:1000
+Consumed 869 by worker 1
+cons buf[67]:869
+con: to produce:902 >= total:1000
+Consumed 868 by worker 1
+cons buf[66]:868
+con: to produce:902 >= total:1000
+Consumed 867 by worker 1
+cons buf[65]:867
+con: to produce:902 >= total:1000
+Consumed 866 by worker 1
+cons buf[64]:866
+con: to produce:902 >= total:1000
+Consumed 865 by worker 1
+cons buf[63]:865
+con: to produce:902 >= total:1000
+Consumed 864 by worker 1
+cons buf[62]:864
+con: to produce:902 >= total:1000
+Consumed 863 by worker 1
+cons buf[61]:863
+con: to produce:902 >= total:1000
+Consumed 862 by worker 1
+cons buf[60]:862
+con: to produce:902 >= total:1000
+Consumed 861 by worker 1
+cons buf[59]:861
+con: to produce:902 >= total:1000
+Consumed 860 by worker 1
+cons buf[58]:860
+con: to produce:902 >= total:1000
+Consumed 859 by worker 1
+cons buf[57]:859
+con: to produce:902 >= total:1000
+Consumed 858 by worker 1
+cons buf[56]:858
+con: to produce:902 >= total:1000
+Consumed 857 by worker 1
+cons buf[55]:857
+con: to produce:902 >= total:1000
+Consumed 856 by worker 1
+cons buf[54]:856
+con: to produce:902 >= total:1000
+Consumed 855 by worker 1
+cons buf[53]:855
+con: to produce:902 >= total:1000
+Consumed 854 by worker 1
+cons buf[52]:854
+con: to produce:902 >= total:1000
+Consumed 853 by worker 1
+cons buf[51]:853
+con: to produce:902 >= total:1000
+Consumed 852 by worker 1
+cons buf[50]:852
+con: to produce:902 >= total:1000
+Consumed 851 by worker 1
+cons buf[49]:851
+con: to produce:902 >= total:1000
+Consumed 850 by worker 1
+cons buf[48]:850
+con: to produce:902 >= total:1000
+Consumed 849 by worker 1
+cons buf[47]:849
+con: to produce:902 >= total:1000
+Consumed 848 by worker 1
+cons buf[46]:848
+con: to produce:902 >= total:1000
+Consumed 847 by worker 1
+cons buf[45]:847
+con: to produce:902 >= total:1000
+Consumed 846 by worker 1
+cons buf[44]:846
+con: to produce:902 >= total:1000
+Consumed 845 by worker 1
+cons buf[43]:845
+con: to produce:902 >= total:1000
+Consumed 844 by worker 1
+cons buf[42]:844
+con: to produce:902 >= total:1000
+Consumed 843 by worker 1
+cons buf[41]:843
+con: to produce:902 >= total:1000
+Consumed 842 by worker 1
+cons buf[40]:842
+con: to produce:902 >= total:1000
+Consumed 841 by worker 1
+cons buf[39]:841
+con: to produce:902 >= total:1000
+Consumed 840 by worker 1
+cons buf[38]:840
+con: to produce:902 >= total:1000
+Consumed 839 by worker 1
+cons buf[37]:839
+con: to produce:902 >= total:1000
+Consumed 838 by worker 1
+cons buf[36]:838
+con: to produce:902 >= total:1000
+Consumed 837 by worker 1
+cons buf[35]:837
+con: to produce:902 >= total:1000
+Consumed 836 by worker 1
+cons buf[34]:836
+con: to produce:902 >= total:1000
+Consumed 835 by worker 1
+cons buf[33]:835
+con: to produce:902 >= total:1000
+Consumed 834 by worker 1
+cons buf[32]:834
+con: to produce:902 >= total:1000
+Consumed 833 by worker 1
+cons buf[31]:833
+con: to produce:902 >= total:1000
+Consumed 832 by worker 1
+cons buf[30]:832
+con: to produce:902 >= total:1000
+Consumed 831 by worker 1
+cons buf[29]:831
+con: to produce:902 >= total:1000
+Consumed 830 by worker 1
+cons buf[28]:830
+con: to produce:902 >= total:1000
+Consumed 829 by worker 1
+cons buf[27]:829
+con: to produce:902 >= total:1000
+Consumed 828 by worker 1
+cons buf[26]:828
+con: to produce:902 >= total:1000
+Consumed 827 by worker 1
+cons buf[25]:827
+con: to produce:902 >= total:1000
+Consumed 826 by worker 1
+cons buf[24]:826
+con: to produce:902 >= total:1000
+Consumed 825 by worker 1
+cons buf[23]:825
+con: to produce:902 >= total:1000
+Consumed 824 by worker 1
+cons buf[22]:824
+con: to produce:902 >= total:1000
+Consumed 823 by worker 1
+cons buf[21]:823
+con: to produce:902 >= total:1000
+Consumed 822 by worker 1
+cons buf[20]:822
+con: to produce:902 >= total:1000
+Consumed 821 by worker 1
+cons buf[19]:821
+con: to produce:902 >= total:1000
+Consumed 820 by worker 1
+cons buf[18]:820
+con: to produce:902 >= total:1000
+Consumed 819 by worker 1
+cons buf[17]:819
+con: to produce:902 >= total:1000
+Consumed 818 by worker 1
+cons buf[16]:818
+con: to produce:902 >= total:1000
+Consumed 817 by worker 1
+cons buf[15]:817
+con: to produce:902 >= total:1000
+Consumed 816 by worker 1
+cons buf[14]:816
+con: to produce:902 >= total:1000
+Consumed 815 by worker 1
+cons buf[13]:815
+con: to produce:902 >= total:1000
+Consumed 814 by worker 1
+cons buf[12]:814
+con: to produce:902 >= total:1000
+Consumed 813 by worker 1
+cons buf[11]:813
+con: to produce:902 >= total:1000
+Consumed 812 by worker 1
+cons buf[10]:812
+con: to produce:902 >= total:1000
+Consumed 811 by worker 1
+cons buf[9]:811
+con: to produce:902 >= total:1000
+Consumed 810 by worker 1
+cons buf[8]:810
+con: to produce:902 >= total:1000
+Consumed 809 by worker 1
+cons buf[7]:809
+con: to produce:902 >= total:1000
+Consumed 808 by worker 1
+cons buf[6]:808
+con: to produce:902 >= total:1000
+Consumed 807 by worker 1
+cons buf[5]:807
+con: to produce:902 >= total:1000
+Consumed 806 by worker 1
+cons buf[4]:806
+con: to produce:902 >= total:1000
+Consumed 805 by worker 1
+cons buf[3]:805
+con: to produce:902 >= total:1000
+Consumed 804 by worker 1
+cons buf[2]:804
+con: to produce:902 >= total:1000
+Consumed 803 by worker 1
+cons buf[1]:803
+con: to produce:902 >= total:1000
+Consumed 802 by worker 1
+cons buf[0]:802
+con: to produce:902 >= total:1000
+consume:wait! empty
+produce: wake--
+Produced 902 by master 5
+prod buf[1]:-1
+Produced 903 by master 5
+prod buf[2]:-1
+Produced 904 by master 5
+prod buf[3]:-1
+Produced 905 by master 5
+prod buf[4]:-1
+Produced 906 by master 5
+prod buf[5]:-1
+Produced 907 by master 5
+prod buf[6]:-1
+Produced 908 by master 5
+prod buf[7]:-1
+Produced 909 by master 5
+prod buf[8]:-1
+Produced 910 by master 5
+prod buf[9]:-1
+Produced 911 by master 5
+prod buf[10]:-1
+Produced 912 by master 5
+prod buf[11]:-1
+Produced 913 by master 5
+prod buf[12]:-1
+Produced 914 by master 5
+prod buf[13]:-1
+Produced 915 by master 5
+prod buf[14]:-1
+Produced 916 by master 5
+prod buf[15]:-1
+Produced 917 by master 5
+prod buf[16]:-1
+Produced 918 by master 5
+prod buf[17]:-1
+Produced 919 by master 5
+prod buf[18]:-1
+Produced 920 by master 5
+prod buf[19]:-1
+Produced 921 by master 5
+prod buf[20]:-1
+Produced 922 by master 5
+prod buf[21]:-1
+Produced 923 by master 5
+prod buf[22]:-1
+Produced 924 by master 5
+prod buf[23]:-1
+Produced 925 by master 5
+prod buf[24]:-1
+Produced 926 by master 5
+prod buf[25]:-1
+Produced 927 by master 5
+prod buf[26]:-1
+Produced 928 by master 5
+prod buf[27]:-1
+Produced 929 by master 5
+prod buf[28]:-1
+Produced 930 by master 5
+prod buf[29]:-1
+Produced 931 by master 5
+prod buf[30]:-1
+Produced 932 by master 5
+prod buf[31]:-1
+Produced 933 by master 5
+prod buf[32]:-1
+Produced 934 by master 5
+prod buf[33]:-1
+Produced 935 by master 5
+prod buf[34]:-1
+Produced 936 by master 5
+prod buf[35]:-1
+Produced 937 by master 5
+prod buf[36]:-1
+Produced 938 by master 5
+prod buf[37]:-1
+Produced 939 by master 5
+prod buf[38]:-1
+Produced 940 by master 5
+prod buf[39]:-1
+Produced 941 by master 5
+prod buf[40]:-1
+Produced 942 by master 5
+prod buf[41]:-1
+Produced 943 by master 5
+prod buf[42]:-1
+Produced 944 by master 5
+prod buf[43]:-1
+Produced 945 by master 5
+prod buf[44]:-1
+Produced 946 by master 5
+prod buf[45]:-1
+Produced 947 by master 5
+prod buf[46]:-1
+Produced 948 by master 5
+prod buf[47]:-1
+Produced 949 by master 5
+prod buf[48]:-1
+Produced 950 by master 5
+prod buf[49]:-1
+Produced 951 by master 5
+prod buf[50]:-1
+Produced 952 by master 5
+prod buf[51]:-1
+Produced 953 by master 5
+prod buf[52]:-1
+Produced 954 by master 5
+prod buf[53]:-1
+Produced 955 by master 5
+prod buf[54]:-1
+Produced 956 by master 5
+prod buf[55]:-1
+Produced 957 by master 5
+prod buf[56]:-1
+Produced 958 by master 5
+prod buf[57]:-1
+Produced 959 by master 5
+prod buf[58]:-1
+Produced 960 by master 5
+prod buf[59]:-1
+Produced 961 by master 5
+prod buf[60]:-1
+Produced 962 by master 5
+prod buf[61]:-1
+Produced 963 by master 5
+prod buf[62]:-1
+Produced 964 by master 5
+prod buf[63]:-1
+Produced 965 by master 5
+prod buf[64]:-1
+Produced 966 by master 5
+prod buf[65]:-1
+Produced 967 by master 5
+prod buf[66]:-1
+Produced 968 by master 5
+prod buf[67]:-1
+Produced 969 by master 5
+prod buf[68]:-1
+Produced 970 by master 5
+prod buf[69]:-1
+Produced 971 by master 5
+prod buf[70]:-1
+Produced 972 by master 5
+prod buf[71]:-1
+Produced 973 by master 5
+prod buf[72]:-1
+Produced 974 by master 5
+prod buf[73]:-1
+Produced 975 by master 5
+prod buf[74]:-1
+Produced 976 by master 5
+prod buf[75]:-1
+Produced 977 by master 5
+prod buf[76]:-1
+Produced 978 by master 5
+prod buf[77]:-1
+Produced 979 by master 5
+prod buf[78]:-1
+Produced 980 by master 5
+prod buf[79]:-1
+Produced 981 by master 5
+prod buf[80]:-1
+Produced 982 by master 5
+prod buf[81]:-1
+Produced 983 by master 5
+prod buf[82]:-1
+Produced 984 by master 5
+prod buf[83]:-1
+Produced 985 by master 5
+prod buf[84]:-1
+Produced 986 by master 5
+prod buf[85]:-1
+Produced 987 by master 5
+prod buf[86]:-1
+Produced 988 by master 5
+prod buf[87]:-1
+Produced 989 by master 5
+prod buf[88]:-1
+Produced 990 by master 5
+prod buf[89]:-1
+Produced 991 by master 5
+prod buf[90]:-1
+Produced 992 by master 5
+prod buf[91]:-1
+Produced 993 by master 5
+prod buf[92]:-1
+Produced 994 by master 5
+prod buf[93]:-1
+Produced 995 by master 5
+prod buf[94]:-1
+Produced 996 by master 5
+prod buf[95]:-1
+Produced 997 by master 5
+prod buf[96]:-1
+Produced 998 by master 5
+prod buf[97]:-1
+Produced 999 by master 5
+prod buf[98]:-1
+pro: to produce:1000 >= total:1000
+produce: wake--
+pro: to produce:1000 >= total:1000
+produce: wake--
+pro: to produce:1000 >= total:1000
 producer got lock
+pro: to produce:1000 >= total:1000
+consume:wake--.
+zai con currbuf:98  buf:-1
+Consumed 999 by worker 1
+cons buf[97]:999
+con: to produce:1000 >= total:1000
+Consumed 998 by worker 1
+cons buf[96]:998
+Consumed 997 by worker 1
+cons buf[95]:997
+con: to produce:1000 >= total:1000
+Consumed 996 by worker 1
+cons buf[94]:996
+Consumed 995 by worker 1
+cons buf[93]:995
+con: to produce:1000 >= total:1000
+Consumed 994 by worker 1
+cons buf[92]:994
+Consumed 993 by worker 1
+cons buf[91]:993
+con: to produce:1000 >= total:1000
+Consumed 992 by worker 1
+cons buf[90]:992
+Consumed 991 by worker 1
+cons buf[89]:991
+con: to produce:1000 >= total:1000
+Consumed 990 by worker 1
+cons buf[88]:990
+Consumed 989 by worker 1
+cons buf[87]:989
+con: to produce:1000 >= total:1000
+Consumed 988 by worker 1
+cons buf[86]:988
+Consumed 987 by worker 1
+cons buf[85]:987
+con: to produce:1000 >= total:1000
+Consumed 986 by worker 1
+cons buf[84]:986
+Consumed 985 by worker 1
+cons buf[83]:985
+con: to produce:1000 >= total:1000
+Consumed 984 by worker 1
+cons buf[82]:984
+Consumed 983 by worker 1
+cons buf[81]:983
+con: to produce:1000 >= total:1000
+Consumed 982 by worker 1
+cons buf[80]:982
+Consumed 981 by worker 1
+cons buf[79]:981
+con: to produce:1000 >= total:1000
+Consumed 980 by worker 1
+cons buf[78]:980
+Consumed 979 by worker 1
+cons buf[77]:979
+con: to produce:1000 >= total:1000
+Consumed 978 by worker 1
+cons buf[76]:978
+Consumed 977 by worker 1
+cons buf[75]:977
+con: to produce:1000 >= total:1000
+Consumed 976 by worker 1
+cons buf[74]:976
+Consumed 975 by worker 1
+cons buf[73]:975
+con: to produce:1000 >= total:1000
+Consumed 974 by worker 1
+cons buf[72]:974
+Consumed 973 by worker 1
+cons buf[71]:973
+con: to produce:1000 >= total:1000
+Consumed 972 by worker 1
+cons buf[70]:972
+Consumed 971 by worker 1
+cons buf[69]:971
+con: to produce:1000 >= total:1000
+Consumed 970 by worker 1
+cons buf[68]:970
+Consumed 969 by worker 1
+cons buf[67]:969
+con: to produce:1000 >= total:1000
+Consumed 968 by worker 1
+cons buf[66]:968
+Consumed 967 by worker 1
+cons buf[65]:967
+con: to produce:1000 >= total:1000
+Consumed 966 by worker 1
+cons buf[64]:966
+Consumed 965 by worker 1
+cons buf[63]:965
+con: to produce:1000 >= total:1000
+Consumed 964 by worker 1
+cons buf[62]:964
+Consumed 963 by worker 1
+cons buf[61]:963
+con: to produce:1000 >= total:1000
+Consumed 962 by worker 1
+cons buf[60]:962
+Consumed 961 by worker 1
+cons buf[59]:961
+con: to produce:1000 >= total:1000
+Consumed 960 by worker 1
+cons buf[58]:960
+Consumed 959 by worker 1
+cons buf[57]:959
+con: to produce:1000 >= total:1000
+Consumed 958 by worker 1
+cons buf[56]:958
+Consumed 957 by worker 1
+cons buf[55]:957
+con: to produce:1000 >= total:1000
+Consumed 956 by worker 1
+cons buf[54]:956
+Consumed 955 by worker 1
+cons buf[53]:955
+con: to produce:1000 >= total:1000
+Consumed 954 by worker 1
+cons buf[52]:954
+Consumed 953 by worker 1
+cons buf[51]:953
+con: to produce:1000 >= total:1000
+Consumed 952 by worker 1
+cons buf[50]:952
+Consumed 951 by worker 1
+cons buf[49]:951
+con: to produce:1000 >= total:1000
+Consumed 950 by worker 1
+cons buf[48]:950
+Consumed 949 by worker 1
+cons buf[47]:949
+con: to produce:1000 >= total:1000
+Consumed 948 by worker 1
+cons buf[46]:948
+Consumed 947 by worker 1
+cons buf[45]:947
+con: to produce:1000 >= total:1000
+Consumed 946 by worker 1
+cons buf[44]:946
+Consumed 945 by worker 1
+cons buf[43]:945
+con: to produce:1000 >= total:1000
+Consumed 944 by worker 1
+cons buf[42]:944
+Consumed 943 by worker 1
+cons buf[41]:943
+con: to produce:1000 >= total:1000
+Consumed 942 by worker 1
+cons buf[40]:942
+Consumed 941 by worker 1
+cons buf[39]:941
+con: to produce:1000 >= total:1000
+Consumed 940 by worker 1
+cons buf[38]:940
+Consumed 939 by worker 1
+cons buf[37]:939
+con: to produce:1000 >= total:1000
+Consumed 938 by worker 1
+cons buf[36]:938
+Consumed 937 by worker 1
+cons buf[35]:937
+con: to produce:1000 >= total:1000
+Consumed 936 by worker 1
+cons buf[34]:936
+Consumed 935 by worker 1
+cons buf[33]:935
+con: to produce:1000 >= total:1000
+Consumed 934 by worker 1
+cons buf[32]:934
+Consumed 933 by worker 1
+cons buf[31]:933
+con: to produce:1000 >= total:1000
+Consumed 932 by worker 1
+cons buf[30]:932
+Consumed 931 by worker 1
+cons buf[29]:931
+con: to produce:1000 >= total:1000
+Consumed 930 by worker 1
+cons buf[28]:930
+Consumed 929 by worker 1
+cons buf[27]:929
+con: to produce:1000 >= total:1000
+Consumed 928 by worker 1
+cons buf[26]:928
+Consumed 927 by worker 1
+cons buf[25]:927
+con: to produce:1000 >= total:1000
+Consumed 926 by worker 1
+cons buf[24]:926
+Consumed 925 by worker 1
+cons buf[23]:925
+con: to produce:1000 >= total:1000
+Consumed 924 by worker 1
+cons buf[22]:924
+Consumed 923 by worker 1
+cons buf[21]:923
+con: to produce:1000 >= total:1000
+Consumed 922 by worker 1
+cons buf[20]:922
+Consumed 921 by worker 1
+cons buf[19]:921
+con: to produce:1000 >= total:1000
+Consumed 920 by worker 1
+cons buf[18]:920
+Consumed 919 by worker 1
+cons buf[17]:919
+con: to produce:1000 >= total:1000
+Consumed 918 by worker 1
+cons buf[16]:918
+Consumed 917 by worker 1
+cons buf[15]:917
+con: to produce:1000 >= total:1000
+Consumed 916 by worker 1
+cons buf[14]:916
+Consumed 915 by worker 1
+cons buf[13]:915
+con: to produce:1000 >= total:1000
+Consumed 914 by worker 1
+cons buf[12]:914
+Consumed 913 by worker 1
+cons buf[11]:913
+con: to produce:1000 >= total:1000
+Consumed 912 by worker 1
+cons buf[10]:912
+Consumed 911 by worker 1
+cons buf[9]:911
+con: to produce:1000 >= total:1000
+Consumed 910 by worker 1
+cons buf[8]:910
+Consumed 909 by worker 1
+cons buf[7]:909
+con: to produce:1000 >= total:1000
+Consumed 908 by worker 1
+cons buf[6]:908
+Consumed 907 by worker 1
+cons buf[5]:907
+con: to produce:1000 >= total:1000
+Consumed 906 by worker 1
+cons buf[4]:906
+Consumed 905 by worker 1
+cons buf[3]:905
+con: to produce:1000 >= total:1000
+Consumed 904 by worker 1
+cons buf[2]:904
+Consumed 903 by worker 1
+cons buf[1]:903
+con: to produce:1000 >= total:1000
+Consumed 902 by worker 1
+cons buf[0]:902
 producer got lock
+pro: to produce:1000 >= total:1000
 producer got lock
+pro: to produce:1000 >= total:1000
 master 0 joined
 master 1 joined
 master 2 joined
 master 3 joined
 master 4 joined
 master 5 joined
-master 6 joined
 worker 0 joined
+worker 1 joined
+worker 2 joined
+worker 3 joined

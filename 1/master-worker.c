@@ -42,35 +42,23 @@ for(int i=1;i<=MAX;i++)
 
     while(curr_buf_size==max_buf_size){
       printf("wait! maxbuf\n");
-      //printf("zai pro currbuf:%d\n",curr_buf_size);
-
-   /*   if(num_masters!=1 && check==1){
-        printf("pro waits from now\n");
-        pthread_cond_wait(&cond_pro, &mutex1);
-      }
-
-      if(!check){
-          check=1;
-          printf("check_pro waits from now\n");
-          pthread_cond_wait(&cond_pro, &mutex1);
-      }
-        if(buffer[curr_buf_size]!=-1)*/
-         pthread_cond_wait(&cond_pro, &mutex1);
+      pthread_cond_wait(&cond_pro, &mutex1);
 
       printf("produce: wake--\n");
       }
       
-          if(item_to_produce >= total_items) {//overflow
+   if(item_to_produce >= total_items ) {//overflow
+   printf("pro: to produce:%d >= total:%d\n",item_to_produce,total_items);
       pthread_mutex_unlock(&mutex1);
     break;
     }
-    
+   
       buffer[curr_buf_size++] = item_to_produce;
       print_produced(item_to_produce, thread_id);
+       printf("prod buf[%d]:%d\n",curr_buf_size,buffer[curr_buf_size]);
       item_to_produce++;
-    
+      
 
-  //if(num_masters!=1)
     pthread_cond_broadcast(&cond_con);
 
     pthread_mutex_unlock(&mutex1);
@@ -92,13 +80,18 @@ for(int i=1;i<=MAX;i++)
 {     
 
     if(item_to_produce >= total_items) {//overflow(time to finish...)
-    //printf("11 numworkers:%d   curbuf:%d\n",tmp_workers,curr_buf_size);
-    
-      if(curr_buf_size==tmp_workers-1){//finish conumse leftovers 
+    if(curr_buf_size>0){//finish conumse leftovers 
+      --curr_buf_size;
+  print_consumed(buffer[curr_buf_size], thread_id);
+  printf("cons buf[%d]:%d\n",curr_buf_size,buffer[curr_buf_size]);
+  buffer[curr_buf_size]=-1;
+    }
+    /*  else if(curr_buf_size==tmp_workers-1){//finish conumse leftovers 
+      printf("con overflow. tmp wor:%d\n",tmp_workers);
         pthread_mutex_unlock(&mutex2);
         tmp_workers--;
     break;
-      }
+      }*/
     if(curr_buf_size<=0){
       pthread_mutex_unlock(&mutex2);
     break;
@@ -110,21 +103,14 @@ for(int i=1;i<=MAX;i++)
     }
   while(curr_buf_size == 0){
     printf("consume:wait! empty\n");
-    
- /* if(num_masters!=1 && check==1){
-    printf("consumer waits from now\n");
     pthread_cond_wait(&cond_con, &mutex2);
-  } 
-    if(!check){
-      check=1;
-      printf("check_consumer waits from now\n");*/
-        pthread_cond_wait(&cond_con, &mutex2);
-  //}
-  
+   
     printf("consume:wake--.\n");
     printf("zai con currbuf:%d  buf:%d\n",curr_buf_size,buffer[curr_buf_size]);
-    if(curr_buf_size==0)// && buffer[curr_buf_size]!=-1)
+    if(curr_buf_size==0){// && buffer[curr_buf_size]!=-1)
+    printf("buf==0 breaks\n");
      break;
+    }
   }
   if(curr_buf_size==0 && buffer[curr_buf_size]==-1){
        pthread_mutex_unlock(&mutex2);
@@ -132,9 +118,10 @@ for(int i=1;i<=MAX;i++)
      }
   --curr_buf_size;
   print_consumed(buffer[curr_buf_size], thread_id);
+  printf("cons buf[%d]:%d\n",curr_buf_size,buffer[curr_buf_size]);
   buffer[curr_buf_size]=-1;
-
-//if(num_masters!=1)
+printf("con: to produce:%d >= total:%d\n",item_to_produce,total_items);
+ 
 pthread_cond_broadcast(&cond_pro);
 
   pthread_mutex_unlock(&mutex2);
