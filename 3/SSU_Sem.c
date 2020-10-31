@@ -12,16 +12,12 @@ void SSU_Sem_init(SSU_Sem *s, int value) {//value=first cond value
     pthread_mutex_init(&s->mutex, NULL);
     status=pthread_cond_init(&s->mycond, NULL);
     s->counter=value;
-   // s->front=NULL;
-    //s->rear=NULL;
+
     if(status!=0){
     /*if unable to create write CV, destroy read CV and mutex*/
     pthread_cond_destroy(&s->mycond);
     pthread_mutex_destroy(&s->mutex);
     }
-   /* s->prevNode=NULL;
-    s->nextNode=NULL;
-    s->last=NULL;*/
 
     
 }
